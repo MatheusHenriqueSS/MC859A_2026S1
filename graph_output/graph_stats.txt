@@ -1,0 +1,62 @@
+============================================================
+MusicBrainz Sample/Remix Network — track-level (F1)
+Source: MusicBrainz core dump 20260425-002540 (CC0)
+============================================================
+
+Vertices:                       30,691
+Edges:                          22,706
+Average in-degree:              0.7398
+Average out-degree:             0.7398
+Density:                        2.410642e-05
+
+Edge types:
+  sample: 22,706
+
+Strongly connected components:  30,689
+  Largest SCC:                  2 nodes
+Weakly connected components:    8,900
+  Largest WCC:                  6,931 nodes (22.6%)
+
+Top 20 by weighted in-strength:
+     131 | Lyn Collins — Think (About It)
+      57 | The Honey Drippers — Impeach the President
+      49 | The Winstons — Amen, Brother
+      30 | Erik Scheele — GameBro (original 1990 mix)
+      21 | James Brown — Funky Drummer, Part 1
+      21 | Isaac Hayes — Walk on By
+      20 | Kool & the Gang — Summer Madness
+      20 | Public Enemy — Bring the Noise
+      19 | Ohio Players — Funky Worm
+      19 | Scott Walker — Farmer in the City
+      19 | Smash Mouth — All Star
+      18 | Даниела Найденова — Първият ден на пролетта
+      17 | Даниела Найденова — Слънчеви лъчи
+      17 | Даниела Найденова — Слънчеви лъчи
+      17 | Doug E. Fresh — La Di‐Da‐Di
+      17 | Daft Punk — Harder, Better, Faster, Stronger
+      17 | Audio Two — Top Billin’
+      16 | James Brown — The Payback
+      16 | David Mandelberg — Bonus! All 37 Samples From Exponential Vuvuzelas, for Your Listening Agony
+      16 | Melvin Bliss — Synthetic Substitution
+
+Top 20 by weighted out-strength:
+      83 | Ninja McTits — All Songs On Fellatio, You Say Played At Once
+      66 | Ninja McTits — All Songs On These Songs Are Longer Than Your Relationships Played At Once
+      39 | Girl Talk — Down for the Count
+      38 | Girl Talk — This Is the Remix
+      37 | PaulGMashups — positions (the megamix)
+      37 | SakiZ — osu!favourites
+      33 | duuzu — Since I’m Australian
+      31 | Girl Talk — Jump on Stage
+      31 | Ninja McTits — All Songs On Apasteloi Yamink Played At Once
+      30 | The Beatle — The White Album in a second
+      30 | Simon Harris — Here Comes That Sound
+      29 | Girl Talk — That’s Right
+      29 | Girl Talk — Get It Get It
+      29 | Girl Talk — Let It Out
+      29 | Ninja McTits — Every Song On Not-a-virus:porn-dialer.win32.goindirect.a Played At Once
+      28 | Girl Talk — Steady Shock
+      27 | Milkfish — TRIX MIX [[140CitiesPerMinute]] #CITYb2bCITY
+      27 | glance — Epic Score
+      27 | duuzu — Blow My Speakers Up
+      26 | Ninja McTits — All Songs On Used Tampon Tempura Played At Once

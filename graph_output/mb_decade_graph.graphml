@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="types" attr.type="string" />
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="decade" attr.type="long" />
+  <graph edgedefault="directed">
+    <node id="1990s">
+      <data key="d0">1990</data>
+    </node>
+    <node id="1970s">
+      <data key="d0">1970</data>
+    </node>
+    <node id="2000s">
+      <data key="d0">2000</data>
+    </node>
+    <node id="1950s">
+      <data key="d0">1950</data>
+    </node>
+    <node id="1980s">
+      <data key="d0">1980</data>
+    </node>
+    <node id="1960s">
+      <data key="d0">1960</data>
+    </node>
+    <node id="2020s">
+      <data key="d0">2020</data>
+    </node>
+    <node id="2010s">
+      <data key="d0">2010</data>
+    </node>
+    <node id="1900s">
+      <data key="d0">1900</data>
+    </node>
+    <node id="1940s">
+      <data key="d0">1940</data>
+    </node>
+    <node id="1920s">
+      <data key="d0">1920</data>
+    </node>
+    <node id="1930s">
+      <data key="d0">1930</data>
+    </node>
+    <node id="1910s">
+      <data key="d0">1910</data>
+    </node>
+    <edge source="1990s" target="1970s">
+      <data key="d1">2177</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1980s">
+      <data key="d1">1508</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1990s">
+      <data key="d1">1237</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1950s">
+      <data key="d1">39</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1960s">
+      <data key="d1">619</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="2010s">
+      <data key="d1">53</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="2000s">
+      <data key="d1">119</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1900s">
+      <data key="d1">2</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1940s">
+      <data key="d1">7</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="2020s">
+      <data key="d1">5</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1930s">
+      <data key="d1">3</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1990s" target="1920s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1970s" target="1980s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1970s" target="1970s">
+      <data key="d1">13</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1970s" target="2000s">
+      <data key="d1">2</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1970s" target="2010s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1970s" target="1960s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1970s" target="2020s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="2000s">
+      <data key="d1">1392</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1950s">
+      <data key="d1">35</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1970s">
+      <data key="d1">1436</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1980s">
+      <data key="d1">1016</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1990s">
+      <data key="d1">1022</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1960s">
+      <data key="d1">435</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="2010s">
+      <data key="d1">76</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="2020s">
+      <data key="d1">11</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1940s">
+      <data key="d1">3</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1900s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1930s">
+      <data key="d1">7</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1920s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1980s" target="1970s">
+      <data key="d1">306</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1980s" target="1960s">
+      <data key="d1">50</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1980s" target="1990s">
+      <data key="d1">22</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1980s" target="1980s">
+      <data key="d1">285</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1980s" target="1950s">
+      <data key="d1">7</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1980s" target="2000s">
+      <data key="d1">18</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1980s" target="2010s">
+      <data key="d1">11</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1960s" target="1960s">
+      <data key="d1">2</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1960s" target="1970s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1970s">
+      <data key="d1">321</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="2010s">
+      <data key="d1">1249</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1990s">
+      <data key="d1">523</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="2020s">
+      <data key="d1">958</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="2000s">
+      <data key="d1">829</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1980s">
+      <data key="d1">262</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1960s">
+      <data key="d1">117</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1950s">
+      <data key="d1">15</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1940s">
+      <data key="d1">6</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1900s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2020s" target="1930s">
+      <data key="d1">2</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1990s">
+      <data key="d1">936</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="2000s">
+      <data key="d1">1373</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1960s">
+      <data key="d1">296</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="2010s">
+      <data key="d1">2139</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1970s">
+      <data key="d1">711</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1980s">
+      <data key="d1">698</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1950s">
+      <data key="d1">28</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1900s">
+      <data key="d1">2</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1920s">
+      <data key="d1">12</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="2020s">
+      <data key="d1">34</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1940s">
+      <data key="d1">2</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1910s">
+      <data key="d1">8</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="2010s" target="1930s">
+      <data key="d1">4</data>
+      <data key="d2">sample</data>
+    </edge>
+  </graph>
+</graphml>

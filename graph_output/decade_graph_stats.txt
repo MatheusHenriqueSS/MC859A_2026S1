@@ -1,0 +1,42 @@
+============================================================
+MusicBrainz Sample/Remix Network — decade-level (F1)
+Source: MusicBrainz core dump 20260425-002540 (CC0)
+============================================================
+
+Vertices:                       13
+Edges:                          63
+Average in-degree:              4.8462
+Average out-degree:             4.8462
+Density:                        4.038462e-01
+
+Edge types:
+  unknown: 63
+
+Strongly connected components:  7
+  Largest SCC:                  7 nodes
+Weakly connected components:    1
+  Largest WCC:                  13 nodes (100.0%)
+
+Top 20 by weighted in-strength:
+    4965 | 1970s
+    3770 | 1980s
+    3740 | 1990s
+    3733 | 2000s
+    3529 | 2010s
+    1520 | 1960s
+    1009 | 2020s
+     124 | 1950s
+      18 | 1940s
+      16 | 1930s
+      14 | 1920s
+       8 | 1910s
+       6 | 1900s
+
+Top 20 by weighted out-strength:
+    6243 | 2010s
+    5770 | 1990s
+    5435 | 2000s
+    4283 | 2020s
+     699 | 1980s
+      19 | 1970s
+       3 | 1960s

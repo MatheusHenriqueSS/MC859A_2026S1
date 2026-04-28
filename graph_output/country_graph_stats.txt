@@ -1,0 +1,62 @@
+============================================================
+MusicBrainz Sample/Remix Network — country-level (F1)
+Source: MusicBrainz core dump 20260425-002540 (CC0)
+============================================================
+
+Vertices:                       105
+Edges:                          570
+Average in-degree:              5.4286
+Average out-degree:             5.4286
+Density:                        5.219780e-02
+
+Edge types:
+  unknown: 570
+
+Strongly connected components:  49
+  Largest SCC:                  57 nodes
+Weakly connected components:    4
+  Largest WCC:                  100 nodes (95.2%)
+
+Top 20 by weighted in-strength:
+   10267 | United States
+    2029 | United Kingdom
+     411 | Japan
+     287 | France
+     282 | Germany
+     216 | Canada
+     187 | Jamaica
+     164 | Italy
+     125 | Australia
+     114 | Bulgaria
+      96 | Brazil
+      83 | Sweden
+      73 | Netherlands
+      57 | India
+      54 | South Korea
+      54 | Spain
+      52 | Ireland
+      45 | Belgium
+      45 | Austria
+      34 | Greece
+
+Top 20 by weighted out-strength:
+    9179 | United States
+    2455 | United Kingdom
+     442 | France
+     399 | Canada
+     396 | Japan
+     364 | Germany
+     201 | Australia
+     172 | Netherlands
+     129 | Spain
+     112 | Italy
+     104 | Bulgaria
+     100 | Sweden
+      99 | Brazil
+      93 | South Korea
+      71 | Latvia
+      68 | Estonia
+      67 | Malta
+      57 | Austria
+      52 | Russia
+      50 | Norway
