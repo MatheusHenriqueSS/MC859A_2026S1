@@ -4,39 +4,47 @@ Source: MusicBrainz core dump 20260425-002540 (CC0)
 ============================================================
 
 Vertices:                       13
-Edges:                          63
-Average in-degree:              4.8462
-Average out-degree:             4.8462
-Density:                        4.038462e-01
+Edges:                          88
+Average in-degree:              6.7692
+Average out-degree:             6.7692
+Density:                        5.641026e-01
 
 Edge types:
-  unknown: 63
+  edit: 80
+  remix: 65
+  sample: 63
+  dj_mix: 41
+  mashup: 38
 
-Strongly connected components:  7
-  Largest SCC:                  7 nodes
+Strongly connected components:  4
+  Largest SCC:                  10 nodes
 Weakly connected components:    1
   Largest WCC:                  13 nodes (100.0%)
 
 Top 20 by weighted in-strength:
-    4965 | 1970s
-    3770 | 1980s
-    3740 | 1990s
-    3733 | 2000s
-    3529 | 2010s
-    1520 | 1960s
-    1009 | 2020s
-     124 | 1950s
-      18 | 1940s
-      16 | 1930s
-      14 | 1920s
-       8 | 1910s
-       6 | 1900s
+   79038 | 2010s
+   46061 | 2000s
+   40178 | 2020s
+   27654 | 1990s
+   13077 | 1980s
+    9021 | 1970s
+    3521 | 1960s
+     479 | 1950s
+      51 | 1930s
+      50 | 1920s
+      33 | 1940s
+       9 | 1910s
+       7 | 1900s
 
 Top 20 by weighted out-strength:
-    6243 | 2010s
-    5770 | 1990s
-    5435 | 2000s
-    4283 | 2020s
-     699 | 1980s
-      19 | 1970s
-       3 | 1960s
+   87404 | 2010s
+   62130 | 2020s
+   42287 | 2000s
+   20753 | 1990s
+    4660 | 1980s
+    1060 | 1970s
+     779 | 1960s
+     102 | 1950s
+       2 | 1930s
+       1 | 1940s
+       1 | 1920s

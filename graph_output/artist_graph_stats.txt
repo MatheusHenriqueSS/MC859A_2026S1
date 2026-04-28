@@ -3,60 +3,64 @@ MusicBrainz Sample/Remix Network — artist-level (F1)
 Source: MusicBrainz core dump 20260425-002540 (CC0)
 ============================================================
 
-Vertices:                       10,825
-Edges:                          16,494
-Average in-degree:              1.5237
-Average out-degree:             1.5237
-Density:                        1.407701e-04
+Vertices:                       47,286
+Edges:                          41,014
+Average in-degree:              0.8674
+Average out-degree:             0.8674
+Density:                        1.834324e-05
 
 Edge types:
-  unknown: 16,494
+  sample: 16,494
+  mashup: 10,921
+  dj_mix: 6,815
+  remix: 6,244
+  edit: 1,049
 
-Strongly connected components:  10,713
-  Largest SCC:                  110 nodes
-Weakly connected components:    975
-  Largest WCC:                  8,736 nodes (80.7%)
+Strongly connected components:  46,789
+  Largest SCC:                  404 nodes
+Weakly connected components:    25,014
+  Largest WCC:                  19,348 nodes (40.9%)
 
 Top 20 by weighted in-strength:
-     185 | James Brown
-     141 | Lyn Collins
-     113 | Daft Punk
-     110 | The Beatles
-      98 | Isaac Hayes
-      88 | Public Enemy
-      80 | Kool & the Gang
-      71 | Beastie Boys
-      69 | JAY‐Z
-      66 | Michael Jackson
-      63 | Run‐D.M.C.
-      60 | The Honey Drippers
-      59 | Eric B. & Rakim
-      57 | Ohio Players
-      57 | Marvin Gaye
-      53 | Ye
-      50 | The Winstons
-      50 | Madonna
-      49 | Curtis Mayfield
-      48 | The Notorious B.I.G.
+     360 | Daft Punk
+     284 | The Beatles
+     255 | JAY‐Z
+     247 | PSY
+     226 | Lady Gaga
+     225 | Linkin Park
+     208 | Michael Jackson
+     203 | Beastie Boys
+     198 | James Brown
+     180 | Nine Inch Nails
+     179 | Ye
+     171 | Sir Arthur Conan Doyle
+     169 | Katy Perry
+     163 | Madonna
+     161 | Britney Spears
+     150 | Eminem
+     146 | Taylor Swift
+     143 | Rihanna
+     142 | Lyn Collins
+     141 | Justice
 
 Top 20 by weighted out-strength:
-     437 | Girl Talk
-     338 | leroy
-     245 | Karina Longworth
-     217 | De La Soul
-     215 | goreshit
-     203 | Professional Hairdresser
-     195 | Super Mash Bros.
-     178 | JAY‐Z
-     166 | Beastie Boys
-     160 | A Tribe Called Quest
-     159 | The Gates of Sleep
-     158 | Metal Fingers
-     157 | J. Cole
-     138 | Car Sofa
-     135 | 2Pac
-     124 | Beyoncé
-     121 | Ye
-     117 | KMD
-     115 | DJ Shadow
-     115 | [unknown]
+    1319 | SmadaLeinad
+    1315 | DJ Schmolli
+    1078 | Triple‐Q
+     905 | Various Artists
+     753 | [unknown]
+     463 | Psynwav
+     455 | Girl Talk
+     449 | Talk Hard Productions
+     403 | The Sheep Queen Experiment
+     367 | G3RSt
+     358 | nakinyko
+     352 | leroy
+     327 | DJ Nerd42
+     325 | E-603
+     318 | Chris Morris
+     306 | deadmau5
+     304 | DJ Earworm
+     291 | Death Cab for Yeezy
+     270 | Hahnstudios
+     258 | Robin Skouteris

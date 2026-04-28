@@ -3,60 +3,64 @@ MusicBrainz Sample/Remix Network — country-level (F1)
 Source: MusicBrainz core dump 20260425-002540 (CC0)
 ============================================================
 
-Vertices:                       105
-Edges:                          570
-Average in-degree:              5.4286
-Average out-degree:             5.4286
-Density:                        5.219780e-02
+Vertices:                       159
+Edges:                          1,003
+Average in-degree:              6.3082
+Average out-degree:             6.3082
+Density:                        3.992517e-02
 
 Edge types:
-  unknown: 570
+  sample: 570
+  remix: 477
+  mashup: 353
+  dj_mix: 324
+  edit: 217
 
-Strongly connected components:  49
-  Largest SCC:                  57 nodes
-Weakly connected components:    4
-  Largest WCC:                  100 nodes (95.2%)
+Strongly connected components:  88
+  Largest SCC:                  72 nodes
+Weakly connected components:    36
+  Largest WCC:                  124 nodes (78.0%)
 
 Top 20 by weighted in-strength:
-   10267 | United States
-    2029 | United Kingdom
-     411 | Japan
-     287 | France
-     282 | Germany
-     216 | Canada
-     187 | Jamaica
-     164 | Italy
-     125 | Australia
-     114 | Bulgaria
-      96 | Brazil
-      83 | Sweden
-      73 | Netherlands
-      57 | India
-      54 | South Korea
-      54 | Spain
-      52 | Ireland
-      45 | Belgium
-      45 | Austria
-      34 | Greece
+   50673 | United States
+   28600 | United Kingdom
+   14700 | Japan
+   10803 | Germany
+    5788 | France
+    4810 | Netherlands
+    4576 | Canada
+    4203 | Italy
+    3762 | Sweden
+    3424 | Australia
+    1847 | Russia
+    1599 | Belgium
+    1590 | Spain
+    1580 | Austria
+    1368 | South Korea
+    1062 | Norway
+    1036 | Israel
+     945 | Puerto Rico
+     906 | Denmark
+     873 | Brazil
 
 Top 20 by weighted out-strength:
-    9179 | United States
-    2455 | United Kingdom
-     442 | France
-     399 | Canada
-     396 | Japan
-     364 | Germany
-     201 | Australia
-     172 | Netherlands
-     129 | Spain
-     112 | Italy
-     104 | Bulgaria
-     100 | Sweden
-      99 | Brazil
-      93 | South Korea
-      71 | Latvia
-      68 | Estonia
-      67 | Malta
-      57 | Austria
-      52 | Russia
-      50 | Norway
+   46690 | United States
+   29032 | United Kingdom
+   14062 | Japan
+   10902 | Germany
+    6550 | France
+    5954 | Canada
+    5354 | Netherlands
+    4572 | Australia
+    4070 | Italy
+    3697 | Sweden
+    1891 | Russia
+    1698 | Spain
+    1628 | Belgium
+    1582 | Austria
+    1225 | South Korea
+    1069 | Norway
+    1054 | Israel
+     996 | Denmark
+     915 | Puerto Rico
+     914 | Brazil

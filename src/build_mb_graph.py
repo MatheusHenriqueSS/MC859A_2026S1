@@ -36,23 +36,23 @@ ARTIST_STATS_FILE = os.path.join(OUT_DIR, "artist_graph_stats.txt")
 DECADE_STATS_FILE = os.path.join(OUT_DIR, "decade_graph_stats.txt")
 COUNTRY_STATS_FILE = os.path.join(OUT_DIR, "country_graph_stats.txt")
 
-# Relationship-type names we keep. Verified against MB stats page (2026-04).
+# link_type.name values for entity_type0=entity_type1='recording'.
 KEEP_LINK_TYPES = (
     "samples material",
-    "is a remix of",
-    "is a mash-up of",
-    "is an edit of",
-    "is a DJ-mix of",
+    "remix",
+    "mashes up",
+    "edit",
+    "DJ-mix",
 )
 TYPE_SHORT = {
     "samples material": "sample",
-    "is a remix of": "remix",
-    "is a mash-up of": "mashup",
-    "is an edit of": "edit",
-    "is a DJ-mix of": "dj_mix",
+    "remix":            "remix",
+    "mashes up":        "mashup",
+    "edit":             "edit",
+    "DJ-mix":           "dj_mix",
 }
 
-TARGET_EDGES = 100_000
+TARGET_EDGES = 300_000
 
 
 # Column names for each TSV. Source: MusicBrainz schema (admin/sql/CreateTables.sql).
@@ -382,9 +382,8 @@ def df_to_graph(df) -> nx.DiGraph:
             existing_types = set(t for t in d.get("types", "").split(";") if t)
             existing_types.add(edge_type)
             d["types"] = ";".join(sorted(existing_types))
-            d["type"] = edge_type
         else:
-            G.add_edge(a, b, type=edge_type, types=edge_type, weight=1)
+            G.add_edge(a, b, types=edge_type, weight=1)
     print(f"  {G.number_of_nodes():,} nodes, {G.number_of_edges():,} edges")
     return G
 
@@ -416,7 +415,11 @@ def build_artist_graph(track_graph: nx.DiGraph) -> nx.DiGraph:
         key = (str(a), str(b))
         bucket = edge_acc.setdefault(key, {"weight": 0, "types": set()})
         bucket["weight"] += int(d.get("weight", 1))
-        bucket["types"].add(d.get("type", ""))
+        edge_types_str = d.get("types") or d.get("type") or ""
+        for t in str(edge_types_str).split(";"):
+            t = t.strip()
+            if t:
+                bucket["types"].add(t)
 
     for (a, b), bucket in edge_acc.items():
         H.add_edge(
@@ -587,7 +590,16 @@ def write_stats(G, sccs, wccs, path, label, *, top_field="artist"):
     m = G.number_of_edges()
     avg_in = sum(d for _, d in G.in_degree()) / n if n else 0.0
     avg_out = sum(d for _, d in G.out_degree()) / n if n else 0.0
-    edge_types = Counter(d.get("type", "unknown") for _, _, d in G.edges(data=True))
+    edge_types: Counter = Counter()
+    for _, _, d in G.edges(data=True):
+        types_str = d.get("types") or d.get("type") or ""
+        if not types_str:
+            edge_types["unknown"] += 1
+            continue
+        for t in str(types_str).split(";"):
+            t = t.strip()
+            if t:
+                edge_types[t] += 1
     largest_scc = max((len(c) for c in sccs), default=0)
     largest_wcc = max((len(c) for c in wccs), default=0)
 

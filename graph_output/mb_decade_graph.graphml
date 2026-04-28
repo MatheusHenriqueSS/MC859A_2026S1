@@ -7,293 +7,393 @@
     <node id="1990s">
       <data key="d0">1990</data>
     </node>
-    <node id="1970s">
-      <data key="d0">1970</data>
-    </node>
-    <node id="2000s">
-      <data key="d0">2000</data>
-    </node>
-    <node id="1950s">
-      <data key="d0">1950</data>
-    </node>
     <node id="1980s">
       <data key="d0">1980</data>
-    </node>
-    <node id="1960s">
-      <data key="d0">1960</data>
-    </node>
-    <node id="2020s">
-      <data key="d0">2020</data>
     </node>
     <node id="2010s">
       <data key="d0">2010</data>
     </node>
-    <node id="1900s">
-      <data key="d0">1900</data>
+    <node id="2000s">
+      <data key="d0">2000</data>
     </node>
-    <node id="1940s">
-      <data key="d0">1940</data>
+    <node id="1970s">
+      <data key="d0">1970</data>
     </node>
-    <node id="1920s">
-      <data key="d0">1920</data>
+    <node id="2020s">
+      <data key="d0">2020</data>
+    </node>
+    <node id="1960s">
+      <data key="d0">1960</data>
+    </node>
+    <node id="1950s">
+      <data key="d0">1950</data>
     </node>
     <node id="1930s">
       <data key="d0">1930</data>
     </node>
+    <node id="1940s">
+      <data key="d0">1940</data>
+    </node>
     <node id="1910s">
       <data key="d0">1910</data>
     </node>
-    <edge source="1990s" target="1970s">
-      <data key="d1">2177</data>
-      <data key="d2">sample</data>
+    <node id="1920s">
+      <data key="d0">1920</data>
+    </node>
+    <node id="1900s">
+      <data key="d0">1900</data>
+    </node>
+    <edge source="1990s" target="1990s">
+      <data key="d1">13094</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
     <edge source="1990s" target="1980s">
-      <data key="d1">1508</data>
-      <data key="d2">sample</data>
+      <data key="d1">3051</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
-    <edge source="1990s" target="1990s">
-      <data key="d1">1237</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1990s" target="1950s">
-      <data key="d1">39</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1990s" target="1960s">
-      <data key="d1">619</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1990s" target="2010s">
-      <data key="d1">53</data>
-      <data key="d2">sample</data>
+    <edge source="1990s" target="1970s">
+      <data key="d1">2669</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
     <edge source="1990s" target="2000s">
-      <data key="d1">119</data>
-      <data key="d2">sample</data>
+      <data key="d1">594</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="1990s" target="1960s">
+      <data key="d1">956</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
+    </edge>
+    <edge source="1990s" target="2010s">
+      <data key="d1">227</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="1990s" target="1950s">
+      <data key="d1">78</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
+    </edge>
+    <edge source="1990s" target="1940s">
+      <data key="d1">8</data>
+      <data key="d2">edit;sample</data>
+    </edge>
+    <edge source="1990s" target="2020s">
+      <data key="d1">68</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
+    </edge>
+    <edge source="1990s" target="1920s">
+      <data key="d1">3</data>
+      <data key="d2">edit;sample</data>
     </edge>
     <edge source="1990s" target="1900s">
       <data key="d1">2</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1990s" target="1940s">
-      <data key="d1">7</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1990s" target="2020s">
-      <data key="d1">5</data>
       <data key="d2">sample</data>
     </edge>
     <edge source="1990s" target="1930s">
       <data key="d1">3</data>
       <data key="d2">sample</data>
     </edge>
-    <edge source="1990s" target="1920s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1970s" target="1980s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1970s" target="1970s">
-      <data key="d1">13</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1970s" target="2000s">
-      <data key="d1">2</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1970s" target="2010s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1970s" target="1960s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1970s" target="2020s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="2000s">
-      <data key="d1">1392</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1950s">
-      <data key="d1">35</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1970s">
-      <data key="d1">1436</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1980s">
-      <data key="d1">1016</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1990s">
-      <data key="d1">1022</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1960s">
-      <data key="d1">435</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="2010s">
-      <data key="d1">76</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="2020s">
-      <data key="d1">11</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1940s">
-      <data key="d1">3</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1900s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1930s">
-      <data key="d1">7</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2000s" target="1920s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
     <edge source="1980s" target="1970s">
-      <data key="d1">306</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1980s" target="1960s">
-      <data key="d1">50</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1980s" target="1990s">
-      <data key="d1">22</data>
-      <data key="d2">sample</data>
+      <data key="d1">607</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
     </edge>
     <edge source="1980s" target="1980s">
-      <data key="d1">285</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1980s" target="1950s">
-      <data key="d1">7</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="1980s" target="2000s">
-      <data key="d1">18</data>
-      <data key="d2">sample</data>
+      <data key="d1">3217</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
     <edge source="1980s" target="2010s">
-      <data key="d1">11</data>
-      <data key="d2">sample</data>
+      <data key="d1">122</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
     </edge>
-    <edge source="1960s" target="1960s">
+    <edge source="1980s" target="1930s">
+      <data key="d1">25</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1980s" target="1990s">
+      <data key="d1">246</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="1980s" target="1960s">
+      <data key="d1">180</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
+    </edge>
+    <edge source="1980s" target="2000s">
+      <data key="d1">179</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="1980s" target="2020s">
+      <data key="d1">12</data>
+      <data key="d2">dj_mix;edit;remix</data>
+    </edge>
+    <edge source="1980s" target="1920s">
+      <data key="d1">27</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1980s" target="1940s">
       <data key="d1">2</data>
-      <data key="d2">sample</data>
+      <data key="d2">edit</data>
     </edge>
-    <edge source="1960s" target="1970s">
+    <edge source="1980s" target="1950s">
+      <data key="d1">42</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
+    </edge>
+    <edge source="1980s" target="1910s">
       <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1970s">
-      <data key="d1">321</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="2010s">
-      <data key="d1">1249</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1990s">
-      <data key="d1">523</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="2020s">
-      <data key="d1">958</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="2000s">
-      <data key="d1">829</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1980s">
-      <data key="d1">262</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1960s">
-      <data key="d1">117</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1950s">
-      <data key="d1">15</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1940s">
-      <data key="d1">6</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1900s">
-      <data key="d1">1</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2020s" target="1930s">
-      <data key="d1">2</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2010s" target="1990s">
-      <data key="d1">936</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2010s" target="2000s">
-      <data key="d1">1373</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2010s" target="1960s">
-      <data key="d1">296</data>
-      <data key="d2">sample</data>
+      <data key="d2">edit</data>
     </edge>
     <edge source="2010s" target="2010s">
-      <data key="d1">2139</data>
-      <data key="d2">sample</data>
+      <data key="d1">65664</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2010s" target="2000s">
+      <data key="d1">11479</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2010s" target="1960s">
+      <data key="d1">688</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2010s" target="1990s">
+      <data key="d1">4896</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
     <edge source="2010s" target="1970s">
-      <data key="d1">711</data>
-      <data key="d2">sample</data>
+      <data key="d1">1661</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
     <edge source="2010s" target="1980s">
-      <data key="d1">698</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2010s" target="1950s">
-      <data key="d1">28</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2010s" target="1900s">
-      <data key="d1">2</data>
-      <data key="d2">sample</data>
-    </edge>
-    <edge source="2010s" target="1920s">
-      <data key="d1">12</data>
-      <data key="d2">sample</data>
+      <data key="d1">2476</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
     <edge source="2010s" target="2020s">
-      <data key="d1">34</data>
-      <data key="d2">sample</data>
+      <data key="d1">434</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
-    <edge source="2010s" target="1940s">
-      <data key="d1">2</data>
-      <data key="d2">sample</data>
+    <edge source="2010s" target="1950s">
+      <data key="d1">75</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
     </edge>
     <edge source="2010s" target="1910s">
       <data key="d1">8</data>
       <data key="d2">sample</data>
     </edge>
     <edge source="2010s" target="1930s">
-      <data key="d1">4</data>
+      <data key="d1">5</data>
+      <data key="d2">mashup;sample</data>
+    </edge>
+    <edge source="2010s" target="1920s">
+      <data key="d1">13</data>
+      <data key="d2">edit;sample</data>
+    </edge>
+    <edge source="2010s" target="1940s">
+      <data key="d1">3</data>
+      <data key="d2">remix;sample</data>
+    </edge>
+    <edge source="2010s" target="1900s">
+      <data key="d1">2</data>
       <data key="d2">sample</data>
+    </edge>
+    <edge source="2000s" target="1970s">
+      <data key="d1">2339</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="2000s">
+      <data key="d1">29048</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="1960s">
+      <data key="d1">869</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="1990s">
+      <data key="d1">6231</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="1980s">
+      <data key="d1">2811</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="2010s">
+      <data key="d1">676</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="2020s">
+      <data key="d1">193</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="1950s">
+      <data key="d1">90</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="1930s">
+      <data key="d1">11</data>
+      <data key="d2">edit;sample</data>
+    </edge>
+    <edge source="2000s" target="1900s">
+      <data key="d1">2</data>
+      <data key="d2">edit;sample</data>
+    </edge>
+    <edge source="2000s" target="1940s">
+      <data key="d1">12</data>
+      <data key="d2">edit;remix;sample</data>
+    </edge>
+    <edge source="2000s" target="1920s">
+      <data key="d1">5</data>
+      <data key="d2">edit;remix;sample</data>
+    </edge>
+    <edge source="1970s" target="1970s">
+      <data key="d1">665</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="1970s" target="1960s">
+      <data key="d1">94</data>
+      <data key="d2">dj_mix;edit;remix;sample</data>
+    </edge>
+    <edge source="1970s" target="1990s">
+      <data key="d1">61</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1970s" target="2010s">
+      <data key="d1">41</data>
+      <data key="d2">edit;remix;sample</data>
+    </edge>
+    <edge source="1970s" target="1980s">
+      <data key="d1">114</data>
+      <data key="d2">edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="1970s" target="1950s">
+      <data key="d1">27</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1970s" target="2000s">
+      <data key="d1">46</data>
+      <data key="d2">edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="1970s" target="2020s">
+      <data key="d1">12</data>
+      <data key="d2">edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="2020s">
+      <data key="d1">39457</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="2010s">
+      <data key="d1">12263</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="1970s">
+      <data key="d1">1039</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="1960s">
+      <data key="d1">307</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="1980s">
+      <data key="d1">1344</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="1990s">
+      <data key="d1">2986</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="2000s">
+      <data key="d1">4681</data>
+      <data key="d2">dj_mix;edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="1950s">
+      <data key="d1">40</data>
+      <data key="d2">edit;mashup;remix;sample</data>
+    </edge>
+    <edge source="2020s" target="1930s">
+      <data key="d1">5</data>
+      <data key="d2">edit;mashup;sample</data>
+    </edge>
+    <edge source="2020s" target="1940s">
+      <data key="d1">7</data>
+      <data key="d2">remix;sample</data>
+    </edge>
+    <edge source="2020s" target="1900s">
+      <data key="d1">1</data>
+      <data key="d2">sample</data>
+    </edge>
+    <edge source="1960s" target="1960s">
+      <data key="d1">426</data>
+      <data key="d2">edit;remix;sample</data>
+    </edge>
+    <edge source="1960s" target="2010s">
+      <data key="d1">32</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1960s" target="2000s">
+      <data key="d1">29</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1960s" target="1990s">
+      <data key="d1">115</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1960s" target="1950s">
+      <data key="d1">105</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1960s" target="1970s">
+      <data key="d1">35</data>
+      <data key="d2">edit;remix;sample</data>
+    </edge>
+    <edge source="1960s" target="1980s">
+      <data key="d1">34</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1960s" target="2020s">
+      <data key="d1">2</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1960s" target="1940s">
+      <data key="d1">1</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1950s" target="1980s">
+      <data key="d1">30</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1950s" target="1990s">
+      <data key="d1">24</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1950s" target="2010s">
+      <data key="d1">13</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1950s" target="1950s">
+      <data key="d1">22</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1950s" target="2000s">
+      <data key="d1">5</data>
+      <data key="d2">edit;remix</data>
+    </edge>
+    <edge source="1950s" target="1970s">
+      <data key="d1">6</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1950s" target="1920s">
+      <data key="d1">1</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1950s" target="1960s">
+      <data key="d1">1</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1930s" target="1930s">
+      <data key="d1">2</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1940s" target="1920s">
+      <data key="d1">1</data>
+      <data key="d2">edit</data>
+    </edge>
+    <edge source="1920s" target="1990s">
+      <data key="d1">1</data>
+      <data key="d2">edit</data>
     </edge>
   </graph>
 </graphml>
