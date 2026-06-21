@@ -22,6 +22,54 @@ creation, **algorithm pseudocode**, results, and discoveries. Final grade weight
 > presentations **2026-06-26**, but today is 2026-06-20 — confirm the real F2
 > deadline with the user before sizing the work.
 
+## Session log — where to resume (updated 2026-06-21)
+
+**Done & committed (7 commits on `master`, NOT yet pushed):**
+- Phase 0: v2 track graph (year/country).
+- Storage: uniform `*.graphml.gz` + `src/graphs.py` load-by-name registry.
+- Phase 1: 5 analysis pillars (influence, communities, structure, temporal,
+  geography) → `analysis_output/`.
+- Phase 2 + 2b: genre layer, **83.1% coverage** (recording→album→artist fallback)
+  → `mb_genre_graph.graphml.gz` (888 genres).
+
+**Phase 3 (external sources) — explored, mostly negative; scripts + findings in
+`src/exploration/`:**
+- **Spotify ✗** — genres deprecated, popularity/genres stripped under app auth.
+- **Discogs ✗ for sampling** — verified by streaming the real 10.3 GB dump: no
+  structured sample edges (only free-text credit roles); rich styles but no MBIDs.
+- **Genius ✓ (Brazil)** — free API exposes sample/cover/interpolation edges.
+  400-track BR probe: 80.5% matched, 320 edges → **~1,144 extrapolated** for all
+  1,430 BR tracks (vs MB's 766 within-BR); adds interpolations + international reuse
+  MB lacks. **Proprietary → cite as case study, don't redistribute raw; MusicBrainz
+  stays the CC0 backbone.**
+
+**Next:**
+1. *(optional)* full 1,430-track Genius BR case study (match-verified) → small
+   cited subgraph + clean numbers (~15-20 min): `src/exploration/genius_brazil.py`.
+2. **Phase 4 — F2 report** (graded 50%): LaTeX, PT-BR, in `/home/mathe/graph/`
+   (F1 format). Analysis complete; pull numbers from `analysis_output/*_summary.json`
+   and the "Key numbers" below.
+
+**Key numbers (so they're not re-derived):**
+- track: 321,738 n / 222,696 e; ~DAG (max SCC 3); largest WCC 36,297 (11.3%).
+- communities (artist giant WCC): Louvain modularity 0.6464 / Leiden 0.6067; scenes
+  map to genre+era+country (hip-hop/funk breaks; pop-mashup; EDM; French touch;
+  Touhou/doujin; video-game; hyperpop).
+- structure: in-degree heavy-tailed but **lognormal beats power-law** (α≈2.61 track
+  / 2.24 artist, R<0 vs lognormal, p≈0); reciprocity ~0; country homophily 0.88;
+  year assortativity 0.67; mashup=one giant shallow web, sample=deeper/fragmented.
+- temporal: 96.7% time-consistent edges; **sample median lag 14 yr vs ~1 yr
+  overall**; longest lineage 9 hops; evergreen breaks Amen Brother / Lyn Collins /
+  I Feel Love.
+- geography: within-country homophily 5.95×; net sources US/Japan/Jamaica;
+  importers Canada/Australia/France; Brazil 84% self-contained, net −41.
+- genre: homophily 8.13×; net sources funk/soul/jazz/disco; importers
+  electronic/hip hop; hip hop→funk/soul corridor reproduces sampling history.
+- Brazil: 1,430 BR-artist tracks (0.44%), 227 BR-genre (mostly bossa nova).
+
+**Security:** Spotify + Genius secrets were shared in chat (never written to repo
+files — passed via env only); **rotate them**. The CC0 pipeline needs no secrets.
+
 ## Where things live
 
 - `/home/mathe/musicbrainz_graph/` — **this repo**: code, data, graphs, F2 analysis.
