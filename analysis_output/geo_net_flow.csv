@@ -1,0 +1,160 @@
+country,in_strength_sampled,out_strength_samples,net_influence_in_minus_out
+United States,50673,46690,3983
+Japan,14700,14062,638
+Jamaica,805,572,233
+South Korea,1368,1225,143
+Italy,4203,4070,133
+Sweden,3762,3697,65
+Romania,331,296,35
+Iceland,328,295,33
+Argentina,386,356,30
+Puerto Rico,945,915,30
+India,284,261,23
+South Africa,231,215,16
+Türkiye,219,206,13
+Chile,83,70,13
+Bulgaria,241,228,13
+Cuba,78,65,13
+Colombia,460,450,10
+Soviet Union,56,47,9
+Mali,37,29,8
+Finland,701,695,6
+Algeria,10,4,6
+British Virgin Islands,6,0,6
+Moldova,122,117,5
+Switzerland,577,572,5
+Tunisia,29,24,5
+Iran,23,18,5
+Trinidad and Tobago,12,7,5
+North Macedonia,49,44,5
+Ethiopia,7,2,5
+Cameroon,5,0,5
+Ghana,6,1,5
+Serbia,126,122,4
+Kingdom of the Netherlands,71,67,4
+Egypt,40,36,4
+Lebanon,14,10,4
+Peru,49,45,4
+Montserrat,4,0,4
+Dominican Republic,81,78,3
+Antigua and Barbuda,14,11,3
+Kazakhstan,52,49,3
+Zimbabwe,6,3,3
+Pakistan,33,30,3
+Uruguay,25,22,3
+Panama,53,51,2
+Kenya,7,5,2
+Croatia,64,62,2
+Thailand,27,25,2
+Barbados,14,12,2
+East Germany,4,2,2
+Angola,3,1,2
+Armenia,13,11,2
+Antarctica,2,0,2
+Grenada,2,0,2
+New Caledonia,2,0,2
+China,85,84,1
+Slovenia,169,168,1
+Hungary,323,322,1
+San Marino,17,16,1
+Bahamas,14,13,1
+Azerbaijan,8,7,1
+Solomon Islands,1,0,1
+Georgia,19,18,1
+Jersey,2,1,1
+Democratic Republic of the Congo,2,1,1
+Senegal,11,10,1
+Réunion,1,0,1
+Kosovo,2,1,1
+Costa Rica,2,1,1
+Cape Verde,2,1,1
+Côte d'Ivoire,1,0,1
+Sierra Leone,1,0,1
+Benin,2,1,1
+French Polynesia,1,0,1
+Tanzania,2,1,1
+U.S. Virgin Islands,1,0,1
+Guinea,1,0,1
+Belarus,90,90,0
+Niger,3,3,0
+Luxembourg,115,115,0
+Nicaragua,1,1,0
+Liechtenstein,2,2,0
+Ecuador,27,27,0
+Taiwan,76,76,0
+Haiti,11,11,0
+Uzbekistan,7,7,0
+Qatar,4,4,0
+Morocco,9,9,0
+Cambodia,2,2,0
+Syria,3,3,0
+Cyprus,9,9,0
+Mauritius,3,3,0
+Montenegro,3,3,0
+Mozambique,2,2,0
+Sri Lanka,2,2,0
+Faroe Islands,1,1,0
+Honduras,2,2,0
+Papua New Guinea,2,2,0
+Libya,1,1,0
+Iraq,2,2,0
+Sudan,4,4,0
+South Sudan,4,4,0
+Guyana,4,4,0
+Botswana,3,3,0
+Bahrain,2,2,0
+Togo,1,1,0
+Monaco,2,2,0
+Andorra,1,1,0
+Albania,5,5,0
+Mongolia,2,2,0
+American Samoa,1,1,0
+Anguilla,1,1,0
+Yugoslavia,1,1,0
+Jordan,1,1,0
+Bangladesh,5,6,-1
+Bosnia and Herzegovina,17,18,-1
+North Korea,7,8,-1
+Åland Islands,0,1,-1
+Madagascar,1,2,-1
+Palestine,1,2,-1
+Isle of Man,0,1,-1
+United Arab Emirates,1,2,-1
+Christmas Island,0,1,-1
+Brunei,0,1,-1
+Austria,1580,1582,-2
+Lithuania,109,111,-2
+Guatemala,12,14,-2
+Saint Vincent and The Grenadines,5,8,-3
+Slovakia,85,90,-5
+Norway,1062,1069,-7
+New Zealand,646,659,-13
+Venezuela,110,125,-15
+Singapore,25,40,-15
+Israel,1036,1054,-18
+Nigeria,73,93,-20
+Mexico,651,674,-23
+Malaysia,34,59,-25
+Belgium,1599,1628,-29
+Ukraine,321,352,-31
+Portugal,238,273,-35
+Ireland,522,558,-36
+Estonia,575,612,-37
+Indonesia,124,162,-38
+Vietnam,20,59,-39
+Brazil,873,914,-41
+Latvia,153,197,-44
+Russia,1847,1891,-44
+Poland,621,668,-47
+Philippines,50,102,-52
+Malta,106,172,-66
+Denmark,906,996,-90
+Germany,10803,10902,-99
+Spain,1590,1698,-108
+Czechia,128,243,-115
+Greece,435,650,-215
+United Kingdom,28600,29032,-432
+Netherlands,4810,5354,-544
+France,5788,6550,-762
+Australia,3424,4572,-1148
+Canada,4576,5954,-1378

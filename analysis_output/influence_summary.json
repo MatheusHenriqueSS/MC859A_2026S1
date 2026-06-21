@@ -1,0 +1,114 @@
+{
+  "artist": {
+    "pagerank_top": [
+      "Daniel Ingram",
+      "Daft Punk",
+      "James Brown",
+      "Lyn Collins",
+      "Kraftwerk",
+      "Toby Fox",
+      "Britney Spears",
+      "James Brown & The Famous Flames",
+      "ASAGEN",
+      "Porter Robinson"
+    ],
+    "sampler_top": [
+      "Triple‐Q",
+      "DJ Schmolli",
+      "鈴木雅之",
+      "goreshit",
+      "1086 Productions",
+      "duuzu",
+      "Phil RetroSpector",
+      "Beats Atlas",
+      "Chris Morris",
+      "SmadaLeinad"
+    ],
+    "authority_top": [
+      "Katy Perry",
+      "Kesha",
+      "Lady Gaga",
+      "Britney Spears",
+      "Rihanna",
+      "Maroon 5",
+      "Ellie Goulding",
+      "One Direction",
+      "PSY",
+      "Taylor Swift"
+    ],
+    "hub_top": [
+      "SmadaLeinad",
+      "DJ Schmolli",
+      "Triple‐Q",
+      "Robin Skouteris",
+      "DJ Earworm",
+      "Talk Hard Productions",
+      "The Gates of Sleep",
+      "Victor Serna",
+      "EssenceGlory",
+      "Psynwav"
+    ],
+    "betweenness_top": [
+      "Beyoncé",
+      "The Weeknd",
+      "近藤浩治",
+      "Psynwav",
+      "JAY‐Z",
+      "Fatboy Slim",
+      "2Pac",
+      "DJ Shadow",
+      "Beastie Boys",
+      "Eminem"
+    ]
+  },
+  "track": {
+    "pagerank_top": [
+      ":wumpscut: — Wreath of Barbs (album mix)",
+      "PSY — Gangnam Style (강남스타일)",
+      "Arca — Riquiquí",
+      "Lyn Collins — Think (About It)",
+      "The Honey Drippers — Impeach the President",
+      "Public Enemy — Bring the Noise",
+      "ATB — 9 PM (Till I Come) (radio edit)",
+      "Quad City DJ’s — Space Jam",
+      "galen tipton — tadpoles lullaby",
+      "Domino — Tora Tora Tora"
+    ],
+    "sampler_top": [
+      "7 Minutes of Nausea — 705 Tracks",
+      "DJ Cable — 2018 AD",
+      "Armin van Buuren — A State Of Trance 1000 - Celebration Mix (Full Continuous DJ Mix)",
+      "Ninja McTits — All Songs On Fellatio, You Say Played At Once",
+      "Monstercat — Uncaged, Vol. 11 (album mix)",
+      "deadmau5 — mau5trap radio 100 mega mix",
+      "Ninja McTits — All Songs On These Songs Are Longer Than Your Relationships Played At Once",
+      "Beats Atlas — Why We Love An Old Ninja",
+      "Psynwav — Finale (Tokyo Ska Paradise Orchestra vs. No Doubt vs. OutKast vs. Dragonforce vs. Electric Light Orchestra vs. Gooseworx vs. Avril Lavigne)",
+      "Monstercat — Instinct, Vol. 7 (album mix)"
+    ],
+    "authority_top": [
+      "PSY — Gangnam Style (강남스타일)",
+      "PSY — Gentleman",
+      "Quad City DJ’s — Space Jam",
+      "Smash Mouth — All Star",
+      "Kesha — Die Young",
+      "Soulja Boy — Crank That (Soulja Boy)",
+      "Nicki Minaj — Starships",
+      "Rick Astley — Never Gonna Give You Up",
+      "LMFAO — Party Rock Anthem",
+      "Drowning Pool — Bodies"
+    ],
+    "hub_top": [
+      "jan Misali — ryuuseigun mashup",
+      "Robin Skouteris — PopLove 1 (Mashup of 2012)",
+      "jan Misali — overture",
+      "Psynwav — We Don’t Make Meme Mashups (Encanto vs. Quad City DJ’s vs. PSY vs. Santana feat. Rob Thomas vs. Cardi B feat. Megan Thee Stallion vs. Rick Astley vs. Imagine Dragons vs. LazyTown vs. Smash Mouth vs. Bag Raiders vs. Soulja Boy vs. Leviathan vs. Misha vs. Weezer vs. The Legend of Zelda: Wand of Gamelon vs. Reese’s Puffs vs. Among Us vs. Barenaked Ladies)",
+      "Triple‐Q — Mashups Like This",
+      "Hahnstudios — InTheMixRadio Mix",
+      "Isosine — Nonstop Pop 2012",
+      "Triple‐Q — #SELFIE is a new and original song which doesn’t plagiarize at all",
+      "Triple‐Q — Infinite Mashups",
+      "nakinyko — To the Sound (The Coolest Kids!)"
+    ]
+  }
+}

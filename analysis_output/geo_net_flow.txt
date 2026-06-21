@@ -1,0 +1,42 @@
+country  in_strength_sampled  out_strength_samples  net_influence_in_minus_out
+----------------------------------------------------------------------
+United States  50673  46690  3983
+Japan  14700  14062  638
+Jamaica  805  572  233
+South Korea  1368  1225  143
+Italy  4203  4070  133
+Sweden  3762  3697  65
+Romania  331  296  35
+Iceland  328  295  33
+Argentina  386  356  30
+Puerto Rico  945  915  30
+India  284  261  23
+South Africa  231  215  16
+Türkiye  219  206  13
+Chile  83  70  13
+Bulgaria  241  228  13
+Cuba  78  65  13
+Colombia  460  450  10
+Soviet Union  56  47  9
+Mali  37  29  8
+Finland  701  695  6
+Algeria  10  4  6
+British Virgin Islands  6  0  6
+Moldova  122  117  5
+Switzerland  577  572  5
+Tunisia  29  24  5
+Iran  23  18  5
+Trinidad and Tobago  12  7  5
+North Macedonia  49  44  5
+Ethiopia  7  2  5
+Cameroon  5  0  5
+Ghana  6  1  5
+Serbia  126  122  4
+Kingdom of the Netherlands  71  67  4
+Egypt  40  36  4
+Lebanon  14  10  4
+Peru  49  45  4
+Montserrat  4  0  4
+Dominican Republic  81  78  3
+Antigua and Barbuda  14  11  3
+Kazakhstan  52  49  3

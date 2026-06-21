@@ -1,0 +1,33 @@
+{
+  "track": {
+    "powerlaw_in_degree": {
+      "n_positive": 139302,
+      "alpha": 2.61,
+      "xmin": 1,
+      "R_vs_lognormal": -177.957,
+      "p_vs_lognormal": 0.0,
+      "R_vs_exponential": 18408.183,
+      "p_vs_exp": 0.0
+    },
+    "degree_assortativity": -0.0212,
+    "reciprocity": 0.00016,
+    "transitivity": 0.00347,
+    "longest_chain_overall": 9,
+    "country_homophily": 0.8815,
+    "year_assortativity": 0.673
+  },
+  "artist": {
+    "powerlaw_in_degree": {
+      "n_positive": 16281,
+      "alpha": 2.235,
+      "xmin": 1,
+      "R_vs_lognormal": -22.083,
+      "p_vs_lognormal": 0.0,
+      "R_vs_exponential": 5832.478,
+      "p_vs_exp": 0.0
+    },
+    "degree_assortativity": 0.0025,
+    "reciprocity": 0.00701,
+    "transitivity": 0.0023
+  }
+}

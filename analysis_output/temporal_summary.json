@@ -1,0 +1,13 @@
+{
+  "lag": {
+    "edges_with_both_years": 218857,
+    "median_lag": 1,
+    "mean_lag": 5.08,
+    "median_positive_lag_years": 4,
+    "consistent_pct": 54.8,
+    "same_year_pct": 41.9,
+    "violation_pct": 3.3,
+    "sample_median_lag": 14
+  },
+  "longest_lineage_hops": 9
+}

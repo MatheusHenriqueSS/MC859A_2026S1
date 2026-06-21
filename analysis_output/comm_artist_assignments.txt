@@ -1,0 +1,82 @@
+artist  community  in_strength
+----------------------------------------------------------------------
+Young Leosia  0  18
+Żabson  0  11
+Orchestral Manoeuvres in the Dark  0  8
+Blue Effect  0  4
+OKI  0  3
+Quebonafide  0  3
+Guzior  0  3
+Bedoes  0  2
+Taco Hemingway  0  2
+Jerry Martin  0  2
+Białas  0  2
+Alberto  0  2
+Belmondawg  0  2
+Kizo  0  2
+Duke Dumont  0  1
+Kalwi & Remi  0  1
+Magiera  0  1
+Gedz  0  1
+One‐T  0  1
+Gimpson  0  1
+Adam Walaciński  0  1
+Komputer  0  1
+chillwagon  0  1
+Cypis  0  1
+sanah  0  1
+PurpleHaze  0  1
+Abbey Lincoln  0  1
+Gruby Mielzky  0  1
+Dawid Podsiadło  0  1
+White 2115  0  1
+Hodak  0  1
+Brother + Sister  0  1
+Delta V  0  0
+DJ Wielki Huj  0  0
+northboii  0  0
+ceelka  0  0
+PSY  1  247
+Daniel Ingram  1  129
+Gorillaz  1  98
+Quad City DJ’s  1  91
+Smash Mouth  1  78
+澤野弘之  1  65
+Rick Astley  1  44
+Caramell  1  40
+Gotye  1  39
+μ's  1  38
+Lemon Demon  1  36
+床井健一  1  32
+千石撫子  1  31
+大谷智哉  1  30
+桜庭統  1  28
+中村正人  1  27
+Josh Mancell  1  26
+Wiz Khalifa  1  25
+ClariS  1  25
+SEGA Sound Team  1  24
+Talking Heads  1  24
+Richard Jacques  1  23
+Aperture Science Psychoacoustic Laboratories  1  23
+Glaze  1  21
+Hunnid-P  1  20
+Darude  1  20
+Survivor  1  20
+Santana  1  20
+高橋洋子  1  18
+Excision  1  17
+瀬上純  1  16
+LCD Soundsystem  1  16
+Sir Mix‐A‐Lot  1  16
+高田雅史  1  15
+Claire Littley  1  14
+Phoenix  1  14
+Marlon Saunders  1  14
+LazyTown  1  13
+竹内まりや  1  13
+TryHardNinja  1  13
+放課後ティータイム  1  13
+Baauer  1  12
+Mori Calliope  1  12
+Alanis Morissette  1  12

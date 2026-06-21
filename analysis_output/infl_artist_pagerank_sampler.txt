@@ -1,0 +1,52 @@
+entity  pagerank_rev  out_strength
+----------------------------------------------------------------------
+Triple‐Q  0.00645811  1078
+DJ Schmolli  0.00505068  1315
+鈴木雅之  0.00306274  1
+goreshit  0.00279372  247
+1086 Productions  0.00256823  18
+duuzu  0.00253376  228
+Phil RetroSpector  0.00240157  186
+Beats Atlas  0.00223724  182
+Chris Morris  0.00210963  318
+SmadaLeinad  0.00203565  1319
+dARKVICe  0.00181981  33
+G3RSt  0.00175518  367
+Girl Talk  0.00174867  455
+The Sheep Queen Experiment  0.00168447  402
+DJ Shadow  0.00167247  203
+nakinyko  0.00159804  358
+DJ UMB  0.00156548  16
+Professional Hairdresser  0.00153566  203
+Flemming Dalum  0.00153258  178
+Armin van Buuren  0.00150106  93
+Psynwav  0.00144927  462
+leroy  0.00144443  352
+inafade  0.00139648  230
+近藤浩治  0.0012931  2
+E-603  0.00127298  325
+Talk Hard Productions  0.0012146  449
+Hahnstudios  0.0011903  270
+deadmau5  0.00119015  306
+Monstercat  0.00108684  135
+King Cannibal  0.000993461  208
+Himeko Katagiri  0.000986212  18
+J. Cole  0.000975101  159
+DJ Earworm  0.000964866  304
+DJ Cable  0.000949972  101
+DJ Nerd42  0.000927357  327
+RaidAr  0.000906348  108
+Car Sofa  0.000904986  141
+larsht_  0.000843841  118
+Karina Longworth  0.000834795  245
+I am Jemboy  0.000818768  197
+let's be real  0.00081043  8
+Blankie-  0.000810271  159
+Bomb the Music Industry!  0.000786148  1
+tfwamirite  0.000766108  10
+JV5  0.000765342  173
+De La Soul  0.000739102  220
+Stanton Warriors  0.00072603  25
+The Third Vagina  0.00070429  107
+YITT  0.000703033  201
+V‐FUN  0.00067729  240

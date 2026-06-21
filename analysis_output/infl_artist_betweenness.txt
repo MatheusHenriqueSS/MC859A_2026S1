@@ -1,0 +1,52 @@
+artist  betweenness
+----------------------------------------------------------------------
+Beyoncé  0.00570852
+The Weeknd  0.00570221
+近藤浩治  0.00531264
+Psynwav  0.00529571
+JAY‐Z  0.00523078
+Fatboy Slim  0.00512805
+2Pac  0.00495199
+DJ Shadow  0.00489371
+Beastie Boys  0.00465812
+Eminem  0.00442722
+Earth, Wind & Fire  0.00431358
+Ye  0.00425342
+DRAM  0.00411543
+James Brown  0.00402334
+De La Soul  0.00299605
+J. Cole  0.00262502
+Eric B. & Rakim  0.00258167
+Britney Spears  0.00242604
+Mariah Carey  0.00235596
+Porter Robinson  0.00230103
+Playboi Carti  0.00224036
+The Notorious B.I.G.  0.00221864
+Björk  0.00206831
+Gil Scott‐Heron  0.0020667
+Sasha  0.00199176
+A Tribe Called Quest  0.00196847
+Daft Punk  0.00191016
+Madeon  0.0018527
+Madonna  0.00172906
+Armin van Buuren  0.00159656
+Run‐D.M.C.  0.00158449
+Ghostface Killah  0.00149413
+50 Cent  0.00149062
+Rose Royce  0.00133486
+Drake  0.00117966
+Prince  0.00113988
+Dr. Dre  0.00110333
+N.W.A  0.00107954
+Charli xcx  0.00104053
+Suzanne Vega  0.00100806
+LL Cool J  0.00100127
+Busta Rhymes  0.000966586
+Clipse  0.000932734
+M|A|R|R|S  0.000918346
+Justice  0.000903879
+Blue Sky Black Death  0.000879847
+Kendrick Lamar  0.000876764
+Major Lazer  0.000874228
+Snoop Dogg  0.000858809
+Nas  0.000856336

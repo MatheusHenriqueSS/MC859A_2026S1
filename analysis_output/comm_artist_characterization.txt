@@ -1,0 +1,17 @@
+comm_id  size  dom_type  top_decades  top_countries  top_members
+----------------------------------------------------------------------
+2  2211  sample  1990s(4208), 2000s(4039), 2010s(2604)  United States(10455), United Kingdom(1271), Jamaica(496)  James Brown; Public Enemy; Isaac Hayes; The Notorious B.I.G.; Kool & the Gang
+5  1729  mashup  2010s(4622), 2000s(4601), 1990s(3256)  United Kingdom(5391), United States(4954), Germany(1328)  The Beatles; Michael Jackson; Beastie Boys; Queen; Metallica
+20  1310  mashup  2010s(8163), 2020s(4987), 2000s(3298)  United States(8214), United Kingdom(2355), Canada(1669)  Lady Gaga; Katy Perry; Britney Spears; Madonna; Taylor Swift
+7  1229  sample  2000s(3508), 2010s(2968), 2020s(1400)  United States(5654), United Kingdom(1380), Canada(378)  JAY‐Z; Ye; Drake; Weezer; Marvin Gaye
+1  1137  mashup  2010s(4151), 2020s(1734), 2000s(1485)  Japan(2648), United States(1430), Australia(561)  PSY; Daniel Ingram; Gorillaz; Quad City DJ’s; Smash Mouth
+34  732  dj_mix  2010s(4895), 2020s(4026), 2000s(510)  United States(2923), United Kingdom(1012), Canada(573)  Skrillex; deadmau5; RL Grime; No Mana; Knife Party
+22  688  sample  2010s(2495), 2020s(1617), 2000s(953)  United States(1747), France(1003), United Kingdom(602)  Daft Punk; Justice; Porter Robinson; Death Grips; 長沼英樹
+24  683  sample  2010s(2183), 2020s(1338), 2000s(632)  United States(2156), United Kingdom(445), Canada(189)  Barry Manilow; Future; Travis Scott; Tyler, The Creator; Three 6 Mafia
+4  633  sample  2000s(1347), 1990s(1297), 2010s(1041)  United Kingdom(1976), United States(1003), Iceland(184)  Beck; Aphex Twin; Massive Attack; Björk; Bonobo
+8  576  remix  2010s(2004), 2020s(1044), 2000s(923)  Japan(2354), Canada(215), United Kingdom(153)  電音部; 上海アリス幻樂団; IOSYS; SHIKI; Alstroemeria Records
+37  511  mashup  2010s(1576), 2000s(1361), 2020s(942)  France(1512), United Kingdom(1272), United States(1149)  Nine Inch Nails; David Bowie; Depeche Mode; Kraftwerk; Orelsan
+32  495  sample  2010s(1381), 2000s(724), 1990s(499)  United States(1273), Japan(420), United Kingdom(281)  goreshit; Merzbow; Thelonious Monk; Scatman John; Ιάννης Ξενάκης
+14  412  sample  2020s(1630), 2010s(923), 2000s(199)  United States(830), Australia(328), Japan(279)  100 gecs; Charli xcx; Jane Remover; Drowning Pool; SOPHIE
+9  401  remix  2010s(1322), 2020s(592), 2000s(585)  Japan(1001), United States(450), Canada(122)  Toby Fox; 近藤浩治; 植松伸夫; Danny Baranowsky; 下村陽子
+26  393  dj_mix  2010s(844), 2000s(613), 1990s(565)  United Kingdom(1282), United States(304), France(156)  The Prodigy; 森英治; Art of Noise; Ultramagnetic MC’s; Technotronic

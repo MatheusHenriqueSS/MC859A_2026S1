@@ -1,0 +1,52 @@
+entity  pagerank  in_strength
+----------------------------------------------------------------------
+:wumpscut: — Wreath of Barbs (album mix)  0.000175573  131
+PSY — Gangnam Style (강남스타일)  0.000153257  217
+Arca — Riquiquí  0.000134564  100
+Lyn Collins — Think (About It)  0.000111591  132
+The Honey Drippers — Impeach the President  0.000102949  58
+Public Enemy — Bring the Noise  9.93493e-05  51
+ATB — 9 PM (Till I Come) (radio edit)  9.43259e-05  21
+Quad City DJ’s — Space Jam  9.36938e-05  86
+galen tipton — tadpoles lullaby  9.35551e-05  69
+Domino — Tora Tora Tora  8.77191e-05  27
+Любомир Димитров — Слънчеви лъчи  8.1274e-05  2
+Любомир Димитров — Първият ден на пролетта  8.1274e-05  2
+Mike Oldfield — Amarok  7.63579e-05  56
+The Winstons — Amen, Brother  7.31487e-05  53
+WDR Sinfonieorchester Köln — Gruppen  6.57749e-05  48
+Niko — Night of Fire  6.39131e-05  42
+Caramell — Caramelldansen  6.37216e-05  11
+Celldweller — Switchback  6.24678e-05  46
+Stone Giants — Metropole  6.18063e-05  45
+Celldweller — Frozen  6.16063e-05  44
+:wumpscut: — Du hast kein Herz  6.04835e-05  44
+Grandmaster Flash & The Furious Five — The Message  6.035e-05  53
+Edwin Birdsong — Cola Bottle Baby  5.91703e-05  1
+Mark Wright — Masters of Earth  5.91606e-05  43
+Lady Gaga — Bad Romance  5.89076e-05  13
+Luiz Bonfá — Seville  5.79637e-05  2
+Stephen Cole — Masquerade  5.65149e-05  41
+NDR Vokalensemble — Carré  5.38691e-05  39
+Linkin Park — Numb  5.35362e-05  48
+浜崎あゆみ — Boys & Girls “AUBE Original Mix”  5.32608e-05  22
+James Brown — Funky Drummer, Part 1  5.2993e-05  21
+Maio & Co. — Dark in the Night  5.25462e-05  38
+浜崎あゆみ — Fly high  5.24539e-05  24
+Queen — We Will Rock You  5.15293e-05  41
+Cherry — Yesterday  5.12234e-05  37
+DIR EN GREY — Ranunculus (Ambient Ver.)  5.12234e-05  37
+Virginelle — Hot Love & Emotion  5.0121e-05  37
+Lana Del Rey — Summertime Sadness (acapella)  5.00095e-05  1
+浜崎あゆみ — appears “99 Greeting Mix”  4.99314e-05  24
+Porter Robinson — Hollowheart  4.98426e-05  2
+Mega NRG Man — Seventies  4.91003e-05  32
+ATLiens — Unidentified Flying Objects  4.85776e-05  35
+Osman Mir — Ramzat - Non Stop Garba  4.85776e-05  35
+Ann Lee — 2 Times (extended version)  4.85125e-05  1
+Falco — Rock Me Amadeus  4.76162e-05  28
+Nathalie — Heartbeat  4.72548e-05  34
+Smash Mouth — All Star  4.71215e-05  70
+Zedd — Clarity  4.65384e-05  36
+Jennifer Lopez — Waiting for Tonight  4.64831e-05  37
+Marko Polo — Money Go!  4.64545e-05  30

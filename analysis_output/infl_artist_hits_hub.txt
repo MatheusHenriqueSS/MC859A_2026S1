@@ -1,0 +1,52 @@
+entity  hub  out_strength
+----------------------------------------------------------------------
+SmadaLeinad  0.179353  1319
+DJ Schmolli  0.0449359  1315
+Triple‐Q  0.0440661  1078
+Robin Skouteris  0.0283759  258
+DJ Earworm  0.0202115  304
+Talk Hard Productions  0.018026  449
+The Gates of Sleep  0.013873  163
+Victor Serna  0.0124117  53
+EssenceGlory  0.0117534  36
+Psynwav  0.011002  462
+TCMusic!  0.0103755  128
+DJ Nerd42  0.00917528  327
+Girl Talk  0.00914969  455
+The Sheep Queen Experiment  0.00909195  402
+leroy  0.00906132  352
+V‐FUN  0.00899166  240
+Titus Jones  0.00851452  72
+PaulGMashups  0.00761353  107
+RosalinaSama  0.00747943  110
+G3RSt  0.00739408  367
+nakinyko  0.00686595  358
+YITT  0.00679849  201
+E-603  0.00668192  325
+Death Cab for Yeezy  0.00664305  291
+Danny Greyiers  0.00638137  139
+panda_riot  0.00585685  42
+LibraH  0.00543793  94
+Super Mash Bros.  0.00536207  195
+Go Home Productions  0.00516652  239
+Expensive Dispenser  0.00513896  148
+Ultimazone  0.00504377  69
+Cheryl Stelli  0.00493391  119
+Isosine  0.00490572  63
+Cryptidd Mashups  0.00471675  57
+Fritz von Runte  0.00453802  212
+Beefjerky007  0.00436222  76
+ah!  0.00412488  103
+CatboyNiko  0.00409794  100
+Neil Cicierega  0.00409718  230
+JV5  0.00406625  173
+Mighty Mike  0.00403368  149
+ToToM  0.00402983  221
+Hahnstudios  0.00386241  270
+The Third Vagina  0.00383976  107
+duuzu  0.00376088  228
+gniRob  0.00375669  161
+Mick Boogie  0.00367148  35
+TeeVex  0.00365954  118
+David0Mario  0.00351371  62
+Dead DJ Joke  0.00337759  25

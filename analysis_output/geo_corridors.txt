@@ -1,0 +1,42 @@
+corridor_deriv_draws_from_source  weight
+----------------------------------------------------------------------
+United Kingdom → United States  2217
+Canada → United States  1298
+United States → United Kingdom  1297
+France → United States  751
+Australia → United States  615
+Australia → Japan  395
+Netherlands → United States  385
+Canada → United Kingdom  316
+United States → Canada  284
+United States → Japan  269
+France → United Kingdom  268
+Germany → United States  262
+United States → France  234
+Japan → United States  226
+Greece → United States  176
+Netherlands → United Kingdom  148
+Australia → United Kingdom  141
+Italy → United States  139
+United Kingdom → Germany  137
+United Kingdom → France  134
+United States → Jamaica  132
+Germany → United Kingdom  129
+United States → Germany  122
+Denmark → Italy  107
+United Kingdom → Canada  99
+United Kingdom → Japan  95
+United Kingdom → Italy  92
+United States → Australia  83
+Spain → United States  81
+Sweden → United States  78
+Australia → South Korea  77
+Ireland → United States  73
+United States → Sweden  71
+United States → Italy  70
+United States → Netherlands  65
+Belgium → United States  64
+Brazil → United States  61
+Czechia → United States  60
+United Kingdom → Jamaica  58
+Japan → United Kingdom  53

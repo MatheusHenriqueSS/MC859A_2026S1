@@ -1,0 +1,42 @@
+source  n_decades_of_derivatives  decade_span  source_year  in_degree
+----------------------------------------------------------------------
+Donna Summer — I Feel Love  6  1970s-2020s  1977  27
+The Beatles — I Am the Walrus  6  1960s-2020s  1967  7
+The Beatles — Twist and Shout  6  1960s-2020s  1963  6
+Lyn Collins — Think (About It)  5  1980s-2020s  1972  91
+The Winstons — Amen, Brother  5  1980s-2020s  1969  53
+Public Enemy — Bring the Noise  5  1980s-2020s  1987  51
+Falco — Rock Me Amadeus  5  1980s-2020s  1985  28
+Peter Schilling — Major Tom (Völlig losgelöst)  5  1980s-2020s  1982  27
+AC/DC — Back in Black  5  1980s-2020s  1980  25
+Isaac Hayes — Walk on By  5  1960s-2020s  1969  23
+Phil Collins — In the Air Tonight  5  1980s-2020s  1981  21
+Inner City — Good Life  5  1980s-2020s  1988  18
+Max Coveri — Bye Bye Baby  5  1980s-2020s  1991  17
+Men Without Hats — The Safety Dance  5  1980s-2020s  1982  17
+Eric B. & Rakim — I Know You Got Soul  5  1980s-2020s  1987  17
+New Order — Blue Monday  5  1980s-2020s  1983  17
+Giorgio Moroder — Chase  5  1980s-2020s  1978  16
+Michael Jackson — Billie Jean  5  1980s-2020s  1982  16
+The B‐52s — Love Shack  5  1980s-2020s  1989  14
+Falco — Vienna Calling  5  1980s-2020s  1985  14
+Frankie Goes to Hollywood — Relax  5  1980s-2020s  1983  14
+Depeche Mode — People Are People  5  1980s-2020s  1984  13
+Beastie Boys — Girls  5  1980s-2020s  1986  12
+Daryl Hall & John Oates — I Can’t Go for That (No Can Do)  5  1980s-2020s  1981  12
+Nena — 99 Red Balloons  5  1980s-2020s  1983  12
+Yello — Oh Yeah  5  1980s-2020s  1985  11
+Carl Douglas — Kung Fu Fighting  5  1980s-2020s  1974  11
+N.W.A — Straight Outta Compton  5  1980s-2020s  1988  11
+Lipps, Inc. — Funkytown (12″ version)  5  1970s-2020s  1979  11
+Talking Heads — Once in a Lifetime  5  1980s-2020s  1980  11
+Led Zeppelin — When the Levee Breaks  5  1980s-2020s  1971  10
+Vanessa — Eternity  5  1980s-2020s  1989  10
+James Brown — Funky President (People It’s Bad)  5  1980s-2020s  1974  9
+KISS — I Was Made for Lovin’ You  5  1970s-2020s  1979  9
+Dschinghis Khan — Moskau  5  1970s-2020s  1979  9
+War — Low Rider  5  1980s-2020s  1975  9
+The Beatles — All You Need Is Love  5  1960s-2010s  1967  9
+Cheryl Lynn — Got to Be Real  5  1970s-2010s  1978  8
+Metallica — Master of Puppets  5  1980s-2020s  1986  8
+The Police — Voices Inside My Head  5  1980s-2020s  1980  7

@@ -1,0 +1,52 @@
+entity  pagerank  in_strength
+----------------------------------------------------------------------
+Daniel Ingram  0.00112798  129
+Daft Punk  0.000801964  359
+James Brown  0.000661462  197
+Lyn Collins  0.000654672  142
+Kraftwerk  0.000624805  56
+Toby Fox  0.000559204  134
+Britney Spears  0.000542702  161
+James Brown & The Famous Flames  0.000539236  9
+ASAGEN  0.000531296  41
+Porter Robinson  0.000520818  90
+Isaac Hayes  0.000511329  100
+Michael Jackson  0.000504971  206
+電音部  0.000497617  51
+C418  0.000495375  80
+The Honey Drippers  0.000492607  61
+PSY  0.000477862  247
+Freezer  0.000470125  11
+anubasu-anubasu  0.000469419  20
+Nine Inch Nails  0.00044188  180
+The Winstons  0.000433623  54
+Kool & the Gang  0.000408639  87
+近藤浩治  0.000395488  126
+Eminem  0.000384909  148
+Prince  0.000383126  48
+Ye  0.000379827  179
+Barry Manilow  0.000379542  36
+Justice  0.000366551  140
+Run‐D.M.C.  0.000366118  85
+JAY‐Z  0.00036392  255
+The Prodigy  0.000363905  85
+開発室Pixel  0.000363649  80
+The Jacksons  0.000345532  75
+Mel Tormé  0.000344039  1
+Queen  0.000340557  135
+IOSYS  0.000332174  30
+Aphex Twin  0.000326369  100
+The Beatles  0.00032534  283
+Beastie Boys  0.000321659  203
+Katy Perry  0.000320746  167
+2Pac  0.000310261  52
+椎名もた  0.000310127  16
+Jim Jones  0.000309496  36
+Mariah Carey  0.000303404  43
+Eric B. & Rakim  0.000301157  65
+宇多田ヒカル  0.000298332  34
+外神田文芸高校  0.00029605  5
+Honey Cone  0.000295201  5
+Depeche Mode  0.000291889  67
+Loleatta Holloway  0.000289654  31
+Funkadelic  0.00028929  39

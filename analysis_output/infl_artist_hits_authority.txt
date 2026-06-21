@@ -1,0 +1,52 @@
+entity  authority  in_strength
+----------------------------------------------------------------------
+Katy Perry  0.0236598  167
+Kesha  0.0234254  137
+Lady Gaga  0.0208054  225
+Britney Spears  0.0195849  161
+Rihanna  0.0194295  142
+Maroon 5  0.0116208  76
+Ellie Goulding  0.0109438  52
+One Direction  0.0109419  46
+PSY  0.0106781  247
+Taylor Swift  0.0100004  146
+David Guetta  0.0096752  66
+Adele  0.00947879  60
+Coldplay  0.009148  110
+Bruno Mars  0.00887935  75
+Miley Cyrus  0.00852043  59
+OneRepublic  0.00819953  28
+Flo Rida  0.00810776  50
+Jason Derulo  0.00804595  38
+P!nk  0.00798599  51
+Usher  0.00755237  55
+Linkin Park  0.00747933  225
+Jessie J  0.00723069  33
+Kelly Clarkson  0.00669573  35
+Calvin Harris  0.00667848  54
+Avril Lavigne  0.00664083  61
+Jennifer Lopez  0.00646738  44
+Madonna  0.00624579  161
+Owl City  0.00611582  60
+Beyoncé  0.00584397  82
+Gym Class Heroes  0.00548684  17
+Black Eyed Peas  0.00545239  68
+Karmin  0.0051009  14
+Lana Del Rey  0.00481486  36
+LMFAO  0.00475759  88
+will.i.am  0.00474787  21
+Adam Lambert  0.0046903  16
+Pitbull  0.00468865  53
+Michael Jackson  0.00451274  206
+Avicii  0.00443347  42
+Demi Lovato  0.0043751  19
+MARINA  0.00434474  27
+Taio Cruz  0.00431311  21
+B.o.B  0.00427716  28
+Muse  0.00422785  61
+Lorde  0.00421918  31
+Imagine Dragons  0.00415275  36
+Nicki Minaj  0.00409739  56
+Chris Brown  0.00409679  26
+Paramore  0.00395093  34
+Shakira  0.00392674  26

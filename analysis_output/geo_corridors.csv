@@ -1,0 +1,862 @@
+corridor_deriv_draws_from_source,weight
+United Kingdom → United States,2217
+Canada → United States,1298
+United States → United Kingdom,1297
+France → United States,751
+Australia → United States,615
+Australia → Japan,395
+Netherlands → United States,385
+Canada → United Kingdom,316
+United States → Canada,284
+United States → Japan,269
+France → United Kingdom,268
+Germany → United States,262
+United States → France,234
+Japan → United States,226
+Greece → United States,176
+Netherlands → United Kingdom,148
+Australia → United Kingdom,141
+Italy → United States,139
+United Kingdom → Germany,137
+United Kingdom → France,134
+United States → Jamaica,132
+Germany → United Kingdom,129
+United States → Germany,122
+Denmark → Italy,107
+United Kingdom → Canada,99
+United Kingdom → Japan,95
+United Kingdom → Italy,92
+United States → Australia,83
+Spain → United States,81
+Sweden → United States,78
+Australia → South Korea,77
+Ireland → United States,73
+United States → Sweden,71
+United States → Italy,70
+United States → Netherlands,65
+Belgium → United States,64
+Brazil → United States,61
+Czechia → United States,60
+United Kingdom → Jamaica,58
+Japan → United Kingdom,53
+Philippines → United States,53
+South Korea → United States,50
+France → Germany,46
+Netherlands → Germany,46
+United Kingdom → Australia,45
+United Kingdom → Netherlands,43
+United States → Brazil,43
+Canada → Japan,43
+Poland → United States,43
+Russia → United States,42
+Canada → France,42
+Malta → United Kingdom,42
+Canada → Australia,41
+United States → South Korea,40
+Estonia → United States,40
+United Kingdom → Sweden,39
+Italy → United Kingdom,38
+Sweden → United Kingdom,38
+Ireland → United Kingdom,36
+Australia → Canada,35
+Australia → Germany,35
+Canada → Sweden,34
+Czechia → United Kingdom,34
+France → Japan,33
+Jamaica → United States,33
+Brazil → United Kingdom,32
+Canada → Netherlands,30
+Vietnam → Japan,30
+France → Belgium,29
+United States → Ireland,29
+Austria → United States,29
+Greece → United Kingdom,29
+United Kingdom → Brazil,28
+Germany → Austria,28
+France → Canada,27
+Germany → France,27
+Belgium → United Kingdom,27
+United Kingdom → Ireland,25
+United States → Denmark,25
+Netherlands → Romania,25
+Spain → United Kingdom,24
+Canada → Jamaica,24
+New Zealand → United States,24
+France → South Korea,23
+Germany → Japan,23
+Latvia → United States,23
+Germany → Italy,22
+Germany → Canada,22
+Canada → Germany,21
+Indonesia → South Korea,21
+Nigeria → United States,21
+France → Sweden,20
+France → Italy,19
+France → Australia,19
+Australia → Italy,19
+Australia → France,19
+Netherlands → France,19
+Norway → United Kingdom,19
+United Kingdom → Argentina,18
+United States → Belgium,18
+Brazil → Canada,18
+Austria → United Kingdom,18
+United Kingdom → Finland,17
+United States → Finland,17
+Finland → United States,17
+Norway → United States,17
+Malaysia → United States,17
+United Kingdom → Belgium,16
+United Kingdom → Iceland,16
+United Kingdom → Austria,16
+Italy → Japan,16
+United States → Spain,16
+Netherlands → Japan,16
+United States → Puerto Rico,15
+United States → Russia,15
+Netherlands → Belgium,15
+Malta → United States,15
+Japan → Germany,14
+Japan → France,14
+Germany → Netherlands,14
+Belgium → Netherlands,14
+Netherlands → Sweden,14
+Mexico → United States,14
+United States → India,13
+Sweden → France,13
+Netherlands → Canada,13
+Netherlands → Italy,13
+Israel → United States,13
+Portugal → United States,13
+Indonesia → Japan,13
+Italy → South Korea,12
+Spain → Belgium,12
+Japan → Sweden,12
+United States → Mexico,12
+United States → Türkiye,12
+United States → Argentina,12
+United States → Austria,12
+United States → Iceland,12
+Greece → France,12
+United Kingdom → Norway,11
+United States → Norway,11
+United States → Switzerland,11
+Germany → Australia,11
+Australia → Sweden,11
+Canada → New Zealand,11
+Colombia → Puerto Rico,11
+Venezuela → United States,11
+Ukraine → United States,11
+United Kingdom → Switzerland,10
+United Kingdom → Hungary,10
+United Kingdom → Russia,10
+Japan → South Korea,10
+United States → Greece,10
+Germany → Spain,10
+Belgium → Canada,10
+South Korea → Japan,10
+Netherlands → Australia,10
+Netherlands → Jamaica,10
+Denmark → United States,10
+Russia → Italy,10
+Canada → Colombia,10
+Czechia → Japan,10
+Norway → Germany,10
+Italy → Ireland,9
+Italy → Germany,9
+Spain → Germany,9
+France → Jamaica,9
+France → Netherlands,9
+United States → Chile,9
+United States → South Africa,9
+United States → New Zealand,9
+Sweden → South Korea,9
+Germany → Belgium,9
+Germany → Jamaica,9
+Australia → Netherlands,9
+Finland → Japan,9
+Switzerland → United States,9
+Greece → Canada,9
+Bahamas → United States,9
+United Kingdom → Greece,8
+Japan → Canada,8
+United States → Nigeria,8
+Sweden → Japan,8
+Germany → Switzerland,8
+South Korea → United Kingdom,8
+Latvia → United Kingdom,8
+Canada → South Korea,8
+Canada → Switzerland,8
+Canada → Spain,8
+Brazil → Japan,8
+Switzerland → Colombia,8
+Switzerland → Germany,8
+Ukraine → United Kingdom,8
+United Kingdom → India,7
+United Kingdom → Denmark,7
+United Kingdom → Israel,7
+Japan → Jamaica,7
+United States → Poland,7
+Germany → Sweden,7
+Germany → Poland,7
+Canada → Italy,7
+Canada → Norway,7
+New Zealand → United Kingdom,7
+Finland → United Kingdom,7
+Finland → Italy,7
+Austria → Germany,7
+Poland → France,7
+Hungary → United States,7
+United Kingdom → South Africa,6
+Italy → Spain,6
+Spain → Italy,6
+Spain → Netherlands,6
+France → Israel,6
+United States → China,6
+Sweden → Germany,6
+Australia → Finland,6
+Belgium → Australia,6
+South Korea → Australia,6
+Mexico → Netherlands,6
+Mexico → United Kingdom,6
+Russia → Soviet Union,6
+Israel → Germany,6
+Israel → Canada,6
+Israel → United Kingdom,6
+Jamaica → United Kingdom,6
+Norway → Japan,6
+South Africa → United States,6
+Portugal → Japan,6
+Greece → Germany,6
+Poland → Germany,6
+United Kingdom → Bulgaria,5
+United Kingdom → Nigeria,5
+United Kingdom → South Korea,5
+Italy → Canada,5
+Italy → France,5
+Italy → Sweden,5
+Italy → Belgium,5
+Spain → France,5
+Japan → Brazil,5
+Japan → Australia,5
+Japan → Netherlands,5
+France → Serbia,5
+France → Norway,5
+France → Argentina,5
+France → Denmark,5
+France → Iceland,5
+France → Brazil,5
+United States → Bahamas,5
+United States → Israel,5
+United States → Hungary,5
+Germany → Türkiye,5
+Germany → Brazil,5
+Australia → Jamaica,5
+Belgium → Germany,5
+South Korea → Italy,5
+Netherlands → Russia,5
+Denmark → Spain,5
+Denmark → Germany,5
+Denmark → United Kingdom,5
+Latvia → Germany,5
+Russia → United Kingdom,5
+Canada → Estonia,5
+Argentina → United States,5
+Puerto Rico → United States,5
+Switzerland → United Kingdom,5
+Ukraine → France,5
+Singapore → Japan,5
+Nigeria → Jamaica,5
+United Kingdom → Spain,4
+United Kingdom → Bahamas,4
+United Kingdom → Romania,4
+United Kingdom → New Zealand,4
+Italy → Netherlands,4
+Italy → Brazil,4
+Japan → Montserrat,4
+France → Greece,4
+France → Czechia,4
+France → Switzerland,4
+France → Poland,4
+United States → Cuba,4
+United States → Senegal,4
+United States → Philippines,4
+Sweden → Puerto Rico,4
+Sweden → Italy,4
+Germany → Soviet Union,4
+Germany → Kingdom of the Netherlands,4
+Australia → Puerto Rico,4
+Belgium → France,4
+Netherlands → Ireland,4
+Netherlands → Denmark,4
+Netherlands → Kingdom of the Netherlands,4
+Mexico → Canada,4
+Russia → Netherlands,4
+Canada → Finland,4
+India → Pakistan,4
+India → United States,4
+Argentina → United Kingdom,4
+Puerto Rico → France,4
+Brazil → Germany,4
+Brazil → France,4
+Brazil → Kazakhstan,4
+Israel → North Macedonia,4
+Israel → Brazil,4
+Czechia → Australia,4
+Finland → Australia,4
+Austria → France,4
+Portugal → South Korea,4
+Portugal → United Kingdom,4
+Greece → Sweden,4
+Poland → United Kingdom,4
+Ukraine → Japan,4
+Singapore → United States,4
+Singapore → France,4
+Iceland → United Kingdom,4
+Hungary → United Kingdom,4
+Slovakia → Germany,4
+United Kingdom → Czechia,3
+Italy → Jamaica,3
+Italy → Finland,3
+Italy → Russia,3
+Spain → Sweden,3
+Japan → Kenya,3
+France → India,3
+France → South Africa,3
+France → Ireland,3
+France → Russia,3
+United States → British Virgin Islands,3
+United States → Cameroon,3
+United States → Ethiopia,3
+United States → Dominican Republic,3
+United States → Romania,3
+United States → Mali,3
+United States → Iran,3
+United States → Bulgaria,3
+United States → Portugal,3
+United States → Peru,3
+United States → Algeria,3
+Sweden → Canada,3
+Germany → Hungary,3
+Germany → Denmark,3
+Germany → Russia,3
+Germany → Cuba,3
+Germany → Greece,3
+Germany → Ireland,3
+Germany → Israel,3
+Australia → Austria,3
+Australia → Brazil,3
+Belgium → Italy,3
+Netherlands → Egypt,3
+Netherlands → Greece,3
+Netherlands → Finland,3
+Netherlands → Norway,3
+Netherlands → Austria,3
+Denmark → Ghana,3
+Ireland → Australia,3
+Ireland → Germany,3
+Mexico → Spain,3
+Russia → Finland,3
+Russia → Japan,3
+Russia → Germany,3
+Estonia → United Kingdom,3
+Canada → Iceland,3
+Argentina → Uruguay,3
+Brazil → Australia,3
+China → United States,3
+Czechia → South Korea,3
+Czechia → France,3
+Czechia → Canada,3
+New Zealand → South Africa,3
+Finland → Sweden,3
+Norway → Sweden,3
+Türkiye → United States,3
+Türkiye → United Kingdom,3
+Switzerland → Japan,3
+Portugal → Sweden,3
+Indonesia → United States,3
+Greece → Italy,3
+Greece → Australia,3
+Poland → Jamaica,3
+Ukraine → Germany,3
+Singapore → South Korea,3
+Iceland → Germany,3
+Romania → United States,3
+Hungary → Romania,3
+Malaysia → Germany,3
+Vietnam → United Kingdom,3
+Vietnam → United States,3
+Saint Vincent and The Grenadines → United States,3
+Senegal → Germany,3
+Senegal → United States,3
+United Kingdom → Ethiopia,2
+United Kingdom → Vietnam,2
+United Kingdom → Mexico,2
+United Kingdom → Cuba,2
+United Kingdom → Moldova,2
+United Kingdom → Puerto Rico,2
+United Kingdom → Mali,2
+United Kingdom → Portugal,2
+United Kingdom → Armenia,2
+United Kingdom → Colombia,2
+United Kingdom → Trinidad and Tobago,2
+Italy → Norway,2
+Spain → Canada,2
+Spain → Colombia,2
+Spain → Argentina,2
+Spain → Denmark,2
+Spain → Japan,2
+Japan → Finland,2
+Japan → Taiwan,2
+Japan → Norway,2
+Japan → Italy,2
+Japan → Poland,2
+France → Cuba,2
+France → Spain,2
+France → Portugal,2
+France → New Caledonia,2
+France → Austria,2
+France → Nigeria,2
+France → Colombia,2
+United States → Lebanon,2
+United States → Slovenia,2
+United States → Grenada,2
+United States → Venezuela,2
+Sweden → Jamaica,2
+Sweden → Ireland,2
+Sweden → Australia,2
+Sweden → South Africa,2
+Germany → Chile,2
+Germany → Norway,2
+Germany → South Korea,2
+Germany → Tunisia,2
+Australia → Iceland,2
+Australia → Argentina,2
+Australia → Norway,2
+Australia → Ireland,2
+Australia → Colombia,2
+Australia → Algeria,2
+Australia → Denmark,2
+Australia → Croatia,2
+Belgium → Sweden,2
+Belgium → Jamaica,2
+South Korea → Germany,2
+Netherlands → Puerto Rico,2
+Netherlands → Hungary,2
+Netherlands → Switzerland,2
+Netherlands → Spain,2
+Netherlands → South Korea,2
+Netherlands → South Africa,2
+Netherlands → Moldova,2
+Denmark → Tunisia,2
+Denmark → South Korea,2
+Denmark → Netherlands,2
+Ireland → Canada,2
+Mexico → Israel,2
+Mexico → Germany,2
+Mexico → Norway,2
+Mexico → Puerto Rico,2
+Latvia → Jamaica,2
+Latvia → Canada,2
+Russia → Ukraine,2
+Russia → India,2
+Russia → Canada,2
+Canada → Romania,2
+Canada → Ireland,2
+Canada → Barbados,2
+Canada → India,2
+Canada → South Africa,2
+Canada → Israel,2
+Canada → Brazil,2
+India → United Kingdom,2
+Argentina → Estonia,2
+Israel → Australia,2
+Israel → Italy,2
+China → Japan,2
+Czechia → Sweden,2
+Czechia → Ireland,2
+New Zealand → France,2
+New Zealand → Canada,2
+Colombia → Mexico,2
+Colombia → United States,2
+Colombia → United Kingdom,2
+Finland → Germany,2
+Jamaica → Sweden,2
+Austria → Sweden,2
+Austria → Australia,2
+Venezuela → Germany,2
+Venezuela → United Kingdom,2
+Belarus → Russia,2
+Switzerland → France,2
+Switzerland → Israel,2
+Portugal → France,2
+Portugal → Brazil,2
+Indonesia → United Kingdom,2
+Greece → South Korea,2
+Greece → Jamaica,2
+Soviet Union → Russia,2
+Soviet Union → United Kingdom,2
+Poland → Norway,2
+Lithuania → United States,2
+Slovenia → United Kingdom,2
+Ukraine → Argentina,2
+Malta → Germany,2
+Malta → Japan,2
+Malta → Canada,2
+Romania → India,2
+Hungary → Italy,2
+Hungary → France,2
+Serbia → United States,2
+Serbia → Germany,2
+Kazakhstan → Antarctica,2
+Kingdom of the Netherlands → Netherlands,2
+Nigeria → United Kingdom,2
+Taiwan → Japan,2
+Malaysia → United Kingdom,2
+Malaysia → Japan,2
+Vietnam → South Korea,2
+Egypt → Bulgaria,2
+Peru → United States,2
+Guatemala → United States,2
+United Kingdom → Slovenia,1
+United Kingdom → Georgia,1
+United Kingdom → Panama,1
+United Kingdom → Egypt,1
+United Kingdom → Cameroon,1
+United Kingdom → Venezuela,1
+United Kingdom → Pakistan,1
+United Kingdom → Thailand,1
+United Kingdom → Iran,1
+United Kingdom → Ukraine,1
+United Kingdom → Bosnia and Herzegovina,1
+United Kingdom → Soviet Union,1
+United Kingdom → Belarus,1
+United Kingdom → Antigua and Barbuda,1
+United Kingdom → Lebanon,1
+United Kingdom → British Virgin Islands,1
+United Kingdom → Kazakhstan,1
+Italy → Romania,1
+Italy → Algeria,1
+Italy → Denmark,1
+Italy → Poland,1
+Italy → Australia,1
+Italy → San Marino,1
+Spain → Venezuela,1
+Spain → Russia,1
+Spain → Iceland,1
+Spain → Puerto Rico,1
+Spain → Tunisia,1
+Spain → Mexico,1
+Spain → Bulgaria,1
+Spain → Australia,1
+Spain → Jamaica,1
+Spain → Chile,1
+Spain → Brazil,1
+Spain → Ukraine,1
+Spain → Moldova,1
+Spain → Cuba,1
+Spain → Ireland,1
+Japan → Belgium,1
+Japan → Czechia,1
+Japan → Mexico,1
+Japan → Argentina,1
+Japan → Latvia,1
+Japan → Greece,1
+Japan → Serbia,1
+Japan → Philippines,1
+Japan → Austria,1
+France → Trinidad and Tobago,1
+France → Lebanon,1
+France → Angola,1
+France → Jersey,1
+France → Puerto Rico,1
+France → Peru,1
+France → French Polynesia,1
+France → Hungary,1
+France → Mexico,1
+France → Panama,1
+France → Egypt,1
+France → New Zealand,1
+United States → Solomon Islands,1
+United States → East Germany,1
+United States → Estonia,1
+United States → Réunion,1
+United States → Belarus,1
+United States → Angola,1
+United States → Thailand,1
+United States → North Macedonia,1
+United States → Zimbabwe,1
+United States → Moldova,1
+United States → Sierra Leone,1
+United States → Ghana,1
+United States → Cape Verde,1
+United States → Malaysia,1
+United States → Czechia,1
+United States → Uruguay,1
+United States → Panama,1
+United States → U.S. Virgin Islands,1
+United States → Guinea,1
+United States → Colombia,1
+United States → Egypt,1
+Sweden → Czechia,1
+Sweden → Azerbaijan,1
+Sweden → Belgium,1
+Sweden → Spain,1
+Sweden → Finland,1
+Sweden → Mali,1
+Sweden → Tanzania,1
+Sweden → Lebanon,1
+Sweden → Thailand,1
+Sweden → Norway,1
+Germany → Trinidad and Tobago,1
+Germany → Finland,1
+Germany → Puerto Rico,1
+Germany → New Zealand,1
+Germany → China,1
+Germany → Colombia,1
+Germany → East Germany,1
+Germany → Ukraine,1
+Germany → Lithuania,1
+Germany → Argentina,1
+Germany → Mexico,1
+Germany → Romania,1
+Australia → Kosovo,1
+Australia → Senegal,1
+Australia → New Zealand,1
+Australia → Spain,1
+Australia → Israel,1
+Australia → Greece,1
+Australia → Bahamas,1
+Australia → India,1
+Australia → Zimbabwe,1
+Belgium → Mali,1
+Belgium → Norway,1
+Belgium → Spain,1
+Belgium → Japan,1
+Belgium → Switzerland,1
+South Korea → Romania,1
+South Korea → Spain,1
+South Korea → Norway,1
+South Korea → Belgium,1
+South Korea → Austria,1
+Netherlands → Ghana,1
+Netherlands → Poland,1
+Netherlands → Serbia,1
+Netherlands → Ukraine,1
+Denmark → Greece,1
+Denmark → Israel,1
+Denmark → Japan,1
+Denmark → Sweden,1
+Ireland → Bulgaria,1
+Ireland → France,1
+Ireland → Sweden,1
+Ireland → Colombia,1
+Ireland → Italy,1
+Mexico → France,1
+Mexico → Chile,1
+Mexico → Belgium,1
+Latvia → Türkiye,1
+Latvia → Soviet Union,1
+Latvia → Sweden,1
+Latvia → Italy,1
+Latvia → Portugal,1
+Russia → Denmark,1
+Russia → Sweden,1
+Russia → South Korea,1
+Russia → Egypt,1
+Russia → Moldova,1
+Russia → Hungary,1
+Russia → Türkiye,1
+Russia → Slovakia,1
+Russia → Croatia,1
+Russia → Norway,1
+Russia → France,1
+Russia → Ireland,1
+Estonia → Ireland,1
+Estonia → Germany,1
+Estonia → Denmark,1
+Canada → Greece,1
+Canada → Belgium,1
+Canada → Singapore,1
+Canada → Iran,1
+Canada → Cameroon,1
+Canada → Türkiye,1
+Canada → Puerto Rico,1
+Canada → Zimbabwe,1
+Canada → Nigeria,1
+Canada → British Virgin Islands,1
+Canada → Russia,1
+Canada → Indonesia,1
+Canada → Denmark,1
+Puerto Rico → Canada,1
+Puerto Rico → Senegal,1
+Puerto Rico → Spain,1
+Puerto Rico → Italy,1
+Puerto Rico → Colombia,1
+Puerto Rico → Dominican Republic,1
+Puerto Rico → Mexico,1
+Puerto Rico → Cuba,1
+Brazil → Democratic Republic of the Congo,1
+Brazil → Spain,1
+Brazil → Argentina,1
+Brazil → Jamaica,1
+Brazil → Italy,1
+Brazil → Belgium,1
+Brazil → Austria,1
+Brazil → Sweden,1
+Brazil → Russia,1
+Brazil → Puerto Rico,1
+Israel → Antigua and Barbuda,1
+Israel → Sweden,1
+Israel → France,1
+Israel → Greece,1
+Israel → Serbia,1
+Israel → Lithuania,1
+China → Sweden,1
+China → Malaysia,1
+China → France,1
+Czechia → Jamaica,1
+Czechia → Italy,1
+Czechia → Bahamas,1
+Czechia → Germany,1
+Czechia → British Virgin Islands,1
+New Zealand → Netherlands,1
+New Zealand → Iceland,1
+New Zealand → Germany,1
+New Zealand → Italy,1
+Dominican Republic → Puerto Rico,1
+Colombia → Jamaica,1
+Colombia → Chile,1
+Colombia → Germany,1
+Colombia → France,1
+Finland → South Africa,1
+Finland → Netherlands,1
+Finland → New Zealand,1
+Finland → Canada,1
+Jamaica → Ireland,1
+Jamaica → Italy,1
+Jamaica → France,1
+Jamaica → Iceland,1
+Jamaica → Canada,1
+Jamaica → Serbia,1
+Norway → Canada,1
+Norway → Russia,1
+Norway → France,1
+Norway → Antigua and Barbuda,1
+Norway → Netherlands,1
+Norway → Austria,1
+Norway → Belgium,1
+Norway → Israel,1
+Norway → Finland,1
+Norway → Italy,1
+Austria → Norway,1
+Austria → Mali,1
+Austria → Switzerland,1
+Austria → Russia,1
+Austria → Senegal,1
+Austria → Bulgaria,1
+Austria → Japan,1
+Austria → Netherlands,1
+Austria → Finland,1
+Türkiye → Japan,1
+Moldova → United States,1
+Moldova → Netherlands,1
+Chile → Cuba,1
+South Africa → Jamaica,1
+South Africa → United Kingdom,1
+South Africa → France,1
+South Africa → Thailand,1
+South Africa → Italy,1
+South Africa → Soviet Union,1
+Venezuela → France,1
+Venezuela → Peru,1
+Venezuela → Japan,1
+Venezuela → Sweden,1
+Belarus → Ukraine,1
+Switzerland → Poland,1
+Switzerland → Italy,1
+Switzerland → Brazil,1
+Portugal → Spain,1
+Portugal → Germany,1
+Portugal → Canada,1
+Portugal → Jamaica,1
+Portugal → Belarus,1
+Portugal → Netherlands,1
+Portugal → Norway,1
+Portugal → Italy,1
+Portugal → Colombia,1
+Greece → Netherlands,1
+Greece → New Zealand,1
+Greece → Norway,1
+Panama → Puerto Rico,1
+Poland → Slovenia,1
+Poland → Iceland,1
+Poland → Canada,1
+Poland → Italy,1
+Poland → Ukraine,1
+Kenya → United States,1
+Lithuania → Romania,1
+Lithuania → Sweden,1
+Slovenia → United States,1
+Ukraine → Bahamas,1
+Ukraine → Canada,1
+Ukraine → Estonia,1
+Ukraine → Denmark,1
+Ukraine → Norway,1
+Ukraine → Italy,1
+Malta → Greece,1
+Malta → Italy,1
+Malta → Denmark,1
+Iceland → Australia,1
+Iceland → United States,1
+Romania → United Kingdom,1
+Hungary → Germany,1
+Hungary → Austria,1
+Hungary → Japan,1
+Croatia → Canada,1
+Thailand → United States,1
+Thailand → Japan,1
+Serbia → Denmark,1
+Cuba → United Kingdom,1
+Philippines → Australia,1
+Philippines → United Kingdom,1
+Philippines → South Korea,1
+Philippines → Russia,1
+Slovakia → Russia,1
+Slovakia → Czechia,1
+Kingdom of the Netherlands → United States,1
+Kingdom of the Netherlands → United Kingdom,1
+Nigeria → Trinidad and Tobago,1
+Nigeria → Germany,1
+Nigeria → South Korea,1
+Nigeria → Côte d'Ivoire,1
+Nigeria → Ireland,1
+Nigeria → Senegal,1
+Nigeria → Canada,1
+Nigeria → Benin,1
+Pakistan → India,1
+Pakistan → United States,1
+Malaysia → Peru,1
+Malaysia → Jamaica,1
+Malaysia → China,1
+Malaysia → Canada,1
+Vietnam → Belgium,1
+Vietnam → Israel,1
+Vietnam → China,1
+Egypt → France,1
+Bangladesh → India,1
+Lebanon → Norway,1
+Bosnia and Herzegovina → Belgium,1
+Bosnia and Herzegovina → United Kingdom,1
+Bahamas → Canada,1
+Bahamas → France,1
+North Korea → France,1
+Uruguay → Costa Rica,1
+Senegal → United Kingdom,1
+Åland Islands → France,1
+Madagascar → Japan,1
+Palestine → India,1
+Isle of Man → South Korea,1
+United Arab Emirates → United States,1
+Christmas Island → Australia,1
+Brunei → Malaysia,1

@@ -1,0 +1,71 @@
+{
+  "within_country_share_observed": 0.8993,
+  "within_country_share_expected_null": 0.1511,
+  "homophily_ratio": 5.95,
+  "top_net_sources": [
+    [
+      "United States",
+      3983
+    ],
+    [
+      "Japan",
+      638
+    ],
+    [
+      "Jamaica",
+      233
+    ],
+    [
+      "South Korea",
+      143
+    ],
+    [
+      "Italy",
+      133
+    ]
+  ],
+  "top_net_importers": [
+    [
+      "United Kingdom",
+      -432
+    ],
+    [
+      "Netherlands",
+      -544
+    ],
+    [
+      "France",
+      -762
+    ],
+    [
+      "Australia",
+      -1148
+    ],
+    [
+      "Canada",
+      -1378
+    ]
+  ],
+  "top_corridors": [
+    [
+      "United Kingdom→United States",
+      2217
+    ],
+    [
+      "Canada→United States",
+      1298
+    ],
+    [
+      "United States→United Kingdom",
+      1297
+    ],
+    [
+      "France→United States",
+      751
+    ],
+    [
+      "Australia→United States",
+      615
+    ]
+  ]
+}

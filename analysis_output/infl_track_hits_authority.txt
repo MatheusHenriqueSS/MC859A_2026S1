@@ -1,0 +1,52 @@
+entity  authority  in_strength
+----------------------------------------------------------------------
+PSY — Gangnam Style (강남스타일)  0.232769  217
+PSY — Gentleman  0.0155793  25
+Quad City DJ’s — Space Jam  0.0118388  86
+Smash Mouth — All Star  0.009876  70
+Kesha — Die Young  0.00824751  37
+Soulja Boy — Crank That (Soulja Boy)  0.00661827  28
+Nicki Minaj — Starships  0.00639807  18
+Rick Astley — Never Gonna Give You Up  0.00630981  40
+LMFAO — Party Rock Anthem  0.00592167  36
+Drowning Pool — Bodies  0.00549112  31
+Carly Rae Jepsen — Call Me Maybe  0.00501068  50
+Limp Bizkit — Rollin’ (Air Raid Vehicle)  0.00490085  10
+Darude — Sandstorm (original mix)  0.00484819  14
+Barenaked Ladies — One Week  0.00442273  10
+The Killers — Mr. Brightside  0.0044207  23
+TryHardNinja — Revenge  0.00441485  13
+One Direction — What Makes You Beautiful  0.0043032  19
+DragonForce — Through the Fire and Flames  0.00424639  12
+Bag Raiders — Shooting Stars  0.00399334  8
+Owl City — Good Time  0.00392505  13
+Jessie J — Domino  0.0039088  13
+Maroon 5 — Moves Like Jagger  0.00378954  17
+Baauer — Harlem Shake  0.00367186  13
+Oasis — Wonderwall  0.00365905  39
+TeddyLoid — Fly Away  0.00353351  5
+Crazy Frog — Axel F  0.00349603  8
+Gotye — Somebody That I Used to Know  0.00349136  37
+PSY — Hangover  0.00343383  10
+Santana — Smooth  0.00331804  15
+Mark Ronson — Uptown Funk  0.00329256  21
+Survivor — Eye of the Tiger  0.00311661  14
+Das Racist — Combination Pizza Hut and Taco Bell  0.00309319  6
+Snoop Dogg — Drop It Like It’s Hot  0.00307565  16
+Linkin Park — Numb  0.00299698  48
+Lil Nas X — Old Town Road  0.00298265  8
+愛瀬雅巳 — カラテ家  0.0029301  3
+The Living Tombstone — No Mercy  0.0029152  3
+Big Shaq — Man’s Not Hot  0.00280799  8
+iLOVEFRiDAY — Mia Khalifa  0.0028075  5
+Calvin Harris — Feel So Close  0.00274965  8
+Katy Perry — Wide Awake  0.00267364  9
+LazyTown — We Are Number One  0.00264173  9
+Kero Kero Bonito — Flamingo  0.00261694  8
+LMFAO — Sexy and I Know It  0.00257529  13
+Bloodhound Gang — The Bad Touch  0.00256739  10
+Linkin Park — One Step Closer  0.00256462  16
+ClariS — irony  0.00253099  12
+床井健一 — Planet Wisp - Act 1  0.00251429  13
+μ's — Snow halation  0.00250538  29
+栗林みな実 — STRAIGHT JET  0.00249594  2
