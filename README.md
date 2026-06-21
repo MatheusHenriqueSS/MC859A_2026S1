@@ -22,20 +22,29 @@ apêndice sobre o pivô WhoSampled → MusicBrainz.
 ├── README.md                       este arquivo
 ├── f1_report.pdf                   relatório da entrega parcial F1
 ├── src/
-│   ├── extract_tsvs.py             extrai seletivamente do mbdump.tar.bz2
-│   └── build_mb_graph.py           constrói os 4 grafos via DuckDB+NetworkX
-└── graph_output/
-    ├── mb_sample_graph.graphml     nível-faixa  (321.738 nós / 222.696 arestas)
-    ├── mb_artist_graph.graphml     nível-artista ( 47.286 nós /  41.014 arestas)
-    ├── mb_decade_graph.graphml     nível-década (     13 nós /      88 arestas)
-    ├── mb_country_graph.graphml    nível-país   (    159 nós /   1.003 arestas)
-    ├── *_stats.txt                 dimensões, componentes, top-20 por força
-    ├── degree_distribution.png     distribuição de in-/out-degree (faixa)
-    ├── component_sizes.png         distribuição de tamanhos de SCC/WCC (faixa)
-    ├── artist_*.png                idem, agregação artista
-    ├── decade_*.png                idem, agregação década
-    └── country_*.png               idem, agregação país
+│   ├── extract_tsvs.py                extrai seletivamente do mbdump.tar.bz2
+│   ├── build_mb_graph.py             constrói os 4 grafos F1 via DuckDB+NetworkX
+│   ├── build_track_v2.py             re-emite o grafo de faixa com ano+país (F2)
+│   ├── graphs.py                     registro nome-lógico → arquivo (.graphml.gz)
+│   └── analyze_*.py                  análises F2 (influência, comunidades, ...)
+├── graph_output/                     instâncias em GraphML gzipado
+│   ├── mb_sample_graph.graphml.gz       nível-faixa F1 (321.738 nós / 222.696 ar.)
+│   ├── mb_sample_graph_v2.graphml.gz    nível-faixa F2 (+ ano, país por nó)
+│   ├── mb_artist_graph.graphml.gz       nível-artista (47.286 nós / 41.014 ar.)
+│   ├── mb_decade_graph.graphml.gz       nível-década (13 nós / 88 ar.)
+│   ├── mb_country_graph.graphml.gz      nível-país   (159 nós / 1.003 ar.)
+│   └── *_stats.txt, *.png               estatísticas e visualizações
+└── analysis_output/                  resultados F2 (rankings, métricas, plots)
 ```
+
+## Formato e carregamento das instâncias
+
+Todas as instâncias são **GraphML gzipado** (`*.graphml.gz`) — formato uniforme
+independente do tamanho. NetworkX lê/escreve `.gz` diretamente
+(`nx.read_graphml("...graphml.gz")`); para ferramentas como o Gephi, descomprima
+antes (`gunzip -k arquivo.graphml.gz`). O código carrega grafos por **nome
+lógico** via `src/graphs.py` (ex.: `graphs.load("track_v2")`), de modo que o
+local de armazenamento de uma instância pode mudar sem afetar as análises.
 
 ## Reprodução
 
