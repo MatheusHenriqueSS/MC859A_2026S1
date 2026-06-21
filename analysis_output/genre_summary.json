@@ -1,0 +1,124 @@
+{
+  "within_genre_share_observed": 0.6222,
+  "within_genre_share_expected_null": 0.0272,
+  "homophily_ratio": 22.85,
+  "n_genres": 881,
+  "top_net_sources": [
+    [
+      "pop",
+      2536
+    ],
+    [
+      "rock",
+      1683
+    ],
+    [
+      "funk",
+      1115
+    ],
+    [
+      "soul",
+      1022
+    ],
+    [
+      "jazz",
+      903
+    ],
+    [
+      "electronic",
+      789
+    ],
+    [
+      "disco",
+      600
+    ],
+    [
+      "industrial",
+      542
+    ]
+  ],
+  "top_net_importers": [
+    [
+      "comedy",
+      -345
+    ],
+    [
+      "trance",
+      -443
+    ],
+    [
+      "edm",
+      -510
+    ],
+    [
+      "j-pop",
+      -565
+    ],
+    [
+      "plunderphonics",
+      -697
+    ],
+    [
+      "drum and bass",
+      -849
+    ],
+    [
+      "dubstep",
+      -860
+    ],
+    [
+      "hip hop",
+      -2768
+    ]
+  ],
+  "top_cross_genre_corridors": [
+    [
+      "hip hop→soul",
+      689
+    ],
+    [
+      "hip hop→funk",
+      625
+    ],
+    [
+      "hip hop→jazz",
+      530
+    ],
+    [
+      "dance-pop→pop",
+      495
+    ],
+    [
+      "electronic→pop",
+      488
+    ],
+    [
+      "electronic→hip hop",
+      408
+    ],
+    [
+      "hip hop→pop",
+      375
+    ],
+    [
+      "pop→dance-pop",
+      320
+    ],
+    [
+      "j-pop→electronic",
+      320
+    ],
+    [
+      "trance→electronic",
+      253
+    ],
+    [
+      "electronic→house",
+      247
+    ],
+    [
+      "dubstep→electronic",
+      246
+    ]
+  ]
+}

@@ -25,6 +25,7 @@ apêndice sobre o pivô WhoSampled → MusicBrainz.
 │   ├── extract_tsvs.py                extrai seletivamente do mbdump.tar.bz2
 │   ├── build_mb_graph.py             constrói os 4 grafos F1 via DuckDB+NetworkX
 │   ├── build_track_v2.py             re-emite o grafo de faixa com ano+país (F2)
+│   ├── build_genre_graph.py          grafo de gênero (tags do dump derived) (F2)
 │   ├── graphs.py                     registro nome-lógico → arquivo (.graphml.gz)
 │   └── analyze_*.py                  análises F2 (influência, comunidades, ...)
 ├── graph_output/                     instâncias em GraphML gzipado
@@ -33,6 +34,7 @@ apêndice sobre o pivô WhoSampled → MusicBrainz.
 │   ├── mb_artist_graph.graphml.gz       nível-artista (47.286 nós / 41.014 ar.)
 │   ├── mb_decade_graph.graphml.gz       nível-década (13 nós / 88 ar.)
 │   ├── mb_country_graph.graphml.gz      nível-país   (159 nós / 1.003 ar.)
+│   ├── mb_genre_graph.graphml.gz        nível-gênero (881 gêneros / 9.037 ar., F2)
 │   └── *_stats.txt, *.png               estatísticas e visualizações
 └── analysis_output/                  resultados F2 (rankings, métricas, plots)
 ```

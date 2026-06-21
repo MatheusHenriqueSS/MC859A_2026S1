@@ -1,0 +1,62 @@
+corridor_deriv_draws_from_source  weight
+----------------------------------------------------------------------
+hip hop → soul  689
+hip hop → funk  625
+hip hop → jazz  530
+dance-pop → pop  495
+electronic → pop  488
+electronic → hip hop  408
+hip hop → pop  375
+pop → dance-pop  320
+j-pop → electronic  320
+trance → electronic  253
+electronic → house  247
+dubstep → electronic  246
+pop → hip hop  235
+alternative rock → rock  233
+pop → contemporary r&b  231
+j-pop → pop  229
+hip hop → disco  222
+hip hop → gangsta rap  220
+hip hop → rock  219
+downtempo → electronic  213
+electronic → ambient  211
+hip hop → electronic  207
+dance → pop  206
+contemporary r&b → pop  206
+electronic → rock  199
+ebm → electronic  198
+ebm → industrial  197
+electropop → electronic  192
+hip hop → r&b  187
+house → pop  187
+pop → rock  178
+house → electronic  176
+electronic → dance  172
+electronic → synth-pop  171
+electro → electronic  170
+classic rock → rock  167
+indie pop → pop  161
+electronic → dance-pop  159
+electronic → alternative rock  152
+pop → electronic  150
+ambient → electronic  143
+soul → pop  141
+dance → electronic  130
+electronic → downtempo  129
+rock → classic rock  129
+drum and bass → electronic  125
+electronic → disco  122
+electronic rock → industrial  121
+acid jazz → electronic  118
+edm → electronic  116
+electro house → electronic  114
+electronic → electropop  113
+indie rock → alternative rock  109
+indie rock → rock  106
+neue deutsche welle → electronic  104
+synth-pop → electronic  103
+j-pop → dance  102
+alternative rock → pop  102
+dance-pop → electronic  101
+drum and bass → hip hop  98

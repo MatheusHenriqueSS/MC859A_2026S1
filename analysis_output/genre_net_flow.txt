@@ -1,0 +1,42 @@
+genre  in_strength_sampled  out_strength_samples  net_influence_in_minus_out
+----------------------------------------------------------------------
+pop  10581  8045  2536
+rock  3850  2167  1683
+funk  1591  476  1115
+soul  1677  655  1022
+jazz  2164  1261  903
+electronic  13970  13181  789
+disco  1058  458  600
+industrial  1208  666  542
+alternative rock  2765  2354  411
+new wave  968  560  408
+r&b  898  576  322
+blues  449  187  262
+heavy metal  566  337  229
+classical  1314  1119  195
+hard rock  875  696  179
+reggae  506  329  177
+punk  583  428  155
+latin  992  840  152
+metal  487  344  143
+j-rock  237  117  120
+brostep  226  115  111
+complextro  620  511  109
+ballad  421  315  106
+synth-pop  635  531  104
+alternative pop  486  389  97
+psychedelic rock  237  155  82
+ambient  2451  2379  72
+folk  503  431  72
+melodic dubstep  106  34  72
+tech house  336  269  67
+new age  145  78  67
+art pop  283  218  65
+alternative metal  499  435  64
+idm  284  221  63
+midtempo bass  75  14  61
+bubblegum bass  88  27  61
+k-pop  618  559  59
+progressive electronic  87  28  59
+contemporary jazz  112  53  59
+jazz-funk  91  36  55

@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
-"""Extract only the MusicBrainz TSV tables we need from mbdump.tar.bz2.
+"""Extract only the MusicBrainz TSV tables we need from the public dumps.
 
-Avoids the full ~50 GB extraction — pulls only the tables that participate
-in the sample/remix/cover graph. Files land in data/tsv/ as tab-separated
-PostgreSQL COPY files (NULLs written as \\N).
+Avoids the full ~50 GB extraction — pulls only the tables that participate in the
+sample/remix/cover graph. Files land in data/tsv/ as tab-separated PostgreSQL
+COPY files (NULLs written as \\N).
+
+Two source tarballs:
+  - mbdump.tar.bz2          (core)    — entities, relationships, `genre` vocab.
+  - mbdump-derived.tar.bz2  (derived) — folksonomy tags (`tag`, `*_tag`), used
+                                        for the F2 genre layer.
+
+NOTE: the core dump used for F1/F2 is export 20260425-002540. That export was
+rotated off the mirror, so the tag tables are taken from a later derived dump;
+MusicBrainz ids are stable across exports, so the join by recording/artist id is
+valid. Download whichever derived export is current and place it next to the core
+tarball as data/mbdump-derived.tar.bz2.
 """
 
 from __future__ import annotations
@@ -13,10 +24,11 @@ import sys
 import tarfile
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TARBALL = os.path.join(REPO, "data", "mbdump.tar.bz2")
+TARBALL_CORE = os.path.join(REPO, "data", "mbdump.tar.bz2")
+TARBALL_DERIVED = os.path.join(REPO, "data", "mbdump-derived.tar.bz2")
 OUT_DIR = os.path.join(REPO, "data", "tsv")
 
-NEEDED = {
+NEEDED_CORE = {
     "mbdump/artist",
     "mbdump/artist_credit",
     "mbdump/artist_credit_name",
@@ -31,28 +43,34 @@ NEEDED = {
     "mbdump/medium",
     "mbdump/release_country",
     "mbdump/release_unknown_country",
+    # Genre vocabulary (F2 Phase 2).
+    "mbdump/genre",
+}
+
+NEEDED_DERIVED = {
+    # Folksonomy tags — a tag is a genre when its name is in the `genre` vocab.
+    "mbdump/tag",
+    "mbdump/artist_tag",
+    "mbdump/recording_tag",
 }
 
 
-def main() -> None:
-    if not os.path.exists(TARBALL):
-        sys.exit(f"missing tarball: {TARBALL}")
-    os.makedirs(OUT_DIR, exist_ok=True)
-
-    remaining = {n for n in NEEDED
+def extract_from(tarball: str, needed: set) -> None:
+    if not os.path.exists(tarball):
+        print(f"  tarball not present, skipping: {tarball}")
+        return
+    remaining = {n for n in needed
                  if not os.path.exists(os.path.join(OUT_DIR, os.path.basename(n)))}
     if not remaining:
-        print("all needed TSVs already present, nothing to do")
-    else:
-        print(f"need to extract: {sorted(remaining)}")
-
-    with tarfile.open(TARBALL, mode="r:bz2") as tf:
+        print(f"  all needed already present from {os.path.basename(tarball)}")
+        return
+    print(f"  from {os.path.basename(tarball)} need: {sorted(remaining)}")
+    with tarfile.open(tarball, mode="r:bz2") as tf:
         for m in tf:
             if m.name not in remaining:
                 continue
-            base = os.path.basename(m.name)
-            dst = os.path.join(OUT_DIR, base)
-            print(f"extracting {m.name} -> {dst} ({m.size / 1024 / 1024:.1f} MB)", flush=True)
+            dst = os.path.join(OUT_DIR, os.path.basename(m.name))
+            print(f"  extracting {m.name} -> {dst} ({m.size / 1024 / 1024:.1f} MB)", flush=True)
             with tf.extractfile(m) as src, open(dst, "wb") as out:
                 while True:
                     chunk = src.read(1024 * 1024)
@@ -61,9 +79,18 @@ def main() -> None:
                     out.write(chunk)
             remaining.discard(m.name)
             if not remaining:
-                print("all needed members extracted, stopping early", flush=True)
+                print(f"  all needed members extracted from {os.path.basename(tarball)}", flush=True)
                 break
+    if remaining:
+        print(f"  WARNING: not found in {os.path.basename(tarball)}: {sorted(remaining)}")
 
+
+def main() -> None:
+    if not os.path.exists(TARBALL_CORE):
+        sys.exit(f"missing core tarball: {TARBALL_CORE}")
+    os.makedirs(OUT_DIR, exist_ok=True)
+    extract_from(TARBALL_CORE, NEEDED_CORE)
+    extract_from(TARBALL_DERIVED, NEEDED_DERIVED)
     print("done.")
     for name in sorted(os.listdir(OUT_DIR)):
         path = os.path.join(OUT_DIR, name)

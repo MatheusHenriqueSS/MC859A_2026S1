@@ -60,9 +60,10 @@ Edge-type mix (track): remix 128,560 · edit 31,728 · sample 22,706 · dj_mix 2
 - **Data enablers (decide per scope):**
   1. ~~Track nodes lack `year`/`country`~~ **DONE** — `mb_sample_graph_v2`
      carries `year` (99.2%) + `country` (75%) on nodes (`build_track_v2.py`).
-  2. **Genre is not extracted.** A genre layer needs a re-extract pass over
-     `data/mbdump.tar.bz2` (add `tag`/`genre`/`recording_tag` etc. to
-     `extract_tsvs.py`). Optional/stretch.
+  2. ~~Genre is not extracted~~ **DONE** — tags come from the *derived* dump
+     (`mbdump-derived.tar.bz2`, ~478 MB); genre per recording resolved in
+     `build_genre_graph.py`. Coverage 66.4% — the other ~33% are recordings whose
+     own track *and* whose artist carry no genre tag in MusicBrainz.
 - **Identity:** recording `id` is the canonical join key; display names may have
   near-duplicates — never merge on name.
 
@@ -76,9 +77,11 @@ even if the riskiest piece (Spotify) slips:
   python-igraph leidenalg powerlaw seaborn`; re-emit `mb_sample_graph_v2.graphml`
   with `year`+`country` on nodes (builder already has them per edge).
 - **Phase 1 — core analysis (pillars 1–5):** `src/analyze_*.py` → `analysis_output/`.
-- **Phase 2 — genre layer (~½ day):** add `tag`/`genre`/`recording_tag`
-  (+release-group genres) to `extract_tsvs.py`, re-extract, build
-  `mb_genre_graph.graphml` + genre flow matrix + genre homophily.
+- **Phase 2 — genre layer ✅ DONE:** tags live in the *derived* dump
+  (`mbdump-derived.tar.bz2`), not core; `extract_tsvs.py` now reads both.
+  `build_genre_graph.py` resolves a genre per recording (recording_tag → artist_tag
+  fallback; 66.4% coverage) → `mb_genre_graph.graphml.gz` (881 genres). Homophily
+  22.85; hip hop = top net importer, sampling soul/funk/jazz (validates the method).
 - **Phase 3 — Spotify (scoped, GATED):** top ~3–5K influential recordings matched
   via MusicBrainz **ISRC** → Spotify. **Blocker: user must supply Spotify client
   ID/secret.** Runs last; optional report subsection if time runs short.
@@ -123,7 +126,9 @@ Grounded in what these graphs support. Core = 1–5; stretch = 6–7.
   helpers, placeholder filter, `save_ranking`/`save_summary` → `analysis_output/`.
 - `src/analyze_influence.py` (P1) · `analyze_communities.py` (P2) ·
   `analyze_structure.py` (P5) · `analyze_temporal.py` (P3) ·
-  `analyze_geography.py` (P4). Run from `src/` with `../venv/bin/python`.
+  `analyze_geography.py` (P4) · `analyze_genre.py` (P2 genre). Run from `src/`.
+- `src/extract_tsvs.py` reads BOTH core + derived dumps; `src/build_genre_graph.py`
+  resolves recording genres and builds the `genre` instance.
 
 **Methodological decisions (verified 2026-06-20):**
 - **Drop placeholder artist nodes** (`[unknown]`, `Various Artists`, `[no
