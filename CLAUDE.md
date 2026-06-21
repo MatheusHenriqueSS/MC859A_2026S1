@@ -61,9 +61,9 @@ Edge-type mix (track): remix 128,560 · edit 31,728 · sample 22,706 · dj_mix 2
   1. ~~Track nodes lack `year`/`country`~~ **DONE** — `mb_sample_graph_v2`
      carries `year` (99.2%) + `country` (75%) on nodes (`build_track_v2.py`).
   2. ~~Genre is not extracted~~ **DONE** — tags come from the *derived* dump
-     (`mbdump-derived.tar.bz2`, ~478 MB); genre per recording resolved in
-     `build_genre_graph.py`. Coverage 66.4% — the other ~33% are recordings whose
-     own track *and* whose artist carry no genre tag in MusicBrainz.
+     (`mbdump-derived.tar.bz2`, ~478 MB) + `release` from core; genre per recording
+     resolved in `build_genre_graph.py` via 3-tier fallback (recording → album →
+     artist). Coverage 83.1% — the other ~17% have no genre tag at any level.
 - **Identity:** recording `id` is the canonical join key; display names may have
   near-duplicates — never merge on name.
 
@@ -79,9 +79,10 @@ even if the riskiest piece (Spotify) slips:
 - **Phase 1 — core analysis (pillars 1–5):** `src/analyze_*.py` → `analysis_output/`.
 - **Phase 2 — genre layer ✅ DONE:** tags live in the *derived* dump
   (`mbdump-derived.tar.bz2`), not core; `extract_tsvs.py` now reads both.
-  `build_genre_graph.py` resolves a genre per recording (recording_tag → artist_tag
-  fallback; 66.4% coverage) → `mb_genre_graph.graphml.gz` (881 genres). Homophily
-  22.85; hip hop = top net importer, sampling soul/funk/jazz (validates the method).
+  `build_genre_graph.py` resolves a genre per recording via a 3-tier fallback
+  (recording_tag → release-group/album → artist_tag; **83.1% coverage**) →
+  `mb_genre_graph.graphml.gz` (888 genres). Homophily 8.13; net sources =
+  funk/soul/jazz/disco, net importers = electronic/hip hop (validates the method).
 - **Phase 3 — Spotify (scoped, GATED):** top ~3–5K influential recordings matched
   via MusicBrainz **ISRC** → Spotify. **Blocker: user must supply Spotify client
   ID/secret.** Runs last; optional report subsection if time runs short.

@@ -45,6 +45,9 @@ NEEDED_CORE = {
     "mbdump/release_unknown_country",
     # Genre vocabulary (F2 Phase 2).
     "mbdump/genre",
+    # Release-group genre fallback (F2 Phase 2b): recording -> medium -> release
+    # -> release_group; `release` provides the release -> release_group link.
+    "mbdump/release",
 }
 
 NEEDED_DERIVED = {
@@ -52,6 +55,8 @@ NEEDED_DERIVED = {
     "mbdump/tag",
     "mbdump/artist_tag",
     "mbdump/recording_tag",
+    # Album-level genre tags (denser than recording/artist tags).
+    "mbdump/release_group_tag",
 }
 
 

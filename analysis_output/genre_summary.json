@@ -1,124 +1,124 @@
 {
-  "within_genre_share_observed": 0.6222,
-  "within_genre_share_expected_null": 0.0272,
-  "homophily_ratio": 22.85,
-  "n_genres": 881,
+  "within_genre_share_observed": 0.4795,
+  "within_genre_share_expected_null": 0.059,
+  "homophily_ratio": 8.13,
+  "n_genres": 888,
   "top_net_sources": [
     [
       "pop",
-      2536
+      5356
     ],
     [
       "rock",
-      1683
+      2054
     ],
     [
       "funk",
-      1115
+      1511
     ],
     [
       "soul",
-      1022
+      1318
     ],
     [
       "jazz",
-      903
-    ],
-    [
-      "electronic",
-      789
+      1318
     ],
     [
       "disco",
-      600
+      806
+    ],
+    [
+      "new wave",
+      626
     ],
     [
       "industrial",
-      542
+      607
     ]
   ],
   "top_net_importers": [
     [
-      "comedy",
-      -345
-    ],
-    [
-      "trance",
-      -443
-    ],
-    [
       "edm",
-      -510
-    ],
-    [
-      "j-pop",
-      -565
-    ],
-    [
-      "plunderphonics",
-      -697
+      -758
     ],
     [
       "drum and bass",
-      -849
+      -993
+    ],
+    [
+      "breakbeat",
+      -1003
+    ],
+    [
+      "dance",
+      -1110
+    ],
+    [
+      "experimental",
+      -1121
     ],
     [
       "dubstep",
-      -860
+      -1211
     ],
     [
       "hip hop",
-      -2768
+      -2614
+    ],
+    [
+      "electronic",
+      -3153
     ]
   ],
   "top_cross_genre_corridors": [
     [
-      "hip hop→soul",
-      689
-    ],
-    [
-      "hip hop→funk",
-      625
-    ],
-    [
-      "hip hop→jazz",
-      530
-    ],
-    [
-      "dance-pop→pop",
-      495
-    ],
-    [
       "electronic→pop",
-      488
+      2316
     ],
     [
       "electronic→hip hop",
-      408
+      934
     ],
     [
-      "hip hop→pop",
-      375
+      "ambient→electronic",
+      868
     ],
     [
-      "pop→dance-pop",
-      320
+      "hip hop→funk",
+      840
     ],
     [
-      "j-pop→electronic",
-      320
+      "dance→electronic",
+      811
     ],
     [
-      "trance→electronic",
-      253
+      "drum and bass→electronic",
+      810
     ],
     [
-      "electronic→house",
-      247
+      "electro→electronic",
+      790
     ],
     [
-      "dubstep→electronic",
-      246
+      "hip hop→soul",
+      748
+    ],
+    [
+      "electronic→ambient",
+      707
+    ],
+    [
+      "electronic→eurobeat",
+      706
+    ],
+    [
+      "ebm→electronic",
+      621
+    ],
+    [
+      "electronic→dance",
+      614
     ]
   ]
 }

@@ -31,6 +31,10 @@ EXTRA_COLS = {
     "tag": ["id", "name", "ref_count"],
     "artist_tag": ["artist", "tag", "count", "last_updated"],
     "recording_tag": ["recording", "tag", "count", "last_updated"],
+    "release_group_tag": ["release_group", "tag", "count", "last_updated"],
+    "release": ["id", "gid", "name", "artist_credit", "release_group", "status",
+                "packaging", "language", "script", "barcode", "comment",
+                "edits_pending", "quality", "last_updated"],
 }
 
 
@@ -51,6 +55,10 @@ def main() -> None:
         con.execute(f"ALTER TABLE artist_tag ALTER {c} TYPE BIGINT USING TRY_CAST({c} AS BIGINT)")
     for c in ("recording", "tag", "count"):
         con.execute(f"ALTER TABLE recording_tag ALTER {c} TYPE BIGINT USING TRY_CAST({c} AS BIGINT)")
+    for c in ("release_group", "tag", "count"):
+        con.execute(f"ALTER TABLE release_group_tag ALTER {c} TYPE BIGINT USING TRY_CAST({c} AS BIGINT)")
+    for c in ("id", "release_group"):
+        con.execute(f"ALTER TABLE release ALTER {c} TYPE BIGINT USING TRY_CAST({c} AS BIGINT)")
 
     # genres = tags whose name is in the controlled genre vocabulary
     con.execute("""
@@ -95,28 +103,67 @@ def main() -> None:
     """).fetchall())
     print(f"  {len(art_genre):,} artists with a genre")
 
+    # release-group (album) genre fallback: recording -> medium -> release ->
+    # release_group, then the album's most-voted genre (denser than track tags).
+    con.execute("""
+        CREATE TEMPORARY TABLE rg_genre AS
+        SELECT rgt.release_group AS rg, gt.gname, rgt.count AS cnt
+        FROM release_group_tag rgt
+        JOIN genre_tag gt ON gt.tag_id = rgt.tag
+        WHERE rgt.count > 0
+    """)
+    con.execute("""
+        CREATE TEMPORARY TABLE rec_rg AS
+        SELECT DISTINCT t.recording AS rid, r.release_group AS rg
+        FROM track t
+        JOIN medium m ON m.id = t.medium
+        JOIN release r ON r.id = m.release
+        WHERE t.recording IN (SELECT rid FROM edge_recs)
+          AND r.release_group IS NOT NULL
+    """)
+    rg_rec_genre = dict(con.execute("""
+        WITH rrg AS (
+          SELECT rr.rid, g.gname, SUM(g.cnt) AS s
+          FROM rec_rg rr JOIN rg_genre g ON g.rg = rr.rg
+          GROUP BY rr.rid, g.gname
+        ), ranked AS (
+          SELECT rid, gname, row_number() OVER (PARTITION BY rid ORDER BY s DESC, gname) rn
+          FROM rrg
+        )
+        SELECT rid, gname FROM ranked WHERE rn = 1
+    """).fetchall())
+    print(f"  {len(rg_rec_genre):,} recordings with a release-group genre")
+
     def genre_of(rid, aid):
         g = rec_genre.get(rid)
         if g:
-            return g
+            return g, "recording"
+        g = rg_rec_genre.get(rid)
+        if g:
+            return g, "release_group"
         try:
             if aid is not None and aid == aid and int(aid) >= 0:
-                return art_genre.get(int(aid))
+                ag = art_genre.get(int(aid))
+                if ag:
+                    return ag, "artist"
         except (TypeError, ValueError):
             pass
-        return None
+        return None, None
 
     H = nx.DiGraph()
     edge_acc: dict = {}
     endpoint: Counter = Counter()
     rec_resolved: dict = {}
+    rec_src: dict = {}
     dropped = 0
     for r in df.itertuples(index=False):
         e0, e1 = int(r.entity0), int(r.entity1)
-        g0 = genre_of(e0, r.e0_artist)
-        g1 = genre_of(e1, r.e1_artist)
+        g0, s0 = genre_of(e0, r.e0_artist)
+        g1, s1 = genre_of(e1, r.e1_artist)
         rec_resolved[e0] = g0
         rec_resolved[e1] = g1
+        rec_src[e0] = s0
+        rec_src[e1] = s1
         if not g0 or not g1:
             dropped += 1
             continue
@@ -139,6 +186,7 @@ def main() -> None:
     cov = sum(1 for v in rec_resolved.values() if v)
     tot = len(rec_resolved)
     print(f"  recording genre coverage: {cov:,}/{tot:,} ({100*cov/max(tot,1):.1f}%)")
+    print(f"  genre source breakdown: {dict(Counter(s for s in rec_src.values() if s))}")
     os.makedirs(os.path.dirname(MAP_CSV), exist_ok=True)
     with open(MAP_CSV, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)

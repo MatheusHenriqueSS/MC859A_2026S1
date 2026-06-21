@@ -34,7 +34,7 @@ apêndice sobre o pivô WhoSampled → MusicBrainz.
 │   ├── mb_artist_graph.graphml.gz       nível-artista (47.286 nós / 41.014 ar.)
 │   ├── mb_decade_graph.graphml.gz       nível-década (13 nós / 88 ar.)
 │   ├── mb_country_graph.graphml.gz      nível-país   (159 nós / 1.003 ar.)
-│   ├── mb_genre_graph.graphml.gz        nível-gênero (881 gêneros / 9.037 ar., F2)
+│   ├── mb_genre_graph.graphml.gz        nível-gênero (888 gêneros / 10.944 ar., F2)
 │   └── *_stats.txt, *.png               estatísticas e visualizações
 └── analysis_output/                  resultados F2 (rankings, métricas, plots)
 ```

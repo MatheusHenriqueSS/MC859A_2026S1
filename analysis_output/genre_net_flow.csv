@@ -1,882 +1,889 @@
 genre,in_strength_sampled,out_strength_samples,net_influence_in_minus_out
-pop,10581,8045,2536
-rock,3850,2167,1683
-funk,1591,476,1115
-soul,1677,655,1022
-jazz,2164,1261,903
-electronic,13970,13181,789
-disco,1058,458,600
-industrial,1208,666,542
-alternative rock,2765,2354,411
-new wave,968,560,408
-r&b,898,576,322
-blues,449,187,262
-heavy metal,566,337,229
-classical,1314,1119,195
-hard rock,875,696,179
-reggae,506,329,177
-punk,583,428,155
-latin,992,840,152
-metal,487,344,143
-j-rock,237,117,120
-brostep,226,115,111
-complextro,620,511,109
-ballad,421,315,106
-synth-pop,635,531,104
-alternative pop,486,389,97
-psychedelic rock,237,155,82
-ambient,2451,2379,72
-folk,503,431,72
-melodic dubstep,106,34,72
-tech house,336,269,67
-new age,145,78,67
-art pop,283,218,65
-alternative metal,499,435,64
-idm,284,221,63
-midtempo bass,75,14,61
-bubblegum bass,88,27,61
-k-pop,618,559,59
-progressive electronic,87,28,59
-contemporary jazz,112,53,59
-jazz-funk,91,36,55
-swamp pop,83,29,54
-electro house,1089,1036,53
-soft rock,85,34,51
-dark wave,318,269,49
-instrumental,175,127,48
-grunge,94,48,46
-children's music,60,14,46
-progressive rock,852,807,45
-neurofunk,117,72,45
-contemporary r&b,1182,1143,39
-country,550,513,37
-classic rock,314,278,36
-easy listening,90,54,36
-blues rock,170,135,35
-2-step,55,21,34
-motown,41,7,34
-dirty south,76,42,34
-downtempo,1123,1090,33
-death metal,376,343,33
-rock and roll,88,55,33
-dance,2340,2308,32
-production music,95,63,32
-dancefloor drum and bass,72,40,32
-darksynth,62,30,32
-christmas music,60,28,32
-boogie,55,23,32
-big band,70,39,31
-hard bop,49,21,28
-city pop,80,52,28
-philly soul,36,11,25
-halftime,94,70,24
-schlager,143,119,24
-musical,64,40,24
-garage rock,59,36,23
-black metal,209,187,22
-gothic,70,48,22
-ambient pop,76,55,21
-folk rock,310,291,19
-country soul,19,0,19
-neo soul,119,100,19
-folk pop,79,60,19
-chicago soul,20,1,19
-chillstep,26,7,19
-krautrock,58,40,18
-britpop,81,63,18
-soul jazz,26,8,18
-euro-trance,38,20,18
-afrobeat,112,94,18
-vocal jazz,19,2,17
-festival progressive house,92,75,17
-electro,975,959,16
-filmi,183,167,16
-bebop,22,6,16
-melodic house,38,22,16
-chanson française,141,126,15
-cinematic classical,41,26,15
-celtic,34,19,15
-speedcore,116,101,15
-dancehall,307,294,13
-aor,84,71,13
-mpb,21,8,13
-classical crossover,63,51,12
-minimal techno,77,65,12
-arena rock,33,21,12
-doo-wop,26,14,12
-lo-fi,40,28,12
-hardcore breaks,15,3,12
-free jazz,18,6,12
-techno,917,906,11
-bedroom pop,59,48,11
-j-core,98,87,11
-briddim,40,29,11
-jazz fusion,56,46,10
-glitch pop,22,12,10
-dub techno,93,83,10
-digicore,206,196,10
-alternative country,11,1,10
-free improvisation,17,7,10
-louisiana blues,11,1,10
-sophisti-pop,10,0,10
-post-rock,184,175,9
-bossa nova,73,64,9
-post-industrial,32,23,9
-ambient house,56,47,9
-dance-rock,15,6,9
-madchester,11,2,9
-bluegrass,88,80,8
-hybrid trap,52,44,8
-liquid funk,26,18,8
-modern classical,91,83,8
-pop soul,21,13,8
-speed garage,34,26,8
-progressive breaks,12,4,8
-minimal synth,9,1,8
-power pop,12,4,8
-ballet,16,8,8
-big room trance,22,14,8
-afro-cuban jazz,11,3,8
-math rock,33,26,7
-progressive trance,276,269,7
-bitpop,41,34,7
-contemporary classical,22,15,7
-contemporary country,19,12,7
-brazilian bass,7,0,7
-glam rock,34,28,6
-gospel,48,42,6
-chamber pop,23,17,6
-organic house,6,0,6
-glitch hop edm,10,4,6
-contemporary christian,85,79,6
-latin jazz,14,8,6
-calypso,10,4,6
-avant-garde jazz,14,8,6
-electro-disco,10,4,6
-filk,8,2,6
-alternative punk,26,20,6
-melodic metalcore,17,11,6
+pop,13271,7915,5356
+rock,5055,3001,2054
+funk,1936,425,1511
+soul,1698,380,1318
+jazz,2350,1032,1318
+disco,2383,1577,806
+new wave,991,365,626
+industrial,1176,569,607
+alternative rock,3483,2929,554
+j-pop,3236,2784,452
+r&b,820,416,404
+hardcore punk,445,76,369
+indie rock,1155,820,335
+classical,2036,1711,325
+blues,834,557,277
+hard rock,1078,833,245
+synth-pop,685,442,243
+reggae,645,407,238
+punk,880,647,233
+progressive rock,677,457,220
+heavy metal,647,463,184
+k-pop,600,419,181
+latin,1042,865,177
+folk,526,355,171
+j-rock,245,82,163
+psychedelic rock,266,105,161
+electropop,751,608,143
+easy listening,198,61,137
+metal,480,350,130
+aggrotech,264,134,130
+alternative pop,524,412,112
+contemporary r&b,1262,1156,106
+industrial metal,208,102,106
+brostep,234,131,103
+complextro,537,438,99
+dancehall,380,282,98
+art pop,230,134,96
+techno,937,845,92
+musical,156,69,87
+post-rock,187,102,85
+modern classical,111,34,77
+alternative metal,428,352,76
+melodic dubstep,108,34,74
+bubblegum bass,103,31,72
+big band,104,36,68
+electro-industrial,141,74,67
+blues rock,218,151,67
+schlager,128,61,67
+soft rock,79,15,64
+midtempo bass,79,15,64
+grunge,99,35,64
+children's music,76,15,61
+swamp pop,93,32,61
+audio drama,1404,1345,59
+darksynth,144,86,58
+country,607,551,56
+power metal,133,77,56
+thrash metal,123,69,54
+tech house,265,212,53
+ambient house,74,21,53
+instrumental,239,189,50
+progressive electronic,83,34,49
+idm,230,182,48
+neo soul,135,87,48
+speedcore,101,54,47
+death metal,446,401,45
+gothic metal,136,92,44
+classic rock,421,378,43
+gothic rock,71,28,43
+metalcore,153,111,42
+jazz-funk,74,32,42
+2-step,90,49,41
+bossa nova,120,79,41
+eurobeat,2019,1979,40
+dancefloor drum and bass,85,45,40
+post-hardcore,97,57,40
+boogie,77,37,40
+city pop,107,67,40
+neue deutsche welle,145,106,39
+acoustic rock,82,43,39
+italo-disco,54,16,38
+folk rock,400,363,37
+cinematic classical,54,18,36
+post-punk,83,48,35
+new age,169,136,33
+kayōkyoku,55,23,32
+hybrid trap,79,47,32
+celtic,59,27,32
+gothic,39,7,32
+math rock,52,20,32
+nu metal,210,179,31
+chanson française,103,73,30
+pop rap,262,232,30
+neurofunk,99,69,30
+gospel,80,53,27
+rock and roll,88,61,27
+dirty south,94,67,27
+afrobeat,168,141,27
+contemporary jazz,77,50,27
+emo rap,52,27,25
+indietronica,71,46,25
+trip hop,195,170,25
+folk pop,82,59,23
+euro-trance,30,7,23
+britpop,92,70,22
+free jazz,45,23,22
+fm synthesis,22,0,22
+hyperpop,205,183,22
+production music,67,45,22
+vocal trance,47,25,22
+philly soul,24,3,21
+broken transmission,24,3,21
+jazz rock,37,17,20
+festival progressive house,106,87,19
+deep drum and bass,25,6,19
+eurodance,79,60,19
+vocal jazz,20,1,19
+lo-fi,51,33,18
+halftime,95,77,18
+atmospheric black metal,28,10,18
+briddim,45,29,16
+christian rock,51,35,16
+motown,21,5,16
+folktronica,38,22,16
+christmas music,106,91,15
+chillstep,35,20,15
+bitpop,48,33,15
+bluegrass,116,102,14
+electropunk,26,12,14
+doom metal,142,128,14
+belgian techno,15,1,14
+doo-wop,26,12,14
+symphonic metal,39,25,14
+krautrock,50,37,13
+alternative punk,34,21,13
+hip house,18,6,12
+glitch pop,16,4,12
+noise rock,28,16,12
+darkstep,30,18,12
+progressive metal,107,96,11
+dark wave,569,558,11
+garage rock,87,76,11
+electro-disco,18,7,11
+free improvisation,18,7,11
+cybergrind,15,4,11
+glitch hop edm,15,4,11
+sophisti-pop,11,0,11
+hardcore breaks,16,5,11
+speed garage,22,11,11
+ambient techno,59,49,10
+bedroom pop,74,64,10
+electroacoustic,12,2,10
+ballet,18,8,10
+deep techno,160,151,9
+donk,11,2,9
+alternative country,10,1,9
+big room trance,23,14,9
+calypso,11,2,9
+jazz rap,9,0,9
+drumfunk,10,1,9
+nu style gabber,9,0,9
+madchester,9,0,9
+bebop,22,14,8
+shoegaze,31,23,8
+future garage,32,24,8
+contemporary country,18,10,8
+hard bop,30,22,8
+neofolk,12,4,8
+pop soul,14,6,8
+experimental hip hop,83,75,8
+freestyle,12,4,8
+illbient,8,0,8
+acoustic blues,15,7,8
+northern soul,8,0,8
+witch house,15,7,8
+progressive breaks,11,3,8
+blue-eyed soul,24,17,7
+liquid funk,25,18,7
+bolero,15,8,7
+jazz fusion,25,18,7
+j-core,39,32,7
+digital fusion,11,4,7
+neo-psychedelia,17,10,7
+power pop,21,14,7
+rave,14,7,7
+interview,9,2,7
+grindcore,77,71,6
+brazilian bass,7,1,6
+smooth soul,7,1,6
+psychedelic,14,8,6
+post-industrial,11,5,6
+minimal synth,7,1,6
+afro-cuban jazz,15,9,6
+symphonic rock,8,2,6
+go-go,6,0,6
+space rock,8,2,6
 slimepunk,12,6,6
-psychedelic soul,7,1,6
-baroque pop,26,21,5
-orchestral,40,35,5
-future rave,13,8,5
-lounge,19,14,5
-memphis rap,11,6,5
-country blues,7,2,5
-acoustic rock,70,65,5
-no wave,6,1,5
-funk metal,25,20,5
-symphonic rock,7,2,5
-chicago drill,11,6,5
-latin ballad,12,7,5
+filk,7,1,6
+soul jazz,7,1,6
+minimal techno,74,69,5
+nu jazz,8,3,5
+trap,222,217,5
+avant-garde metal,13,8,5
+chicago house,21,16,5
+future rave,12,7,5
+lounge,24,19,5
+salsa,14,9,5
+folk metal,21,16,5
+chillsynth,6,1,5
+psybient,5,0,5
+frat rock,5,0,5
 ethereal wave,7,2,5
-moogsploitation,5,0,5
-witch house,8,3,5
-britcore,8,3,5
-beat poetry,6,1,5
-italo dance,38,34,4
-folk metal,27,23,4
-ragga,5,1,4
-italo-disco,45,41,4
+berlin school,10,5,5
+indie pop,567,563,4
+tango,4,0,4
 worldbeat,4,0,4
-bleep techno,5,1,4
-tango,6,2,4
-african blues,12,8,4
-canción melódica,6,2,4
-donk,4,0,4
-space rock,13,9,4
-ghettotech,6,2,4
-northern soul,4,0,4
-peak time techno,9,5,4
-funk brasileiro,4,0,4
-bhajan,18,14,4
-berlin school,6,2,4
+qawwali,7,3,4
+new romantic,8,4,4
+britcore,10,6,4
+moogsploitation,4,0,4
+standup comedy,4,0,4
+digital hardcore,27,23,4
+champeta,17,13,4
+electro-funk,7,3,4
+sunshine pop,5,1,4
+organic house,7,3,4
+afro rock,4,0,4
+latin disco,4,0,4
 balearic trance,4,0,4
 skullstep,6,2,4
-hardgroove techno,15,11,4
-standup comedy,4,0,4
-latin disco,4,0,4
-fm synthesis,4,0,4
-idol kayō,333,330,3
-emo,109,106,3
-bassline,126,123,3
-digital fusion,7,4,3
-abstract hip hop,38,35,3
-cumbia,68,65,3
-melodic techno,76,73,3
-chillsynth,3,0,3
-ghetto house,4,1,3
-uk drill,3,0,3
-bolero-beat,5,2,3
-poetry,3,0,3
-electroacoustic,4,1,3
-nustyle,3,0,3
-electro-funk,9,6,3
-smooth soul,4,1,3
+post-metal,6,2,4
+anti-folk,8,4,4
+melodic metalcore,6,2,4
+ragga,5,1,4
+raï,5,1,4
+japanese classical,7,3,4
+peak time techno,7,3,4
+funk brasileiro,4,0,4
+house,2123,2120,3
+contemporary christian,75,72,3
+stoner rock,7,4,3
+country blues,6,3,3
+techno kayō,3,0,3
+folk punk,6,3,3
+glitch,363,360,3
+melodic death metal,83,80,3
+grime,122,119,3
+mathcore,20,17,3
+arena rock,56,53,3
+geek rock,3,0,3
+persian pop,6,3,3
+southern hip hop,19,16,3
+diva house,9,6,3
+sludge metal,4,1,3
+french electro,6,3,3
+crossbreed,7,4,3
+miami bass,25,22,3
+ethio-jazz,3,0,3
+instrumental rock,9,6,3
+luk thung,3,0,3
 honky tonk,3,0,3
-nu style gabber,3,0,3
-deep soul,3,0,3
+traditional pop,4,1,3
+funk carioca,9,6,3
+nustyle,3,0,3
+lovers rock,3,0,3
+concerto,4,1,3
 splittercore,3,0,3
-hindustani classical,5,2,3
+uk drill,4,1,3
+psychedelic soul,4,1,3
+surf rock,3,0,3
+beat rock,5,2,3
+depressive black metal,3,0,3
 ambient noise wall,3,0,3
-flashcore,21,19,2
-piano rock,16,14,2
-experimental electronic,17,15,2
+psychobilly,4,1,3
 hyphy,6,4,2
-deep drum and bass,5,3,2
-trap,179,177,2
-chicago house,74,72,2
-raï,7,5,2
+crossover prog,6,4,2
+southern rock,28,26,2
+ska punk,16,14,2
+blackgaze,5,3,2
 techstep,7,5,2
-sludge metal,7,5,2
-gothic metal,173,171,2
-psychedelic pop,8,6,2
-bolero,23,21,2
-darkstep,20,18,2
-diva house,8,6,2
-techno kayō,2,0,2
-world fusion,5,3,2
-indian classical,6,4,2
-japanese classical,7,5,2
-neo-psychedelia,13,11,2
-post-punk revival,4,2,2
-sunshine pop,6,4,2
-gnawa,3,1,2
-rawstyle,7,5,2
-qawwali,15,13,2
-nederpop,3,1,2
-psychedelic folk,2,0,2
-neo-medieval folk,2,0,2
-medieval,4,2,2
-roots rock,3,1,2
-jazz rap,12,10,2
-glam,5,3,2
-cocktail nation,2,0,2
-praise & worship,3,1,2
-british folk rock,6,4,2
-minimalism,9,7,2
-opera,5,3,2
-beatboxing,2,0,2
-trancestep,2,0,2
-jersey club rap,3,1,2
-avant-folk,5,3,2
-classic jazz,2,0,2
-baltimore club,4,2,2
-dark plugg,2,0,2
-ethio-jazz,2,0,2
-traditional pop,5,3,2
+melodic techno,63,61,2
+batucada,2,0,2
+contemporary classical,9,7,2
 ballroom house,5,3,2
-trap metal,2,0,2
-freestyle,3,1,2
+deep soul,3,1,2
+roots rock,2,0,2
+trancestep,2,0,2
+noise pop,9,7,2
+alternative folk,32,30,2
+samba-jazz,2,0,2
+crust punk,4,2,2
+rawstyle,6,4,2
+funk rock,4,2,2
+political hip hop,2,0,2
+chicago drill,8,6,2
+chamber folk,3,1,2
+technical death metal,4,2,2
+medieval,3,1,2
+ghetto house,2,0,2
+irish folk,2,0,2
+néo-trad,3,1,2
+classic jazz,2,0,2
+snap,2,0,2
+highlife,2,0,2
 heaven trap,2,0,2
 terrorcore,2,0,2
-luk thung,2,0,2
+beatboxing,2,0,2
+nederpop,2,0,2
+zouk,3,1,2
+renaissance,2,0,2
+chanson québécoise,2,0,2
+gypsy jazz,2,0,2
+trap metal,2,0,2
+slowcore,2,0,2
+no wave,2,0,2
+jazz poetry,2,0,2
+neo-medieval folk,2,0,2
 brill building,2,0,2
-afro trap,2,0,2
-psychobilly,2,0,2
-rockabilly,334,333,1
-schranz,34,33,1
-audio drama,1354,1353,1
-jazz rock,69,68,1
+corrido,2,0,2
+melodic hardcore,2,0,2
+beat poetry,2,0,2
+electronicore,11,10,1
 future riddim,4,3,1
-vocal trance,55,54,1
-urban cowboy,1,0,1
-ambient dub,30,29,1
-latin rock,21,20,1
+piano rock,20,19,1
+denpa,27,26,1
+battle rap,2,1,1
+bachata,52,51,1
+goregrind,11,10,1
+dark disco,38,37,1
+ragga jungle,3,2,1
+post-punk revival,4,3,1
 power electronics,3,2,1
-tech trance,27,26,1
-contemporary folk,88,87,1
-exotica,3,2,1
-hard trance,34,33,1
-new rave,2,1,1
-manele,1,0,1
-industrial techno,33,32,1
-lovers rock,6,5,1
-dungeon synth,36,35,1
-estrada,14,13,1
-electro hop,3,2,1
-alternative folk,29,28,1
-anatolian rock,4,3,1
-celtic rock,3,2,1
-freakbeat,1,0,1
-jazz poetry,1,0,1
-desert rock,2,1,1
-afroswing,3,2,1
-rap metal,2,1,1
-d-beat,10,9,1
-phonk,5,4,1
-music hall,1,0,1
-mallsoft,15,14,1
-andean new age,1,0,1
-cool jazz,3,2,1
-march,2,1,1
-desert blues,6,5,1
+winter synth,1,0,1
+hardcore hip hop,74,73,1
 contemporary gospel,6,5,1
-minimal drum and bass,3,2,1
-space disco,1,0,1
-roots reggae,4,3,1
-gregorian chant,1,0,1
-heavy psych,6,5,1
-zhongguo feng,1,0,1
-levenslied,2,1,1
-twee pop,1,0,1
-beat rock,6,5,1
-instrumental rock,4,3,1
-american primitive guitar,1,0,1
-éntekhno,2,1,1
-canterbury scene,2,1,1
-tin pan alley,1,0,1
-rocksteady,2,1,1
+post-grunge,5,4,1
+urban cowboy,1,0,1
+new rave,2,1,1
+chicago soul,2,1,1
+poetry,1,0,1
+mod,3,2,1
+bubbling,1,0,1
+deathcore,13,12,1
+dance-punk revival,1,0,1
+rocksteady,1,0,1
 enka,2,1,1
-township bubblegum,1,0,1
-noisecore,345,344,1
-western classical,6,5,1
-traditional country,1,0,1
-space age pop,1,0,1
-coupé-décalé,1,0,1
-eletrofunk,1,0,1
-jamaican ska,1,0,1
-slacker rock,1,0,1
-mod,2,1,1
-black noise,1,0,1
-swamp blues,1,0,1
-dubstyle,1,0,1
-jazz pop,3,2,1
-free folk,2,1,1
-classic country,2,1,1
-jump blues,1,0,1
-technoid,1,0,1
-wonky techno,1,0,1
-non-music,1,0,1
-minneapolis sound,4,3,1
-nature sounds,1,0,1
-celtic electronica,1,0,1
-néo-trad,1,0,1
-crossover jazz,1,0,1
-chinese classical,1,0,1
-joik,1,0,1
-sound effects,1,0,1
-chamber folk,1,0,1
-irish folk,1,0,1
-cajun,1,0,1
+cajun,2,1,1
+symphony,1,0,1
+drill and bass,6,5,1
+vallenato,2,1,1
 sasscore,1,0,1
+samba,4,3,1
 funk ostentação,1,0,1
+boogie-woogie,2,1,1
+traditional country,1,0,1
+praise & worship,5,4,1
+march,2,1,1
+classic country,2,1,1
+hindustani classical,3,2,1
+acid trance,4,3,1
+minimal drum and bass,3,2,1
+minimalism,2,1,1
+gregorian chant,1,0,1
+zhongguo feng,1,0,1
+2 tone,1,0,1
+seapunk,2,1,1
+latin ballad,5,4,1
+bhavageethe,1,0,1
+sound effects,2,1,1
+chacarera,1,0,1
+electro hop,3,2,1
+viking metal,1,0,1
+deathrock,1,0,1
+wonky techno,1,0,1
+doomgaze,3,2,1
+garage punk,1,0,1
 impressionism,1,0,1
+shidaiqu,1,0,1
+minimal wave,1,0,1
+swamp blues,1,0,1
+dub poetry,2,1,1
+griot,1,0,1
+crack rock steady,1,0,1
+arabesk,1,0,1
+gnawa,1,0,1
+kirtan,1,0,1
+midwest emo,1,0,1
+technoid,1,0,1
+instrumental jazz,3,2,1
+jazzstep,2,1,1
+andean new age,1,0,1
+avant-folk,1,0,1
+nature sounds,1,0,1
+guaguancó,2,1,1
+eletrofunk,1,0,1
+celtic electronica,1,0,1
+dubstyle,1,0,1
+speech,1,0,1
+pagan black metal,1,0,1
+chinese classical,1,0,1
+forró,1,0,1
+freakbeat,1,0,1
+yacht rock,1,0,1
+rock opera,1,0,1
+coupé-décalé,1,0,1
+doina,1,0,1
 pumpcore,1,0,1
-corrido,1,0,1
-canzone napoletana,1,0,1
+slacker rock,1,0,1
+black noise,1,0,1
+horror synth,1,0,1
+gamelan,1,0,1
+descarga,1,0,1
+ghettotech,1,0,1
 jùjú,1,0,1
-kayōkyoku,10,10,0
-celtic punk,1,1,0
-yakousei,7,7,0
-art rock,196,196,0
-avant-garde,53,53,0
-power metal,153,153,0
-dembow,13,13,0
-persian pop,8,8,0
-rave,15,15,0
-progressive metalcore,12,12,0
-tribal house,3,3,0
-cantopop,168,168,0
-nu disco,36,36,0
-southern rock,28,28,0
-screamo,3,3,0
-ragga jungle,2,2,0
-southern hip hop,16,16,0
-blackgaze,9,9,0
+canzone napoletana,1,0,1
+smooth jazz,14,14,0
 brazilian phonk,14,14,0
-makina,2,2,0
-freeform hardcore,8,8,0
-neoclassical metal,10,10,0
-twerk,2,2,0
-acoustic blues,9,9,0
-novo dub,3,3,0
-country pop,20,20,0
-miami bass,23,23,0
-drumfunk,12,12,0
-beat music,7,7,0
+crossover jazz,2,2,0
+garage house,23,23,0
 turkish classical,13,13,0
-forró,1,1,0
-avant-prog,4,4,0
-sertanejo,1,1,0
-trap latino,7,7,0
-denpa,21,21,0
-drill,18,18,0
-bouncy techno,8,8,0
-melbourne bounce,5,5,0
-yacht rock,1,1,0
-gqom,4,4,0
-instrumental jazz,1,1,0
-progressive,3,3,0
-brutal death metal,5,5,0
-drill and bass,5,5,0
-funeral doom metal,5,5,0
-crust punk,2,2,0
-ghazal,1,1,0
-deathrock,1,1,0
-ritual ambient,1,1,0
-rara,10,10,0
-jazzstep,1,1,0
-salsa,9,9,0
-christian metal,4,4,0
-swancore,4,4,0
-vallenato,3,3,0
-c86,2,2,0
-uk funky,3,3,0
+glam rock,27,27,0
+indian classical,4,4,0
 algorave,5,5,0
-garage psych,1,1,0
-garba,1,1,0
-opm,10,10,0
-akishibu-kei,1,1,0
-slam poetry,1,1,0
-samba,3,3,0
-slap house,2,2,0
-2 tone,1,1,0
-folk punk,2,2,0
-eccojams,2,2,0
-detroit trap,3,3,0
-carnatic classical,6,6,0
-comfy synth,2,2,0
-cabaret,6,6,0
-new beat,5,5,0
-old-time,1,1,0
-deep techno,2,2,0
+mpb,6,6,0
+swing,12,12,0
+garba,36,36,0
+flashcore,18,18,0
+world fusion,3,3,0
+hard trance,28,28,0
+twerk,2,2,0
+eai,1,1,0
+tribal house,3,3,0
+industrial techno,11,11,0
+ambient americana,19,19,0
+operatic pop,1,1,0
+phonk,7,7,0
+drill,14,14,0
+bubblegum pop,8,8,0
+dance-punk,18,18,0
+gqom,4,4,0
 quiet storm,1,1,0
-kwaito,1,1,0
-hi-tech full-on,1,1,0
-bubbling,1,1,0
-zydeco,1,1,0
-death-doom metal,1,1,0
+drumless hip hop,1,1,0
+asian rock,4,4,0
 korean ballad,1,1,0
-bardcore,2,2,0
-tread,2,2,0
-post-dubstep,2,2,0
-bro-country,2,2,0
-soukous,1,1,0
-rock opera,2,2,0
-dub poetry,2,2,0
-darkcore edm,3,3,0
-harsh noise wall,1,1,0
-garage punk,1,1,0
-cuddlecore,2,2,0
-boogie rock,2,2,0
-animal sounds,2,2,0
-dansband,3,3,0
-dissonant death metal,1,1,0
-beatdown hardcore,2,2,0
-hip hop soul,2,2,0
-technical thrash metal,1,1,0
-appalachian folk,1,1,0
-afro-funk,1,1,0
+death-doom metal,2,2,0
+breakstep,1,1,0
 shibuya-kei,1,1,0
-rapcore,3,3,0
-stoner metal,1,1,0
-avtorskaya pesnya,4,4,0
-melodic hardcore,1,1,0
-reggae rock,1,1,0
-kizomba,1,1,0
-epic doom metal,2,2,0
+latin rock,10,10,0
+comfy synth,2,2,0
+easycore,5,5,0
+synth funk,4,4,0
+jangle pop,2,2,0
+dark cabaret,3,3,0
+post-dubstep,2,2,0
+artcore,14,14,0
+hypnagogic pop,5,5,0
+country rap,1,1,0
+mad,1,1,0
 pluggnb,1,1,0
-lowercase,1,1,0
-deathchant hardcore,1,1,0
-chap hop,1,1,0
-junkanoo,1,1,0
-nintendocore,2,2,0
-asmr,1,1,0
-new mexico music,1,1,0
-hard drum,1,1,0
-buchiage trance,1,1,0
+bardcore,2,2,0
 bit music,1,1,0
-close harmony,1,1,0
-electropunk,22,23,-1
-future core,10,11,-1
-brass band,7,8,-1
-synth funk,3,4,-1
-avant-garde metal,10,11,-1
-hardcore techno,155,156,-1
-dark disco,26,27,-1
-dark psytrance,15,16,-1
-garage house,39,40,-1
-swing,11,12,-1
-americana,15,16,-1
+delta blues,1,1,0
+bouncy techno,9,9,0
+slam poetry,1,1,0
+opera,4,4,0
+slap house,2,2,0
+laiko,5,5,0
+art punk,3,3,0
+afroswing,2,2,0
+detroit trap,3,3,0
+flamenco pop,2,2,0
+ghazal,1,1,0
+tread,2,2,0
+jersey club rap,3,3,0
+hi-tech full-on,1,1,0
+bro-country,1,1,0
+italo house,1,1,0
+heavy psych,1,1,0
+neoperreo,1,1,0
+chalga,2,2,0
+desert rock,1,1,0
+rapcore,2,2,0
+copla,1,1,0
+dansband,2,2,0
+sertanejo,1,1,0
+avant-prog,2,2,0
+zydeco,1,1,0
+deathchant hardcore,1,1,0
+groove metal,8,9,-1
+future core,6,7,-1
+brit funk,5,6,-1
+freak folk,3,4,-1
+country pop,17,18,-1
+ambient dub,11,12,-1
+dance-rock,16,17,-1
+kizomba,0,1,-1
 neurohop,2,3,-1
-microhouse,11,12,-1
-deep tech,8,9,-1
-chopper,3,4,-1
-psychedelic,7,8,-1
-hard house,5,6,-1
-space ambient,2,3,-1
-brit funk,7,8,-1
-nerdcore techno,0,1,-1
-yé-yé,5,6,-1
-powerviolence,0,1,-1
-drumless hip hop,0,1,-1
-q-pop,5,6,-1
-batida,1,2,-1
-ragtime,0,1,-1
-central asian throat singing,1,2,-1
-hard trap,3,4,-1
-c-pop,4,5,-1
-full-on,5,6,-1
-country rap,3,4,-1
-dark cabaret,2,3,-1
-latin house,1,2,-1
-technical death metal,4,5,-1
-hill country blues,0,1,-1
-flamenco pop,1,2,-1
-hardbass,0,1,-1
-chalga,3,4,-1
-queercore,0,1,-1
-speed house,1,2,-1
-cyber metal,3,4,-1
-riot grrrl,0,1,-1
-operatic pop,2,3,-1
-funkot,0,1,-1
-arrocha,0,1,-1
-gypsy jazz,0,1,-1
-folkhop,0,1,-1
-acousmatic,0,1,-1
-neo-grime,0,1,-1
-nasheed,0,1,-1
-electric blues,0,1,-1
-minimal wave,1,2,-1
-funk de bh,0,1,-1
-pub rock,0,1,-1
-crime jazz,0,1,-1
-slow waltz,0,1,-1
-kawaii metal,0,1,-1
+tech trance,14,15,-1
+chopper,2,3,-1
+chicha,0,1,-1
+afro-funk,1,2,-1
 mariachi,0,1,-1
-nederbeat,0,1,-1
-cumbia argentina,0,1,-1
-sea shanty,0,1,-1
-grebo,0,1,-1
-neoperreo,0,1,-1
-v-pop,3,4,-1
-underground hip hop,0,1,-1
-emocore,0,1,-1
-electro latino,1,2,-1
-volkstümliche musik,1,2,-1
-nashville sound,0,1,-1
-psystyle,0,1,-1
-horror punk,2,3,-1
-powerstomp,0,1,-1
-dark folk,0,1,-1
+new jack swing,16,17,-1
+hard drum,0,1,-1
+jump up,10,11,-1
+neo-grime,0,1,-1
+q-pop,5,6,-1
+drone metal,4,5,-1
+uk funky,2,3,-1
+funeral doom metal,5,6,-1
+yé-yé,0,1,-1
 cowpunk,0,1,-1
+roots reggae,2,3,-1
+latin house,1,2,-1
 swamp rock,0,1,-1
+heartland rock,0,1,-1
+rage,1,2,-1
+jump blues,0,1,-1
+reggae rock,0,1,-1
+dabke,1,2,-1
+melbourne bounce,4,5,-1
+funkot,0,1,-1
+electro latino,1,2,-1
+garage psych,0,1,-1
+british folk rock,2,3,-1
+funky breaks,0,1,-1
+hard trap,3,4,-1
+akishibu-kei,1,2,-1
+spiritual jazz,0,1,-1
+hardbass,0,1,-1
+break-in,0,1,-1
+nederbeat,0,1,-1
+hip hop soul,2,3,-1
+psychedelic pop,3,4,-1
+screamo,2,3,-1
+hardgroove techno,1,2,-1
+slow waltz,0,1,-1
+cumbia argentina,0,1,-1
+powerstomp,0,1,-1
+ragtime,0,1,-1
+powerviolence,0,1,-1
+garage rock revival,1,2,-1
+v-pop,2,3,-1
+space ambient,2,3,-1
+progressive metalcore,0,1,-1
 tearout brostep,0,1,-1
-modern hardtek,0,1,-1
+melodic bass,0,1,-1
 tearout,0,1,-1
-broken transmission,0,1,-1
-vocal house,19,21,-2
-folktronica,76,78,-2
-crossover prog,27,29,-2
-mangue beat,3,5,-2
-afro house,148,150,-2
-acid breaks,13,15,-2
-future garage,39,41,-2
-deathcore,57,59,-2
-funk carioca,13,15,-2
-euphoric hardstyle,15,17,-2
-dream trance,4,6,-2
-tribal guarachero,1,3,-2
-riddim dubstep,4,6,-2
-hi-nrg,18,20,-2
-forró universitário,0,2,-2
-champeta,11,13,-2
-interview,0,2,-2
-jangle pop,5,7,-2
+éntekhno,2,3,-1
+bolero-beat,0,1,-1
+dark plugg,0,1,-1
+minneapolis sound,0,1,-1
+kuduro,2,3,-1
+western classical,2,3,-1
+romantic classical,1,2,-1
+spamwave,0,1,-1
+acousmatic,0,1,-1
+harsh noise wall,0,1,-1
+nasheed,0,1,-1
+boogie rock,0,1,-1
+nashville sound,0,1,-1
+chap hop,0,1,-1
+funk de bh,0,1,-1
+dissonant death metal,0,1,-1
+psystyle,0,1,-1
+speed house,1,2,-1
+queercore,0,1,-1
+nerdcore techno,0,1,-1
+celtic rock,0,1,-1
+lullaby,0,1,-1
+arrocha,0,1,-1
+freeform hardcore,0,1,-1
+soukous,0,1,-1
+emocore,0,1,-1
+batida,0,1,-1
+modern hardtek,0,1,-1
+filmi,172,174,-2
+vocal house,13,15,-2
+microhouse,6,8,-2
+dixieland,14,16,-2
+crime jazz,0,2,-2
+hi-nrg,15,17,-2
+neoclassicism,0,2,-2
+hardcore techno,62,64,-2
 drift phonk,6,8,-2
-merseybeat,0,2,-2
-baroque,11,13,-2
-dabke,3,5,-2
-noise pop,11,13,-2
-amapiano,3,5,-2
-illbient,1,3,-2
-copla,1,3,-2
-p-funk,2,4,-2
-classical period,0,2,-2
-kleinkunst,4,6,-2
-nu skool breaks,1,3,-2
+symphonic black metal,2,4,-2
+latin jazz,3,5,-2
+dark psytrance,4,6,-2
+progressive pop,0,2,-2
+novo dub,0,2,-2
+futurepop,12,14,-2
+coke rap,3,5,-2
+colour bass,22,24,-2
+mainstream rock,6,8,-2
+eccojams,2,4,-2
+electric blues,2,4,-2
+chicano rap,0,2,-2
+opm,6,8,-2
 trot,2,4,-2
-birmingham sound,2,4,-2
-kuduro,1,3,-2
-viking metal,1,3,-2
-heartland rock,0,2,-2
-wonky,1,3,-2
-rage,0,2,-2
-reggae-pop,0,2,-2
-digital cumbia,0,2,-2
-lo-fi house,1,3,-2
+turbo-folk,2,4,-2
+melodic black metal,2,4,-2
+acid breaks,6,8,-2
+hard house,3,5,-2
+epic doom metal,0,2,-2
+deep tech,1,3,-2
+electrotango,1,3,-2
+hardvapour,0,2,-2
+cabaret,0,2,-2
+rara,0,2,-2
+doomcore,1,3,-2
+tribal guarachero,1,3,-2
+blackened death metal,5,7,-2
+neue deutsche härte,0,2,-2
+anatolian rock,0,2,-2
+nu skool breaks,1,3,-2
 fidget house,2,4,-2
-soft visual,0,2,-2
 rawphoric,0,2,-2
-juke,0,2,-2
-nu jazz,14,17,-3
-pop punk,105,108,-3
-eai,10,13,-3
+canción melódica,0,2,-2
+dreampunk,0,2,-2
+sea shanty,0,2,-2
+volkstümliche musik,0,2,-2
+cuddlecore,0,2,-2
+wonky,1,3,-2
+digital cumbia,0,2,-2
+changa tuki,0,2,-2
+soft visual,0,2,-2
+acid rock,29,32,-3
+horror punk,1,4,-3
+memphis rap,2,5,-3
+hard techno,35,38,-3
+classical crossover,34,37,-3
+deathstep,4,7,-3
 footwork jungle,0,3,-3
-cybergrind,4,7,-3
-future bounce,21,24,-3
-freak folk,11,14,-3
-emo rap,47,50,-3
-slushwave,32,35,-3
-comedy rock,38,41,-3
-bubblegum dance,18,21,-3
-emo pop,2,5,-3
-colour bass,23,26,-3
-hypnagogic pop,3,6,-3
-bubblegum pop,13,16,-3
-neo-progressive rock,19,22,-3
-raggacore,21,24,-3
-field recording,7,10,-3
-microfunk,23,26,-3
-pagan folk,3,6,-3
+funktronica,20,23,-3
+emo pop,4,7,-3
+harsh noise,2,5,-3
+euphoric hardstyle,15,18,-3
+reggae-pop,0,3,-3
+oi,10,13,-3
+beat music,4,7,-3
+comedy rock,26,29,-3
+p-funk,1,4,-3
+dansktop,0,3,-3
+underground hip hop,2,5,-3
+full-on,0,3,-3
+microfunk,2,5,-3
 chipmunk soul,0,3,-3
-harsh noise,0,3,-3
-string quartet,1,4,-3
+slushwave,3,6,-3
+classical period,0,3,-3
+estrada,2,5,-3
+jazz house,1,4,-3
+lo-fi house,0,3,-3
+d-beat,1,4,-3
 boogaloo,0,3,-3
+exotica,0,3,-3
 audio documentary,0,3,-3
-hyper techno,2,5,-3
-latin pop,79,83,-4
-hardcore punk,113,117,-4
-deathstep,3,7,-4
-artcore,15,19,-4
-jam band,33,37,-4
-doom metal,136,140,-4
-new romantic,15,19,-4
-deconstructed club,34,38,-4
-merengue,21,25,-4
-post-hardcore,108,112,-4
-hands up,26,30,-4
-avant-garde pop,21,25,-4
-soca,8,12,-4
-ambient trance,9,13,-4
-alpenrock,7,11,-4
-flamenco,11,15,-4
-vaportrap,5,9,-4
-mainstream rock,4,8,-4
-blackened death metal,3,7,-4
-hardvapour,0,4,-4
-dansktop,0,4,-4
+latin pop,65,69,-4
+stutter house,1,5,-4
+nu disco,35,39,-4
+brutal death metal,5,9,-4
+hyper techno,5,9,-4
+industrial hip hop,3,7,-4
 jungle terror,0,4,-4
-power noise,0,4,-4
-stutter house,0,4,-4
-singer-songwriter,146,151,-5
-laiko,16,21,-5
-grindcore,73,78,-5
-kabarett,19,24,-5
-symphonic black metal,3,8,-5
-hard techno,27,32,-5
-progressive folk,14,19,-5
-goa trance,57,62,-5
-drone metal,9,14,-5
-cyberpunk,2,7,-5
-slowcore,8,13,-5
-ytpmv,2,7,-5
-crossover thrash,0,6,-6
-delta blues,2,8,-6
-psybient,6,12,-6
-british rhythm & blues,10,16,-6
-digital hardcore,25,31,-6
-italo house,3,9,-6
-jump up,6,12,-6
-atmospheric drum and bass,88,95,-7
-shoegaze,31,38,-7
-hamburger schule,1,8,-7
-steampunk,1,8,-7
-liedermacher,27,34,-7
-extratone,191,198,-7
-atmospheric black metal,14,21,-7
-ambient techno,140,147,-7
-melodic black metal,10,17,-7
-old school hip hop,4,11,-7
-oi,1,8,-7
-euro-disco,9,16,-7
+vaportrap,7,11,-4
+avant-garde pop,0,4,-4
+flamenco,9,13,-4
+string quartet,0,4,-4
+dungeon synth,7,11,-4
+new beat,0,4,-4
+dembow,7,11,-4
+cape jazz,0,4,-4
+crossover thrash,0,4,-4
+african blues,2,6,-4
+kabarett,0,4,-4
+brass band,14,19,-5
+yakousei,2,7,-5
+schranz,27,32,-5
+baltimore club,14,19,-5
+indian pop,4,9,-5
+mangue beat,2,7,-5
+ska,45,50,-5
+hands up,19,24,-5
+jam band,15,20,-5
+merseybeat,0,5,-5
+old school hip hop,4,9,-5
+c-pop,8,13,-5
+progressive folk,8,13,-5
+raggacore,5,10,-5
+british rhythm & blues,0,5,-5
+ambient pop,62,68,-6
+punk rock,60,66,-6
+avant-garde jazz,15,21,-6
+italo dance,12,18,-6
+future bounce,8,14,-6
+alpenrock,0,6,-6
+experimental electronic,6,12,-6
+dream trance,1,7,-6
+bubblegum dance,7,13,-6
+soca,32,38,-6
+beat bolha,0,6,-6
+bhajan,6,12,-6
+trap latino,8,14,-6
+neo-progressive rock,6,12,-6
+steampunk,1,7,-6
+carnatic classical,0,6,-6
+merengue,10,17,-7
+industrial rock,64,71,-7
+rap metal,3,10,-7
+mandopop,47,54,-7
+bhangra,2,9,-7
+djent,2,9,-7
+spoken word,7,14,-7
+euro-disco,4,11,-7
+speed metal,13,20,-7
+afrobeats,18,25,-7
 romanian popcorn,0,7,-7
-ska,42,50,-8
-balearic beat,16,24,-8
-zeuhl,22,30,-8
+louisiana blues,20,27,-7
+ytpmv,2,9,-7
+canterbury scene,0,8,-8
+baroque pop,28,36,-8
+jazz pop,7,15,-8
+moombahton,26,34,-8
+breakbeat hardcore,6,14,-8
 death industrial,0,8,-8
-french electro,9,17,-8
-moombahcore,6,14,-8
-spoken word,3,11,-8
-bhangra,4,12,-8
-smooth jazz,12,21,-9
-kawaii future bass,81,90,-9
-progressive psytrance,81,90,-9
-country rock,44,53,-9
-coldwave,88,97,-9
-stoner rock,8,17,-9
-progressive pop,2,11,-9
-belgian techno,42,51,-9
-frenchcore,44,53,-9
-horrorcore,11,20,-9
-electronicore,29,38,-9
-indian pop,6,15,-9
-acid techno,226,236,-10
-experimental rock,38,48,-10
-tropical house,27,37,-10
-funktronica,31,41,-10
-neofolk,24,34,-10
-bachata,53,63,-10
-electrotango,0,10,-10
-coke rap,5,15,-10
-footwork,11,22,-11
-trip hop,247,258,-11
-broken beat,21,32,-11
-mandopop,45,56,-11
-hardcore hip hop,30,41,-11
-post-grunge,4,15,-11
-djent,15,27,-12
-uptempo hardcore,18,30,-12
-visual kei,19,31,-12
-blue-eyed soul,33,45,-12
-new jack swing,8,20,-12
-big room house,220,233,-13
-indietronica,72,85,-13
-dutch house,102,115,-13
-hyperpop,285,298,-13
-post-metal,8,21,-13
-art punk,17,30,-13
-easycore,12,25,-13
-acid trance,2,15,-13
-chopped and screwed,0,13,-13
-dixieland,5,18,-13
-west coast hip hop,5,18,-13
-detroit techno,35,49,-14
-symphonic metal,40,54,-14
-experimental hip hop,18,32,-14
-uk hardcore,78,92,-14
-outsider house,50,64,-14
-bounce,8,22,-14
-gothic rock,149,164,-15
-glitch hop,46,61,-15
-barber beats,74,89,-15
-electropop,1085,1101,-16
-happy hardcore,348,364,-16
-christian hip hop,62,78,-16
-grime,194,210,-16
-acid rock,16,32,-16
-speed metal,4,20,-16
-acid house,147,164,-17
-hip house,17,34,-17
-g-house,3,20,-17
-glam metal,21,38,-17
-drone,79,96,-17
+glam,14,22,-8
+rap rock,14,23,-9
+glitch hop,55,64,-9
+detroit techno,7,16,-9
+chamber pop,23,32,-9
+glam metal,0,9,-9
+moombahcore,6,15,-9
+experimental rock,15,25,-10
+visual kei,9,19,-10
+séga,0,10,-10
+avant-garde,242,253,-11
+horrorcore,6,17,-11
+crunk,118,129,-11
+cyber metal,5,16,-11
+big room house,168,180,-12
+field recording,35,47,-12
+christian metal,2,14,-12
+west coast hip hop,6,18,-12
+emo,134,147,-13
+abstract hip hop,50,63,-13
+juke,0,13,-13
+frenchcore,7,20,-13
+cyberpunk,77,90,-13
+ambient trance,3,16,-13
+electronica,308,322,-14
+uk hardcore,104,118,-14
+new orleans r&b,29,43,-14
+progressive,2,16,-14
+drone,86,101,-15
+atmospheric drum and bass,60,75,-15
+g-house,5,20,-15
+melodic house,32,47,-15
+tropical house,21,36,-15
+funk metal,30,45,-15
+afro house,102,118,-16
+goa trance,20,36,-16
+cool jazz,28,44,-16
+gabber,31,48,-17
+dark electro,128,145,-17
 hi-tech,0,17,-17
-euro house,83,101,-18
-funk rock,3,21,-18
-mathcore,25,43,-18
-trap edm,142,161,-19
-instrumental hip hop,22,41,-19
-surf rock,11,30,-19
-ska punk,33,52,-19
-crunk,57,77,-20
-lo-fi hip hop,38,58,-20
-industrial hip hop,61,81,-20
-funky house,17,37,-20
-dance-punk,27,47,-20
-hardwave,5,25,-20
-crunkcore,5,25,-20
-electro swing,33,54,-21
-comedy hip hop,69,90,-21
-industrial metal,301,323,-22
-festival trap,49,71,-22
-future bass,265,287,-22
-future house,19,42,-23
-melodic death metal,65,89,-24
-turntablism,3,29,-26
-moombahton,52,78,-26
-breaks,221,248,-27
-noise rock,48,75,-27
-hardstyle,943,971,-28
-neue deutsche härte,3,31,-28
-dark ambient,201,229,-28
-noise,136,164,-28
-melodic trance,26,54,-28
-g-funk,31,59,-28
-afrobeats,19,48,-29
-wave,6,35,-29
-anarcho-punk,225,256,-31
-post-punk,111,143,-32
-thrash metal,162,194,-32
-leftfield,10,42,-32
-club,249,282,-33
-progressive metal,161,194,-33
-jungle,170,203,-33
-nightcore,2,35,-33
-metalcore,135,170,-35
-french house,28,64,-36
-gabber,130,167,-37
-groove metal,9,48,-39
-jersey club,5,44,-39
-alternative r&b,302,343,-41
-psytrance,701,743,-42
-breakbeat hardcore,34,76,-42
-reggaeton,568,611,-43
-chillout,139,184,-45
-drumstep,42,87,-45
-futurepop,89,134,-45
-dub,208,254,-46
-uk garage,78,124,-46
-electro-industrial,297,344,-47
-christian rock,57,105,-48
-indie folk,71,120,-49
-eurobeat,1565,1617,-52
-gangsta rap,461,513,-52
-chillwave,136,188,-52
-electronica,437,492,-55
-nerdcore,32,87,-55
-rap rock,14,70,-56
-teen pop,76,134,-58
-dream pop,189,247,-58
-pop rock,483,542,-59
-future funk,20,79,-59
-glitch,508,568,-60
-conscious hip hop,147,211,-64
-house,1847,1912,-65
-bass house,366,435,-69
-boom bap,199,269,-70
-pop rap,177,248,-71
-dark electro,238,309,-71
-lolicore,80,151,-71
-electroclash,26,97,-71
-vaporwave,74,146,-72
-punk rock,85,159,-74
-alternative dance,336,412,-76
-aggrotech,537,620,-83
-eurodance,182,265,-83
-east coast hip hop,170,254,-84
-cloud rap,100,184,-84
-mashcore,86,171,-85
-alternative hip hop,87,175,-88
-nu metal,198,289,-91
-big beat,242,334,-92
-industrial rock,101,211,-110
-europop,113,234,-121
-indie rock,1041,1167,-126
-chiptune,308,434,-126
-acid jazz,356,496,-140
-synthwave,369,514,-145
-deep house,1272,1426,-154
-new orleans r&b,181,335,-154
-experimental,362,524,-162
-dance-pop,2172,2336,-164
-sound collage,3,178,-175
-electronic rock,200,397,-197
-indie pop,553,765,-212
-breakbeat,650,925,-275
-breakcore,253,534,-281
-ebm,1629,1940,-311
-progressive house,690,1002,-312
-neue deutsche welle,395,719,-324
-dariacore,14,354,-340
-comedy,368,713,-345
-trance,1355,1798,-443
-edm,1485,1995,-510
-j-pop,3223,3788,-565
-plunderphonics,17,714,-697
-drum and bass,4438,5287,-849
-dubstep,3190,4050,-860
-hip hop,8341,11109,-2768
+kawaii future bass,41,59,-18
+lo-fi hip hop,19,37,-18
+contemporary folk,37,55,-18
+ballad,685,704,-19
+conscious hip hop,142,161,-19
+riddim dubstep,5,24,-19
+deconstructed club,34,54,-20
+hardwave,3,23,-20
+balearic beat,1,22,-21
+uptempo hardcore,11,32,-21
+crunkcore,4,25,-21
+amapiano,1,22,-21
+noise,71,92,-21
+progressive psytrance,20,41,-21
+future bass,197,219,-22
+g-funk,47,70,-23
+acid house,295,318,-23
+non-music,125,148,-23
+anarcho-punk,0,23,-23
+digicore,167,190,-23
+cumbia,71,94,-23
+french house,18,41,-23
+baroque,43,66,-23
+art rock,231,255,-24
+reggaeton,553,577,-24
+bassline,171,195,-24
+acid techno,94,118,-24
+dark ambient,244,268,-24
+singer-songwriter,59,83,-24
+turntablism,1,25,-24
+uk garage,51,76,-25
+dutch house,65,90,-25
+euro house,83,108,-25
+americana,135,160,-25
+wave,4,29,-25
+footwork,9,34,-25
+cloud rap,134,160,-26
+rockabilly,79,105,-26
+aor,37,63,-26
+festival trap,16,42,-26
+orchestral,36,63,-27
+instrumental hip hop,25,52,-27
+funky house,37,64,-27
+comedy hip hop,19,46,-27
+future house,19,47,-28
+chopped and screwed,3,31,-28
+christian hip hop,54,83,-29
+cantopop,116,145,-29
+country rock,65,94,-29
+electro swing,29,58,-29
+alternative dance,200,231,-31
+sketch comedy,0,32,-32
+coldwave,91,124,-33
+pop punk,102,135,-33
+drumstep,42,75,-33
+jungle,145,180,-35
+black metal,266,302,-36
+progressive trance,198,234,-36
+melodic trance,27,63,-36
+jersey club,5,42,-37
+psytrance,355,394,-39
+teen pop,21,60,-39
+trap edm,82,122,-40
+leftfield,14,54,-40
+east coast hip hop,131,172,-41
+indie folk,33,74,-41
+nerdcore,53,96,-43
+electroclash,18,65,-47
+broken beat,194,242,-48
+future funk,23,71,-48
+dream pop,140,190,-50
+chillwave,179,230,-51
+acid jazz,326,379,-53
+dub techno,292,346,-54
+bounce,21,75,-54
+pop rock,660,716,-56
+dub,424,481,-57
+europop,187,248,-61
+alternative r&b,246,309,-63
+gangsta rap,439,504,-65
+outsider house,1,66,-65
+hardstyle,685,752,-67
+asmr,1,70,-69
+vaporwave,52,123,-71
+bass house,292,367,-75
+happy hardcore,151,227,-76
+club,287,365,-78
+nightcore,5,89,-84
+electronic rock,22,109,-87
+lolicore,39,127,-88
+alternative hip hop,109,199,-90
+chiptune,689,784,-95
+idol kayō,96,195,-99
+synthwave,128,237,-109
+chillout,187,296,-109
+dance-pop,1998,2109,-111
+electro house,1433,1545,-112
+mashcore,21,150,-129
+big beat,372,516,-144
+extratone,52,200,-148
+boom bap,223,404,-181
+sound collage,4,207,-203
+trance,963,1246,-283
+downtempo,2025,2316,-291
+barber beats,111,405,-294
+progressive house,635,941,-306
+noisecore,0,344,-344
+dariacore,17,377,-360
+breaks,751,1179,-428
+plunderphonics,10,491,-481
+breakcore,564,1117,-553
+comedy,322,901,-579
+ambient,5622,6222,-600
+deep house,2320,2949,-629
+electro,2809,3448,-639
+ebm,2242,2966,-724
+edm,957,1715,-758
+drum and bass,2697,3690,-993
+breakbeat,1269,2272,-1003
+dance,4719,5829,-1110
+experimental,620,1741,-1121
+dubstep,3387,4598,-1211
+hip hop,9516,12130,-2614
+electronic,34679,37832,-3153
