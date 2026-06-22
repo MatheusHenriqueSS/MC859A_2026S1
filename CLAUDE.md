@@ -37,18 +37,23 @@ creation, **algorithm pseudocode**, results, and discoveries. Final grade weight
 - **Spotify ✗** — genres deprecated, popularity/genres stripped under app auth.
 - **Discogs ✗ for sampling** — verified by streaming the real 10.3 GB dump: no
   structured sample edges (only free-text credit roles); rich styles but no MBIDs.
-- **Genius ✓ (Brazil)** — free API exposes sample/cover/interpolation edges.
-  400-track BR probe: 80.5% matched, 320 edges → **~1,144 extrapolated** for all
-  1,430 BR tracks (vs MB's 766 within-BR); adds interpolations + international reuse
-  MB lacks. **Proprietary → cite as case study, don't redistribute raw; MusicBrainz
-  stays the CC0 backbone.**
+- **Genius ✓ (Brazil) — FULL RUN DONE (2026-06-21):** all 1,430 BR tracks pulled
+  via `src/exploration/genius_brazil_full.py` (resumable, match-verified). 1,135
+  matched (79.4%), **709 verified → 1,459 verified derivation edges** (vs MB's ~1,130
+  touching BR). Adds **193 interpolations** (MB has none) + the modern BR scene MB
+  misses. Outputs in **gitignored `private/`** (cite-only). **Proprietary → cite as
+  case study, don't redistribute raw; MusicBrainz stays the CC0 backbone.**
 
-**Next:**
-1. *(optional)* full 1,430-track Genius BR case study (match-verified) → small
-   cited subgraph + clean numbers (~15-20 min): `src/exploration/genius_brazil.py`.
-2. **Phase 4 — F2 report** (graded 50%): LaTeX, PT-BR, in `/home/mathe/graph/`
-   (F1 format). Analysis complete; pull numbers from `analysis_output/*_summary.json`
-   and the "Key numbers" below.
+**Brazil targeted study — DONE & committed (`2be509d`):** `src/analyze_brazil.py`
+drills the country pillar down to track/artist level → `analysis_output/br_*.{csv,txt}`,
+`brazil_summary.json`, `br_subgraph.graphml.gz`. CC0 part committed; Genius part in
+`private/` (`genius_brazil_summary.json`, `genius_br_most_reused.txt`,
+`genius_br_top_samples.txt`, `genius_brazil_edges.csv`, `genius_brazil_subgraph.graphml`).
+
+**Next — Phase 4: write the F2 report** (graded 50%): LaTeX, PT-BR, in
+`/home/mathe/graph/` (F1 format, ≤15pp). All analysis is complete; pull numbers from
+`analysis_output/*_summary.json` + the "Key numbers" below. Brazil = a strong
+case-study section with the **MB(CC0) vs Genius data-availability** angle as headline.
 
 **Key numbers (so they're not re-derived):**
 - track: 321,738 n / 222,696 e; ~DAG (max SCC 3); largest WCC 36,297 (11.3%).
@@ -66,6 +71,15 @@ creation, **algorithm pseudocode**, results, and discoveries. Final grade weight
 - genre: homophily 8.13×; net sources funk/soul/jazz/disco; importers
   electronic/hip hop; hip hop→funk/soul corridor reproduces sampling history.
 - Brazil: 1,430 BR-artist tracks (0.44%), 227 BR-genre (mostly bossa nova).
+- Brazil deep-dive (CC0): 766 internal BR↔BR + 364 cross-border edges; internal net
+  is fragmented (largest cluster 18). BR reuses the US funk canon (Lyn Collins "Think"
+  8×, James Brown). MB captures only Anglophone-famous BR reuse abroad (Deodato→Biggie,
+  Jobim→Black Eyed Peas, Bonfá→Gotye).
+- Brazil (Genius case study): most reused BR sources by sample+interp (remixes excluded)
+  = Barbatuques "Baianá" 60, MC Fioti "Bum Bum Tam Tam" 36, Tim Maia "Ela Partiu" 17,
+  Rodrigo Amarante "Tuyo" (Narcos) 15, Racionais MC's, Arthur Verocai, Sérgio Mendes.
+  BR most samples/interpolates: Bach BWV 1013 (10), Paganini, Sugarhill Gang, Getz/Gilberto
+  "Girl from Ipanema", Can "Vitamin C", The Winstons "Amen Brother". 1,459 verified edges.
 
 **Security:** Spotify + Genius secrets were shared in chat (never written to repo
 files — passed via env only); **rotate them**. The CC0 pipeline needs no secrets.
