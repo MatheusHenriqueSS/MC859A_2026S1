@@ -1,0 +1,82 @@
+brazilian_source  foreign_derivative  deriver_country  relation  weight
+----------------------------------------------------------------------
+Eumir Deodato — Skatin' (1980) [Brazil]  The Notorious B.I.G. — Nasty Girl (2005) [United States]  United States  sample  1
+Mental Broadcast — Receiver (2011) [Brazil]  Sonic Species — Receiver (Killerwatts remix) (2014) [United Kingdom]  United Kingdom  remix  1
+Arthur Verocai — Seriado (1972) [Brazil]  Metal Fingers — Passion Flower (2005) [United States]  United States  sample  1
+Luiz Henrique — Listen to Me (2008) [Brazil]  Jazzanova — Another New Day (Stereolab mix by Tim Gane) (2003) [Germany]  Germany  sample  1
+Barbatuques — Baianá (2005) [Brazil]  Nia Archives — Baianá (2022) [(unknown)]  (unknown)  sample  1
+Luiz Bonfá — Seville (1968) [Brazil]  Gotye — Somebody That I Used to Know (2011) [Australia]  Australia  sample  1
+Antônio Carlos Jobim — Insensatez (How Insensitive) (1963) [Brazil]  Black Eyed Peas — Sexy (2003) [United States]  United States  sample  1
+Eumir Deodato — Nights in White Satin (1973) [Brazil]  Prefuse 73 — Last Night (2001) [United States]  United States  sample  1
+Barão Vermelho — Maior abandonado (1984) [Brazil]  MDS Music — Maior Abandonado (1998) [(unknown)]  (unknown)  remix  1
+Gutterpink — NoLoveWorld (2021) [Brazil]  MabelSama — Who Are You? – Breakcore Mix to Dissociate (2024) [(unknown)]  (unknown)  dj_mix  1
+Nana Caymmi — Tens (Calmaria) (1975) [Brazil]  Nujabes — Luv (sic.), Part 3 (2005) [Japan]  Japan  sample  1
+Moonsailor — Dot's Rebirth (CHIPSTYLE) (2020) [Brazil]  Jazzy Bits — Dot's Rebirth (2020) [(unknown)]  (unknown)  edit  1
+Moonsailor — Tapyoka Plains (2020) [Brazil]  Jazzy Bits — Tapyoka Plains (2020) [(unknown)]  (unknown)  edit  1
+Amon Tobin — Nova (1998) [Brazil]  Mounika. — LovaNova (2016) [(unknown)]  (unknown)  sample  1
+Luiz Henrique — Listen to Me (2008) [Brazil]  Jazzanova — Another New Day (Moonstarr mix) (2003) [Germany]  Germany  sample  1
+Triple Discharge — Mystery (2019) [Brazil]  Recovering Hikikomori — Brazilian Lightning (2019) [United States]  United States  sample  1
+Barão Vermelho — Pro dia nascer feliz (1983) [Brazil]  Hitmakers Music — Pro dia nascer feliz (1998) [(unknown)]  (unknown)  remix  1
+DJ Marky — LK (radio edit) (2002) [Brazil]  Various Artists — Old Skool (Continuous mix 3) (2016) [(unknown)]  (unknown)  dj_mix  1
+Flict — Orientation (2013) [Brazil]  Various Artists — Hypnochill 37 - Sky Chill (2013) [(unknown)]  (unknown)  dj_mix  1
+Amon Tobin — Nova (1998) [Brazil]  Chris Morris — 1999-02-05: Blue Jam, Series 3, #3, "oo costrinsi welcome" (1999) [United Kingdom]  United Kingdom  dj_mix  1
+Eumir Deodato — September 13 (1973) [Brazil]  Camp Lo — Park Joint (1997) [United States]  United States  sample  1
+Airto Moreira — Celebration Suite (1977) [Brazil]  Bellini — Samba de Janeiro (1996) [Germany]  Germany  sample  1
+Otto — Bob (1998) [Brazil]  Otto Max — Bob (Edu K remix) (2002) [(unknown)]  (unknown)  remix  1
+Clara Nunes — Sabiá (-1) [Brazil]  RIP SLYME — 熱帯夜 (2007) [Japan]  Japan  sample  1
+Paulinho da Costa — Love Till the End of Time (1979) [Brazil]  Black Eyed Peas — Joints & Jam (1998) [United States]  United States  sample  1
+Antonio Pinto — Estória da Boca (2002) [Brazil]  Will Smith — Ms. Holy Roller (2005) [United States]  United States  sample  1
+O Mandrake — Aquecimento das danadas (2020) [Brazil]  Beyoncé — SPAGHETTII (2024) [United States]  United States  sample  1
+Os Cariocas — Cartão de visitas (1963) [Brazil]  Zadig the Jasp — Cartão de Visita (2022) [France]  France  remix  1
+Zimbo Trio — Barquinho diferente (1964) [Brazil]  Roni Size — It’s Jazzy (1997) [United Kingdom]  United Kingdom  sample  1
+Marcos Valle — Bôdas de sangue (2001) [Brazil]  Ye — New God Flow.1 (2012) [United States]  United States  sample  1
+Amon Tobin — Foley Room (2007) [Brazil]  King Cannibal — Bass Bins Through Broken Glass (2010) [United Kingdom]  United Kingdom  mashup  1
+Amon Tobin — Big Furry Head (2007) [Brazil]  King Cannibal — Bass Bins Through Broken Glass (2010) [United Kingdom]  United Kingdom  mashup  1
+Amon Tobin — Kitchen Sink (2007) [Brazil]  King Cannibal — Bass Bins Through Broken Glass (2010) [United Kingdom]  United Kingdom  mashup  1
+Amon Tobin — Kitchen Sink (Boxcutter remix) (2007) [Brazil]  King Cannibal — Bass Bins Through Broken Glass (2010) [United Kingdom]  United Kingdom  mashup  1
+Felguk — Jack It (2011) [Brazil]  DJ Schmolli — Safe And Dead Man Jack (Felguk vs. Capital Cities) (2016) [(unknown)]  (unknown)  mashup  1
+Felguk — Dead Man Swag (2013) [Brazil]  DJ Schmolli — Safe And Dead Man Jack (Felguk vs. Capital Cities) (2016) [(unknown)]  (unknown)  mashup  1
+Antônio Carlos Jobim — Favela (1989) [Brazil]  Poperetta — Footprints in the Sand (2000) [(unknown)]  (unknown)  sample  1
+Trotter — Six to Fix (2013) [Brazil]  Quincy Jointz — Lime Sorbet, Vol. 3 (Mixed by Quincy Jointz) (2013) [(unknown)]  (unknown)  dj_mix  1
+Cazuza — Ideologia (1988) [Brazil]  Cuca For Cool Cut Productions — Ideologia (1998) [(unknown)]  (unknown)  remix  1
+Laurindo Almeida — The Lamp Is Low (1969) [Brazil]  Nujabes — aruarian dance (2004) [Japan]  Japan  sample  1
+Barão Vermelho — Bete balanço (1984) [Brazil]  Hitmakers Music — Bete Balanço (1998) [(unknown)]  (unknown)  remix  1
+VIRTUAL PLEASURE — ゴールデンナゲット (2022) [Brazil]  earthm🌎vers — side b (2024) [(unknown)]  (unknown)  dj_mix  1
+Thy Light — No Morrow Shall Dawn (2017) [Brazil]  Professional Hairdresser — Forever Disintergrating (2024) [(unknown)]  (unknown)  sample  1
+Rauppwar — MAGAZINE (Original Track) (2023) [Brazil]  16bard — MAGAZINE × #600e2d (2023) [United States]  United States  mashup  1
+Amon Tobin — Verbal (Prefuse 73 Dipped Escalade mix) (2003) [Brazil]  King Cannibal — Big Tunes. Big Hits (2010) [United Kingdom]  United Kingdom  mashup  1
+Moonsailor — Underwater Predicament (2020) [Brazil]  Jazzy Bits — Underwater Predicament (2020) [(unknown)]  (unknown)  edit  1
+Barbatuques — Baianá (2005) [Brazil]  Nia Archives — Baiana (Maxxumus bootleg) (2022) [(unknown)]  (unknown)  sample  1
+Ana Carolina — Problema Social (2005) [Brazil]  Xullaji — Problema social (2011) [Portugal]  Portugal  sample  1
+Deize Tigrona — Injeção (2004) [Brazil]  M.I.A. — Bucky Done Gun (2005) [(unknown)]  (unknown)  sample  1
+Speed Freaks — Out of Control (1997) [Brazil]  Professional Hairdresser — Nothing Matters and Death Holds No Meaning (2024) [(unknown)]  (unknown)  sample  1
+Antonio Pinto — Central do Brasil (1998) [Brazil]  Metal Fingers — Coltsfoot Leaf (2005) [United States]  United States  sample  1
+Elza Soares — Mas que nada (2004) [Brazil]  Suonho — Mas Que Nada (Suonho Shuffle Rhythm Renumber) (2012) [Italy]  Italy  remix  1
+Marginal Men — Footworkzzzz (2016) [Brazil]  Anna Morgan — Pre-Outlook Mix (2016) [United States]  United States  dj_mix  1
+Moonsailor — Cloudpost Zone (Rad Raccoon Theme) (2020) [Brazil]  Jazzy Bits — Cloudpost Zone (2020) [(unknown)]  (unknown)  edit  1
+Cazuza — Exagerado (1985) [Brazil]  MDS Music — Exagerado (1998) [(unknown)]  (unknown)  remix  1
+Milton Nascimento — Cais (1972) [Brazil]  nakinyko — Mata Ashita (2019) [(unknown)]  (unknown)  mashup  1
+Emílio Santiago — O Amigo de Nova York (1983) [Brazil]  Bernardo Pinheiro — Meu Amigo de Nova York (Bernardo Pinheiro Edit) (2020) [(unknown)]  (unknown)  remix  1
+Leila Pinheiro — Tudo em cima (1983) [Brazil]  Bernardo Pinheiro — Tudo em Cima (Bernardo Pinheiro Edit) (2020) [(unknown)]  (unknown)  remix  1
+Gilberto Gil — To Sao Paulo With Love (Jean Claude Gavri re-edit) (2013) [Brazil]  iloveyoueze — playing funk + disco for the uncs at the family function (2025) [(unknown)]  (unknown)  dj_mix  1
+Tati Quebra Barraco — Satisfação (2004) [Brazil]  MashmyAs$ — I Can’t Get Satisfação (The Rolling Stones vs. Tati Quebra-Barraco) (2011) [(unknown)]  (unknown)  mashup  1
+Fafá de Belém — Naturalmente (1975) [Brazil]  Bernardo Pinheiro — Naturalmente (Bernardo Pinheiro Edit) (2020) [(unknown)]  (unknown)  remix  1
+Milton Nascimento — Francisco (1976) [Brazil]  J. Cole — God’s Gift (2011) [United States]  United States  sample  1
+Cazuza — Exagerado (1985) [Brazil]  Rock House Studio — Exagerado (1998) [(unknown)]  (unknown)  remix  1
+Alok — Deep Down (2022) [Brazil]  [unknown] — Pop Dance (2022) [(unknown)]  (unknown)  dj_mix  1
+Jorge Ben Jor — Chove, chuva (1963) [Brazil]  Aether — Orfeu Negro (2008) [United States]  United States  sample  1
+Sérgio Mendes — Samba da Bênção (Samba of the Blessing) (2006) [Brazil]  nakinyko — NO, Thankulate Daikazoku (2010) [(unknown)]  (unknown)  mashup  1
+Caetano Veloso — Tonada de luna llena (2003) [Brazil]  Nelly Furtado — Island of Wonder (2003) [Canada]  Canada  sample  1
+Marcos Valle — A Paraíba não é Chicago (1981) [Brazil]  Bernardo Pinheiro — A Paraíba Não é Chicago (Bernardo Pinheiro Edit) (2020) [(unknown)]  (unknown)  remix  1
+Otto — Bob (1998) [Brazil]  Otto Max — Bob (Edu K remix) (2001) [(unknown)]  (unknown)  remix  1
+MC Pogba — Ela Joga na Hora (2025) [Brazil]  1tbsp — Elevator Music (2025) [(unknown)]  (unknown)  dj_mix  1
+Astrud Gilberto — Agua de beber (Water to Drink) (1965) [Brazil]  saib. — Agua (2019) [(unknown)]  (unknown)  remix  1
+Eumir Deodato — Rhapsody in Blue (1973) [Brazil]  Del the Funky Homosapien — Catch a Bad One (1993) [United States]  United States  sample  1
+Mental Broadcast — Receiver (2011) [Brazil]  Sonic Species — Receiver (Faders remix) (2014) [United Kingdom]  United Kingdom  remix  1
+hummingdeath — 𝘢 𝘮𝘦𝘴𝘴 𝘵𝘰 𝘣𝘦 𝘣𝘶𝘳𝘪𝘦𝘥 𝘸𝘪𝘵𝘩 (2021) [Brazil]  Ｓｐａｔｉａｌ Ｍａｎｕｆａｃｔｕｒｅ Ｌｔｄ. — trendwhore (2021) [United States]  United States  dj_mix  1
+Jorge Ben Jor — Cinco minutos (5 minutos) (1974) [Brazil]  Black Eyed Peas — Positivity (1998) [United States]  United States  sample  1
+Amon Tobin — Kitchen Sink (Boxcutter remix) (2007) [Brazil]  King Cannibal — Darkness Creeps but the Nightmare Crawls (2010) [United Kingdom]  United Kingdom  mashup  1
+Eumir Deodato — Also sprach Zarathustra (2000) [Brazil]  Fun Lovin’ Criminals — King of New York (1996) [United States]  United States  sample  1
+Cazuza — Faz parte do meu show (1988) [Brazil]  Hitmakers Music — Faz Parte Do Meu Show (1998) [(unknown)]  (unknown)  remix  1
+Sepultura — Lookaway (1996) [Brazil]  Tricil — Conserve & Destroy (2004) [(unknown)]  (unknown)  sample  1
+CSS — Music Is My Hot Hot Sex (2005) [Brazil]  Super Mash Bros. — Stop That Booty (Here We Come) (2008) [(unknown)]  (unknown)  sample  1

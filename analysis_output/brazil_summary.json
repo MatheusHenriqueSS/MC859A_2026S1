@@ -1,0 +1,111 @@
+{
+  "brazilian_recordings": 1430,
+  "edges_brazil_samples_others": 939,
+  "edges_brazil_sampled_by_others": 957,
+  "internal_br_br_edges": 766,
+  "cross_border_out_edges": 173,
+  "cross_border_in_edges": 191,
+  "samples_from_country_top": [
+    [
+      "Brazil",
+      770
+    ],
+    [
+      "United States",
+      61
+    ],
+    [
+      "(unknown)",
+      34
+    ],
+    [
+      "United Kingdom",
+      32
+    ],
+    [
+      "Canada",
+      18
+    ],
+    [
+      "Japan",
+      8
+    ],
+    [
+      "France",
+      4
+    ],
+    [
+      "Germany",
+      4
+    ]
+  ],
+  "sampled_by_country_top": [
+    [
+      "Brazil",
+      770
+    ],
+    [
+      "(unknown)",
+      88
+    ],
+    [
+      "United States",
+      43
+    ],
+    [
+      "United Kingdom",
+      28
+    ],
+    [
+      "Germany",
+      5
+    ],
+    [
+      "Japan",
+      5
+    ],
+    [
+      "France",
+      5
+    ],
+    [
+      "Italy",
+      4
+    ]
+  ],
+  "edge_type_mix_when_brazil_samples": {
+    "remix": 627,
+    "sample": 101,
+    "dj_mix": 92,
+    "edit": 86,
+    "mashup": 37
+  },
+  "edge_type_mix_when_brazil_is_sampled": {
+    "remix": 633,
+    "sample": 121,
+    "edit": 86,
+    "dj_mix": 75,
+    "mashup": 46
+  },
+  "internal_edge_type_mix": {
+    "remix": 598,
+    "edit": 78,
+    "dj_mix": 47,
+    "sample": 36,
+    "mashup": 11
+  },
+  "internal_subgraph": {
+    "nodes": 1201,
+    "edges": 766,
+    "weakly_connected_components": 439,
+    "largest_wcc": 18,
+    "strongly_connected_components_gt1": 0,
+    "largest_scc": 1
+  },
+  "temporal": {
+    "lag_when_brazil_samples_median_yr": 0.0,
+    "lag_when_brazil_samples_n": 948,
+    "lag_until_brazil_source_reused_median_yr": 1,
+    "lag_until_brazil_source_reused_n": 961
+  }
+}

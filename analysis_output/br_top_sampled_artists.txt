@@ -1,0 +1,52 @@
+brazilian_artist  times_sampled_total  by_brazil  by_foreign
+----------------------------------------------------------------------
+Amon Tobin  44  27  17
+Vintage Culture  43  43  0
+Bebel Gilberto  30  30  0
+Alok  28  22  6
+GUSTAVOEGATOTV  27  27  0
+Felguk  23  19  4
+Cement Tea  20  19  1
+Aesthetische  20  20  0
+Rouge  17  17  0
+Tiago Frúgoli Ensemble  16  16  0
+Azymuth  15  14  1
+Otto  14  12  2
+Darth & Vader  13  13  0
+Aghast View  12  12  0
+MC Fioti  12  12  0
+Jaloo  11  11  0
+Flavia Coelho  11  11  0
+Öwnboss  11  11  0
+Gilberto Gil  10  7  3
+Future Frog  10  10  0
+Wanessa Camargo  10  10  0
+FTampa  10  10  0
+Cazuza  9  0  9
+Eumir Deodato  9  1  8
+Léo Leobons  9  9  0
+Digitaria  9  9  0
+Alibi  9  9  0
+Gusttavo Lima  8  8  0
+Zerb  8  8  0
+Barbatuques  7  2  5
+Sérgio Mendes & Brasil ’66  7  5  2
+Racionais MC’s  7  6  1
+Burn in Noise  7  6  1
+Anitta  7  6  1
+HNQO  7  7  0
+Tiago Iorc  7  7  0
+Giuliano Rodrigues  7  7  0
+Sérgio Mendes  6  2  4
+Urbandawn  6  5  1
+Elowinz  6  6  0
+G-Low  6  6  0
+Lorena Simpson  6  6  0
+Level 2  6  6  0
+DJ Chap  6  6  0
+Gui Boratto  6  6  0
+Barão Vermelho  5  0  5
+Moonsailor  5  0  5
+Astrud Gilberto  5  1  4
+hummingdeath  5  4  1
+Chico Science  5  5  0

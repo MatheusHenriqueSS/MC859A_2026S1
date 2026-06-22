@@ -6,3 +6,6 @@ venv/
 # graphs are committed as gzipped GraphML (*.graphml.gz); never the raw .graphml
 graph_output/*.graphml
 analysis_output/*.graphml
+
+# proprietary Genius case-study outputs — cite-only, never redistribute raw edges
+private/
