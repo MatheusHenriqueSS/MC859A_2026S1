@@ -1,0 +1,86 @@
+{
+  "artist": {
+    "nodes_total": 47286,
+    "backbone_interconnected": 23582,
+    "periphery_core_le1": 16726,
+    "periphery_pct": 70.9,
+    "degeneracy": 14,
+    "max_core_size": 136,
+    "max_core_pct_of_backbone": 0.58,
+    "giant_component": 18464,
+    "communities_spanned_by_core": 13,
+    "core_community_distribution": [
+      [
+        "20",
+        51,
+        "Lady Gaga"
+      ],
+      [
+        "7",
+        20,
+        "JAY‐Z"
+      ],
+      [
+        "5",
+        16,
+        "The Beatles"
+      ],
+      [
+        "2",
+        16,
+        "James Brown"
+      ],
+      [
+        "1",
+        9,
+        "PSY"
+      ],
+      [
+        "22",
+        8,
+        "Daft Punk"
+      ],
+      [
+        "37",
+        6,
+        "Nine Inch Nails"
+      ],
+      [
+        "6",
+        5,
+        "?"
+      ],
+      [
+        "17",
+        1,
+        "?"
+      ],
+      [
+        "19",
+        1,
+        "?"
+      ],
+      [
+        "14",
+        1,
+        "100 gecs"
+      ],
+      [
+        "9",
+        1,
+        "Toby Fox"
+      ],
+      [
+        "24",
+        1,
+        "Barry Manilow"
+      ]
+    ]
+  },
+  "track": {
+    "backbone_interconnected": 321738,
+    "degeneracy": 8,
+    "max_core_size": 16,
+    "periphery_pct": 96.0
+  }
+}
